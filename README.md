@@ -3,8 +3,8 @@ Large Language Model-based System for Optimizing Competitive Pokémon Teams
 
 # Membres du groupe
 
-Rida ASRI
-Loric GROS
+Rida ASRI/n
+Loric GROS/n
 Mathys SAMBET
 
 ## Description
