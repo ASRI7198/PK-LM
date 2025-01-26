@@ -5,12 +5,12 @@ from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 app = Flask(__name__)
 
-# 📌 Charger le modèle GPT-2 fine-tuné
-MODEL_PATH = "fine_tuned_gpt2-3"  # Mets ici le chemin de ton modèle
+# Charger le modèle GPT-2 fine-tuné
+MODEL_PATH = "fine_tuned_gpt2-3"
 tokenizer = GPT2Tokenizer.from_pretrained(MODEL_PATH)
 model = GPT2LMHeadModel.from_pretrained(MODEL_PATH)
 
-# 📌 Charger les détails des Pokémon depuis un fichier
+# Charger les détails des Pokémon depuis un fichier
 def load_pokemon_details(file_path="pokemon_data_cleaned.txt"):
     pokemon_data = {}
     try:
@@ -34,12 +34,11 @@ def load_pokemon_details(file_path="pokemon_data_cleaned.txt"):
 
 pokemon_details = load_pokemon_details()
 
-# 📌 Fonction pour générer une équipe Pokémon
+# Fonction pour générer une équipe Pokémon
 def generate_team(prompt="Donne-moi une équipe format UU:", max_length=100):
     # Supprimer tous les ":" dans le prompt sauf celui à la fin
     if ":" in prompt:
-        # Retirer tous les ":" sauf celui à la fin
-        prompt = re.sub(r":(?!$)", "", prompt)  # On remplace tous les ":" sauf celui à la fin
+        prompt = re.sub(r":(?!$)", "", prompt)
     
     # Ajouter un ":" à la fin si ce n'est pas déjà le cas
     if not prompt.endswith(":"):
@@ -69,7 +68,7 @@ def generate_team(prompt="Donne-moi une équipe format UU:", max_length=100):
     return pokemons[:6]
 
 
-# 📌 Route API pour générer une équipe
+# Route API pour générer une équipe
 @app.route("/generate", methods=["POST"])
 def generate_team_with_details():
     data = request.json
@@ -80,17 +79,17 @@ def generate_team_with_details():
 
     return jsonify({"team": team, "details": team_details})
 
-# 📌 Route pour récupérer les détails d’un Pokémon
+# Route pour récupérer les détails d’un Pokémon
 @app.route("/pokemon/<pokemon_name>", methods=["GET"])
 def get_pokemon_details(pokemon_name):
     details = pokemon_details.get(pokemon_name, "Aucun détail trouvé.")
     return jsonify({"name": pokemon_name, "details": details})
 
-# 📌 Route pour servir le fichier HTML
+# Route pour servir le fichier HTML
 @app.route("/")
 def serve_html():
     return send_from_directory(".", "index.html")
 
-# 📌 Démarrer le serveur Flask
+# Démarrer le serveur Flask
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
