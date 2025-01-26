@@ -10,7 +10,7 @@ Loric GROS
 Mathys SAMBET
 
 ## Description
-PK-LM est un projet visant à développer un système basé sur des grands modèles de langage (LLMs), comme LLaMA 2, pour optimiser les équipes de Pokémon en fonction des préférences des utilisateurs et des tendances du métagame. Ce projet vise à simplifier le processus de construction d'équipes pour les joueurs, tout en offrant des recommandations stratégiques avancées.
+PK-LM est un projet visant à développer un système basé sur des grands modèles de langage (LLMs), comme GPT-2, pour optimiser les équipes de Pokémon en fonction des préférences des utilisateurs et des tendances du métagame. Ce projet vise à simplifier le processus de construction d'équipes pour les joueurs, tout en offrant des recommandations stratégiques avancées.
 
 ## Contexte
 L'optimisation dans les batailles Pokémon compétitives est souvent complexe et chronophage. Les outils actuels, tels que les bases de données statiques comme [Smogon](https://www.smogon.com), manquent de flexibilité pour intégrer les préférences des joueurs ou pour proposer des équipes adaptées aux stratégies personnelles. PK-LM vise à combler cette lacune en utilisant la puissance des LLMs pour générer des équipes optimales de manière dynamique.
@@ -37,11 +37,11 @@ L'optimisation dans les batailles Pokémon compétitives est souvent complexe et
 
 ### WP 2 : Collecte et préparation des données
 - **Tâche 2.1** : Collecter des données sur les équipes et stratégies Pokémon.
-- **Tâche 2.2** : Préparer les données pour l'entraînement de LLaMA 2.
+- **Tâche 2.2** : Préparer les données pour l'entraînement de GPT-2.
 - **Tâche 2.3** : Nettoyer et traiter les jeux de données.
 
 ### WP 3 : Développement et ajustement des LLMs
-- **Tâche 3.1** : Ajuster LLaMA 2 pour la génération d'équipes Pokémon.
+- **Tâche 3.1** : Ajuster GPT-2 pour la génération d'équipes Pokémon.
 - **Tâche 3.2** : Développer des algorithmes d'optimisation pour les équipes.
 - **Tâche 3.3** : Tester les performances du modèle et ajuster.
 
