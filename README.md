@@ -61,6 +61,9 @@ L'optimisation dans les batailles Pokémon compétitives est souvent complexe et
 # Application
 Pour lancer l'application il faut télécharger le fine tune du llm sur ce lien drive : https://drive.google.com/drive/folders/1FmU-AZMbrtgC_lMqhotP5BX6NxUEuDh-?usp=sharing . Placer le ensuite dans le dossier application, puis lancer config.py avec la commande "python config.py" dans un cmd pour installer les dépendances et cela lancera aussi automatiquement le server flask. Aller ensuite sur l'adresse suivante 127.0.0.1:5000 pour ouvrir l'application
 
+# Vidéo de démo
+https://www.youtube.com/watch?v=zF1OlbevJMk
+
 ## Références
 - [Smogon](https://www.smogon.com)
 - [Pokémon Showdown](https://pokemonshowdown.com)
