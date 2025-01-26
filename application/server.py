@@ -11,7 +11,7 @@ tokenizer = GPT2Tokenizer.from_pretrained(MODEL_PATH)
 model = GPT2LMHeadModel.from_pretrained(MODEL_PATH)
 
 # Charger les détails des Pokémon depuis un fichier
-def load_pokemon_details(file_path="pokemon_data_cleaned.txt"):
+def load_pokemon_details(file_path="pokemon_strategies.txt"):
     pokemon_data = {}
     try:
         with open(file_path, "r", encoding="utf-8") as file:
@@ -22,10 +22,8 @@ def load_pokemon_details(file_path="pokemon_data_cleaned.txt"):
             if not lines:
                 continue
 
-            match = re.match(r"Pokémon:\s*(.+)", lines[0])
-            if match:
-                pokemon_name = match.group(1).strip()
-                pokemon_data[pokemon_name] = "\n".join(lines[1:])
+            pokemon_name = lines[0].split("@")[0].strip()  # Prendre le nom avant le @
+            pokemon_data[pokemon_name] = "\n".join(lines[0:])
 
     except FileNotFoundError:
         print(f"Erreur : Le fichier {file_path} est introuvable.")
@@ -63,7 +61,7 @@ def generate_team(prompt="Donne-moi une équipe format UU:", max_length=100):
     pokemons = re.findall(r"\b[A-Za-z-]+\b", pokemon_part)
 
     while len(pokemons) < 6:
-        pokemons.append("Pikachu")  
+        pokemons.append("Pikachu")  # Compléter avec Pikachu si l'équipe est incomplète
 
     return pokemons[:6]
 
@@ -75,6 +73,7 @@ def generate_team_with_details():
     prompt = data.get("prompt", "Donne-moi une équipe format UU:")
     team = generate_team(prompt)
 
+    # Extraire les détails de chaque Pokémon de l'équipe générée
     team_details = {pokemon: pokemon_details.get(pokemon, "Aucun détail trouvé.") for pokemon in team}
 
     return jsonify({"team": team, "details": team_details})
