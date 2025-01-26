@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Team Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        textarea {
+            width: 100%;
+            height: 80px;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        button {
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 5px;
+            background-color: #4CAF50;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+        }
+        #result, #details {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e9e9e9;
+            border-radius: 5px;
+        }
+        .pokemon {
+            font-weight: bold;
+            cursor: pointer;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Générateur d'équipe Pokémon</h1>
+    <textarea id="userInput" placeholder="Écrivez votre prompt ici..."></textarea>
+    <button onclick="generateTeam()">Générer une équipe</button>
+    <div id="result"></div>
+    <div id="details" style="display: none;"></div>
+</div>
+
+<script>
+    async function generateTeam() {
+        const userInput = document.getElementById("userInput").value;
+        if (!userInput.trim()) {
+            alert("Veuillez entrer un prompt !");
+            return;
+        }
+
+        document.getElementById("result").innerHTML = "<p>Génération en cours...</p>";
+        document.getElementById("details").style.display = "none";
+
+        try {
+            const response = await fetch("http://127.0.0.1:5000/generate", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ prompt: userInput })
+            });
+
+            const data = await response.json();
+            const team = data.team;
+
+            let resultHTML = "<h2>Équipe générée :</h2><ul>";
+            team.forEach(pokemon => {
+                resultHTML += `<li class="pokemon" onclick="getPokemonDetails('${pokemon}')">${pokemon}</li>`;
+            });
+            resultHTML += "</ul>";
+
+            document.getElementById("result").innerHTML = resultHTML;
+        } catch (error) {
+            console.error("Erreur:", error);
+            document.getElementById("result").innerHTML = "<p>Erreur lors de la génération.</p>";
+        }
+    }
+
+    async function getPokemonDetails(pokemonName) {
+        try {
+            const response = await fetch(`http://127.0.0.1:5000/pokemon/${pokemonName}`);
+            const data = await response.json();
+
+            document.getElementById("details").innerHTML = `<h2>Détails de ${data.name}</h2><p>${data.details}</p>`;
+            document.getElementById("details").style.display = "block";
+        } catch (error) {
+            console.error("Erreur:", error);
+            alert("Impossible de récupérer les détails du Pokémon.");
+        }
+    }
+</script>
+
+</body>
+</html>

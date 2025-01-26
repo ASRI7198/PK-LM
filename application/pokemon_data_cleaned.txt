@@ -1,0 +1,6174 @@
+Pokémon: Stratagem
+- Moves: Stealth Rock, Paleo Wave, Dazzling Gleam, Earth Power/Fire Blast
+- Item: Fairium Z
+- Ability: Levitate
+- Nature: Timid
+- EVs: 4 HP/252 SpA/252 Spe/
+---
+Pokémon: Arghonaut
+- Moves: Spikes, Knock Off, Toxic/Earthquake/Circle Throw, Recover
+- Item: Leftovers
+- Ability: Unaware
+- Nature: Careful
+- EVs: 248 HP/164 Def/96 SpD/
+---
+Pokémon: Kitsunoh
+- Moves: Shadow Strike, U-turn, Meteor Mash, Earthquake/Toxic/Trick
+- Item: Choice Scarf
+- Ability: Iron Fist
+- Nature: Jolly
+- EVs: 220 Atk/36 SpD/252 Spe/
+---
+Pokémon: Cyclohm
+- Moves: Volt Switch/Discharge, Toxic/Flamethrower, Toxic/Ice Beam, Slack Off
+- Item: Rocky Helmet
+- Ability: Static
+- Nature: Bold
+- EVs: 252 HP/240 Def/16 Spe/
+---
+Pokémon: Colossoil
+- Moves: Earthquake, Sucker Punch, Knock Off, Facade
+- Item: Flame Orb
+- Ability: Guts
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Krilowatt
+- Moves: Volt Switch, Ice Beam, Thunderbolt, Earth Power/Surf
+- Item: Life Orb
+- Ability: Magic Guard
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Voodoom
+- Moves: Nasty Plot, Focus Blast, Dark Pulse, Flash Cannon
+- Item: Life Orb
+- Ability: Lightning Rod
+- Nature: Timid
+- EVs: 4 HP/252 SpA/252 Spe/
+---
+Pokémon: Syclant
+- Moves: Ice Beam, Earth Power/Earthquake, U-turn, Spikes
+- Item: Focus Sash
+- Ability: Mountaineer
+- Nature: Naive
+- EVs: 4 Atk/252 SpA/252 Spe/
+---
+Pokémon: Tomohawk
+- Moves: Haze, Roost, Stealth Rock/Rapid Spin, Air Slash/Hurricane
+- Item: Icium Z
+- Ability: Prankster
+- Nature: Bold
+- EVs: 0 Atk/
+---
+Pokémon: Necturna
+- Moves: Shell Smash, Power Whip, Shadow Claw, Shadow Sneak
+- Item: Ghostium Z
+- Ability: Forewarn
+- Nature: Adamant
+- EVs: 52 HP/252 Atk/204 Spe/
+---
+Pokémon: Mollux
+- Moves: Sludge Bomb, Thunder/Lava Plume, Rapid Spin/Rain Dance, Recover
+- Item: Black Sludge
+- Ability: Dry Skin
+- Nature: Calm
+- EVs: 252 HP/4 SpA/252 SpD/
+---
+Pokémon: Aurumoth
+- Moves: Tail Glow, Psychic, Focus Blast, Thunder
+- Item: Electrium Z
+- Ability: No Guard
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Malaconda
+- Moves: Glare, Knock Off, Sucker Punch, Synthesis
+- Item: Black Glasses
+- Ability: Infiltrator
+- Nature: Impish
+- EVs: 252 HP/4 Atk/252 Def/
+---
+Pokémon: Revenankh
+- Moves: Drain Punch, Moonlight, Will-O-Wisp/Glare, Will-O-Wisp/Toxic
+- Item: Leftovers
+- Ability: Triage
+- Nature: Careful
+- EVs: 252 HP/188 Def/68 SpD/
+---
+Pokémon: Cawmodore
+- Moves: Belly Drum, Acrobatics, Drain Punch, Bullet Punch
+- Item: Sitrus Berry
+- Ability: Volt Absorb
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Volkraken
+- Moves: Flamethrower, Hydro Pump, Fire Blast, U-turn
+- Item: Choice Specs
+- Ability: Analytic
+- Nature: Modest
+- EVs: 4 HP/252 SpA/252 Spe/
+---
+Pokémon: Plasmanta
+- Moves: Substitute, Thunderbolt, Sludge Bomb, Hidden Power/Hidden Power
+- Item: Leftovers
+- Ability: Storm Drain
+- Nature: Timid
+- EVs: 48 HP/208 SpA/252 Spe/
+---
+Pokémon: Naviathan
+- Moves: Dragon Dance, Waterfall, Facade, Icicle Crash
+- Item: Flame Orb
+- Ability: Guts
+- Nature: Adamant
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Crucibelle
+- Moves: Stone Edge, Gunk Shot, U-turn, Stealth Rock
+- Item: Crucibellite
+- Ability: Regenerator
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Kerfluffle
+- Moves: Moonblast, Focus Blast, Parting Shot, Taunt
+- Item: Fightinium Z
+- Ability: Natural Cure
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Pajantom
+- Moves: Spirit Shackle, Toxic, Protect, Heal Block
+- Item: Leftovers
+- Ability: Comatose
+- Nature: Careful
+- EVs: 252 HP/252 SpD/4 Spe/
+---
+Pokémon: Jumbao
+- Moves: Moonblast, Flame Burst, Hidden Power, Shore Up
+- Item: Fairium Z
+- Ability: Trace
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Caribolt
+- Moves: Swords Dance, Return, Quick Attack, Power Whip
+- Item: Magnet
+- Ability: Galvanize
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Smokomodo
+- Moves: Flare Blitz, Earthquake, Toxic, Morning Sun
+- Item: Iapapa Berry
+- Ability: Blaze
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Snaelstrom
+- Moves: Stealth Rock, Scald, Spiky Shield, Toxic
+- Item: Toxic Orb
+- Ability: Poison Heal
+- Nature: Bold
+- EVs: 248 HP/252 Def/8 SpD/
+---
+Pokémon: Equilibra
+- Moves: Doom Desire, Earth Power, Rapid Spin, Flash Cannon/Protect/Pain Split
+- Item: Wiki Berry
+- Ability: Levitate
+- Nature: Modest
+- EVs: 252 HP/60 Def/68 SpA/84 SpD/44 Spe/
+---
+Pokémon: Pyroak
+- Moves: Lava Plume, Earth Power, Stealth Rock/Toxic, Synthesis
+- Item: Leftovers
+- Ability: Battle Armor
+- Nature: Bold
+- EVs: 0 Atk/
+---
+Pokémon: Fidgit
+- Moves: Trick Room, Stealth Rock, Earth Power, Rapid Spin
+- Item: Iapapa Berry
+- Ability: Persistent
+- Nature: Calm
+- EVs: 252 HP/80 Def/176 SpD/
+---
+Pokémon: Bulbasaur
+- Moves: Celebrate, Sludge Bomb, Giga Drain, Sleep Powder/Hidden Power
+- Item: Normalium Z
+- Ability: Chlorophyll
+- Nature: Modest
+- EVs: 44 Def/160 SpA/240 Spe/
+---
+Pokémon: Voltorb
+- Moves: Reflect, Light Screen, Explosion/Volt Switch, Volt Switch/Taunt
+- Item: Light Clay
+- Ability: Aftermath
+- Nature: Jolly
+- EVs: 196 HP/36 Def/76 SpD/196 Spe/
+---
+Pokémon: Electrode
+- Moves: Volt Switch, Thunderbolt, Hidden Power, Signal Beam
+- Item: Life Orb
+- Ability: Soundproof
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Exeggcute
+- Moves: Substitute, Leech Seed/Sleep Powder, Giga Drain, Hidden Power/Hidden Power/Psychic
+- Item: Oran Berry
+- Ability: Harvest
+- Nature: Timid
+- EVs: 36 HP/200 Def/40 SpA/80 SpD/120 Spe/
+---
+Pokémon: Exeggutor
+- Moves: Leaf Storm, Psyshock/Psychic, Hidden Power, Sleep Powder/Giga Drain
+- Item: Choice Specs
+- Ability: Chlorophyll
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Exeggutor-Alola
+- Moves: Draco Meteor, Leaf Storm, Flamethrower, Giga Drain
+- Item: Choice Specs
+- Ability: Frisk
+- Nature: Modest
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Cubone
+- Moves: Bonemerang, Knock Off, Rock Slide, Fire Punch
+- Item: Thick Club
+- Ability: Battle Armor
+- Nature: Jolly
+- EVs: 196 Atk/76 Def/236 Spe/
+---
+Pokémon: Marowak
+- Moves: Bonemerang, Double-Edge, Knock Off, Fire Punch/Swords Dance
+- Item: Thick Club
+- Ability: Rock Head
+- Nature: Brave
+- EVs: 0 Spe/
+---
+Pokémon: Marowak-Alola
+- Moves: Flare Blitz, Shadow Bone, Swords Dance, Earthquake/Low Kick
+- Item: Thick Club
+- Ability: Rock Head
+- Nature: Adamant
+- EVs: 212 HP/252 Atk/44 Spe/
+---
+Pokémon: Hitmonlee
+- Moves: Curse, Close Combat, Knock Off, Earthquake/Stone Edge
+- Item: White Herb
+- Ability: Unburden
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Hitmonchan
+- Moves: Drain Punch, Mach Punch, Stone Edge/Thunder Punch, Rapid Spin
+- Item: Assault Vest
+- Ability: Iron Fist
+- Nature: Adamant
+- EVs: 156 HP/224 Atk/128 Spe/
+---
+Pokémon: Lickitung
+- Moves: Wish, Protect, Heal Bell/Body Slam, Heal Bell/Knock Off
+- Item: Eviolite
+- Ability: Oblivious
+- Nature: Impish
+- EVs: 196 HP/76 Def/236 SpD/
+---
+Pokémon: Koffing
+- Moves: Will-O-Wisp, Pain Split, Sludge Bomb, Toxic Spikes/Clear Smog/Fire Blast
+- Item: Eviolite
+- Ability: Levitate
+- Nature: Bold
+- EVs: 36 HP/236 Def/236 SpD/
+---
+Pokémon: Weezing
+- Moves: Sludge Bomb, Will-O-Wisp, Pain Split, Taunt/Toxic Spikes
+- Item: Black Sludge
+- Ability: Levitate
+- Nature: Bold
+- EVs: 252 HP/152 Def/88 SpD/16 Spe/
+---
+Pokémon: Rhyhorn
+- Moves: Stealth Rock, Rock Blast, Earthquake, Poison Jab/Fire Fang/Megahorn
+- Item: Eviolite
+- Ability: Rock Head
+- Nature: Careful
+- EVs: 36 HP/156 Atk/156 Def/116 SpD/
+---
+Pokémon: Rhydon
+- Moves: Stealth Rock, Earthquake, Rock Blast/Stone Edge, Swords Dance
+- Item: Eviolite
+- Ability: Lightning Rod
+- Nature: Adamant
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Chansey
+- Moves: Aromatherapy/Stealth Rock, Seismic Toss, Soft-Boiled, Thunder Wave/Toxic
+- Item: Eviolite
+- Ability: Natural Cure
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Tangela
+- Moves: Giga Drain, Hidden Power, Knock Off, Sleep Powder/Synthesis/Leech Seed
+- Item: Eviolite
+- Ability: Regenerator
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Kangaskhan
+- Moves: Fake Out, Seismic Toss, Crunch/Shadow Claw, Rock Tomb/Body Slam
+- Item: Kangaskhanite
+- Ability: Scrappy
+- Nature: Jolly
+- EVs: 52 HP/180 Atk/36 Def/8 SpD/232 Spe/
+---
+Pokémon: Horsea
+- Moves: Hydro Pump, Ice Beam, Rain Dance, Hidden Power
+- Item: Life Orb
+- Ability: Swift Swim
+- Nature: Timid
+- EVs: 116 HP/196 SpA/196 Spe/
+---
+Pokémon: Goldeen
+- Moves: Bounce, Waterfall, Drill Run, Knock Off
+- Item: Flyinium Z
+- Ability: Lightning Rod
+- Nature: Jolly
+- EVs: 220 Atk/36 SpD/252 Spe/
+---
+Pokémon: Seaking
+- Moves: Waterfall, Knock Off, Drill Run, Megahorn
+- Item: Life Orb
+- Ability: Lightning Rod
+- Nature: Adamant
+- EVs: 64 HP/252 Atk/192 Spe/
+---
+Pokémon: Butterfree
+- Moves: Quiver Dance, Bug Buzz, Substitute, Sleep Powder
+- Item: Buginium Z
+- Ability: Tinted Lens
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Staryu
+- Moves: Rapid Spin, Scald, Thunderbolt/Ice Beam/Psychic, Recover
+- Item: Eviolite
+- Ability: Natural Cure
+- Nature: Timid
+- EVs: 116 HP/156 Def/236 Spe/
+---
+Pokémon: Starmie
+- Moves: Scald, Protect/Toxic, Recover, Rapid Spin
+- Item: Leftovers
+- Ability: Natural Cure
+- Nature: Timid
+- EVs: 252 HP/4 SpA/252 Spe/
+---
+Pokémon: Mr-Mime
+- Moves: Psychic, Dazzling Gleam, Focus Blast, Psyshock/Shadow Ball/Trick
+- Item: Choice Specs
+- Ability: Soundproof
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Scyther
+- Moves: U-turn, Aerial Ace, Brick Break, Pursuit/Knock Off
+- Item: Choice Band
+- Ability: Technician
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Jynx
+- Moves: Substitute, Nasty Plot, Lovely Kiss, Ice Beam
+- Item: Leftovers
+- Ability: Dry Skin
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Electabuzz
+- Moves: Thunderbolt, Volt Switch, Psychic, Hidden Power/Hidden Power/Focus Blast
+- Item: Choice Specs
+- Ability: Static
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Magmar
+- Moves: Belly Drum, Fire Punch, Thunder Punch, Mach Punch
+- Item: Normalium Z
+- Ability: Flame Body
+- Nature: Adamant
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Pinsir
+- Moves: X-Scissor, Close Combat/Earthquake, Stone Edge, Knock Off
+- Item: Choice Scarf
+- Ability: Moxie
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Tauros
+- Moves: Body Slam, Fire Blast, Zen Headbutt/Work Up, Earthquake
+- Item: Life Orb
+- Ability: Sheer Force
+- Nature: Naive
+- EVs: 252 Atk/4 SpA/252 Spe/
+---
+Pokémon: Magikarp
+- Moves: Splash, Flail, Tackle, Bounce
+- Item: Bright Powder
+- Ability: Rattled
+- Nature: Jolly
+- EVs: 36 HP/196 Atk/76 Def/196 Spe/
+---
+Pokémon: Gyarados
+- Moves: Dragon Dance, Waterfall, Bounce, Earthquake/Taunt
+- Item: Flyinium Z
+- Ability: Moxie
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Lapras
+- Moves: Freeze-Dry, Hydro Pump, Ice Beam, Hidden Power
+- Item: Choice Specs
+- Ability: Water Absorb
+- Nature: Modest
+- EVs: 80 HP/252 SpA/176 Spe/
+---
+Pokémon: Eevee
+- Moves: Last Resort, Baton Pass, Protect/Substitute, Stored Power
+- Item: Eevium Z
+- Ability: Anticipation
+- Nature: Timid
+- EVs: 212 HP/92 SpA/204 Spe/
+---
+Pokémon: Eevee-Starter
+- Moves: Sparkly Swirl, Sappy Seed, Sizzly Slide, Buzzy Buzz/Protect
+- Item: No Item
+- Ability: Anticipation
+- Nature: Jolly
+- EVs: nan
+---
+Pokémon: Vaporeon
+- Moves: Scald, Heal Bell/Toxic, Wish, Protect
+- Item: Leftovers
+- Ability: Water Absorb
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Jolteon
+- Moves: Yawn, Volt Switch, Thunderbolt, Hidden Power
+- Item: Life Orb
+- Ability: Quick Feet
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Flareon
+- Moves: Flare Blitz, Superpower, Double-Edge/Return, Quick Attack
+- Item: Choice Band
+- Ability: Flash Fire
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Omanyte
+- Moves: Stealth Rock/Spikes, Hydro Pump, Knock Off, Toxic Spikes/Stealth Rock
+- Item: Eviolite
+- Ability: Weak Armor
+- Nature: Modest
+- EVs: 76 HP/116 Def/116 SpA/156 Spe/
+---
+Pokémon: Omastar
+- Moves: Stealth Rock, Spikes, Scald, Rock Tomb/Ice Beam
+- Item: Focus Sash
+- Ability: Weak Armor
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Kabuto
+- Moves: Rapid Spin, Stealth Rock, Knock Off, Waterfall/Aqua Jet/Rock Slide
+- Item: Eviolite
+- Ability: Weak Armor
+- Nature: Careful
+- EVs: 116 HP/36 Atk/36 Def/156 SpD/156 Spe/
+---
+Pokémon: Kabutops
+- Moves: Swords Dance, Stone Edge, Liquidation, Aqua Jet/Superpower
+- Item: Life Orb
+- Ability: Swift Swim
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Aerodactyl
+- Moves: Stealth Rock, Stone Edge, Earthquake, Ice Fang
+- Item: Aerodactylite
+- Ability: Unnerve
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Snorlax
+- Moves: Double-Edge, Earthquake, Pursuit, Fire Punch/Self-Destruct
+- Item: Choice Band
+- Ability: Immunity
+- Nature: Adamant
+- EVs: 228 HP/252 Atk/28 Spe/
+---
+Pokémon: Articuno
+- Moves: Roost, Defog, Freeze-Dry, Substitute/Toxic/Heal Bell
+- Item: Leftovers
+- Ability: Pressure
+- Nature: Calm
+- EVs: 0 Atk/
+---
+Pokémon: Zapdos
+- Moves: Discharge, Heat Wave, Hidden Power, Roost
+- Item: Rocky Helmet
+- Ability: Static
+- Nature: Bold
+- EVs: 252 HP/184 Def/72 Spe/
+---
+Pokémon: Zapdos-Galar
+- Moves: Discharge, Heat Wave, Hidden Power, Roost
+- Item: Rocky Helmet
+- Ability: Static
+- Nature: Bold
+- EVs: 252 HP/184 Def/72 Spe/
+---
+Pokémon: Moltres
+- Moves: Hurricane, Fire Blast, Air Slash/Flamethrower, Sleep Talk/U-turn/Air Slash
+- Item: Choice Specs
+- Ability: Flame Body
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Dratini
+- Moves: Dragon Dance, Outrage, Extreme Speed, Fire Blast/Iron Tail
+- Item: Life Orb
+- Ability: Shed Skin
+- Nature: Naughty
+- EVs: 17 HP/
+---
+Pokémon: Dragonite
+- Moves: Dragon Dance, Fly, Earthquake, Extreme Speed
+- Item: Flyinium Z
+- Ability: Multiscale
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Beedrill
+- Moves: U-turn, Poison Jab, Drill Run, Pursuit/Toxic Spikes/Knock Off
+- Item: Beedrillite
+- Ability: Swarm
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Mewtwo
+- Moves: Low Kick, Taunt, Zen Headbutt/Ice Beam, Zen Headbutt/Stone Edge
+- Item: Mewtwonite X
+- Ability: Pressure
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Mew
+- Moves: Knock Off/Seismic Toss, Stealth Rock/Defog, Taunt, Soft-Boiled
+- Item: Leftovers
+- Ability: Synchronize
+- Nature: Jolly
+- EVs: 252 HP/80 Def/176 Spe/
+---
+Pokémon: Chikorita
+- Moves: Giga Drain, Hidden Power, Synthesis, Aromatherapy
+- Item: Eviolite
+- Ability: Overgrow
+- Nature: Bold
+- EVs: 156 HP/156 Def/48 SpA/76 SpD/
+---
+Pokémon: Meganium
+- Moves: Aromatherapy, Giga Drain, Synthesis, Dragon Tail
+- Item: Leftovers
+- Ability: Overgrow
+- Nature: Calm
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Cyndaquil
+- Moves: Eruption, Hidden Power, Fire Blast, Extrasensory
+- Item: Choice Scarf
+- Ability: Flash Fire
+- Nature: Timid
+- EVs: 44 HP/12 Def/200 SpA/236 Spe/
+---
+Pokémon: Typhlosion
+- Moves: Eruption, Fire Blast/Flamethrower, Focus Blast, Hidden Power
+- Item: Choice Specs
+- Ability: Flash Fire
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Totodile
+- Moves: Dragon Dance, Waterfall, Ice Punch, Aqua Jet/Superpower
+- Item: Life Orb
+- Ability: Sheer Force
+- Nature: Adamant
+- EVs: 236 Atk/4 Def/252 Spe/
+---
+Pokémon: Pidgey
+- Moves: Brave Bird, Return, U-turn, Heat Wave/Defog
+- Item: Choice Scarf
+- Ability: Big Pecks
+- Nature: Naive
+- EVs: 36 HP/236 Atk/228 Spe/
+---
+Pokémon: Feraligatr
+- Moves: Agility, Liquidation, Crunch, Ice Punch
+- Item: Life Orb
+- Ability: Sheer Force
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Furret
+- Moves: Trick, Return/Double-Edge, U-turn, Brick Break/Knock Off
+- Item: Choice Band
+- Ability: Frisk
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Hoothoot
+- Moves: Hypnosis, Roost, Air Slash, Defog/Reflect
+- Item: Eviolite
+- Ability: Insomnia
+- Nature: Calm
+- EVs: 196 HP/36 Def/228 SpD/36 Spe/
+---
+Pokémon: Noctowl
+- Moves: Agility, Work Up, Hurricane, Roost
+- Item: Flyinium Z
+- Ability: Tinted Lens
+- Nature: Modest
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Ledyba
+- Moves: Swords Dance, Acrobatics, Knock Off, Drain Punch
+- Item: Berry Juice
+- Ability: Rattled
+- Nature: Jolly
+- EVs: 36 HP/196 Atk/116 Def/156 Spe/
+---
+Pokémon: Ledian
+- Moves: Power-Up Punch, Drain Punch, Ice Punch, Thunder Punch
+- Item: Life Orb
+- Ability: Iron Fist
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Ariados
+- Moves: Sticky Web, Toxic Spikes, Megahorn, Sucker Punch/Toxic Thread
+- Item: Focus Sash
+- Ability: Swarm
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Crobat
+- Moves: Brave Bird, Super Fang, Taunt, Roost
+- Item: Sharp Beak
+- Ability: Infiltrator
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Chinchou
+- Moves: Hydro Pump, Volt Switch, Scald/Hidden Power/Ice Beam, Thunderbolt/Hidden Power/Scald
+- Item: Choice Scarf
+- Ability: Volt Absorb
+- Nature: Timid
+- EVs: 52 Def/232 SpA/224 Spe/
+---
+Pokémon: Lanturn
+- Moves: Hydro Pump, Ice Beam, Thunderbolt, Volt Switch
+- Item: Choice Scarf
+- Ability: Volt Absorb
+- Nature: Timid
+- EVs: 0 Atk/
+---
+Pokémon: Pichu
+- Moves: Fake Out, Volt Tackle, Volt Switch, Iron Tail/Encore
+- Item: Life Orb
+- Ability: Lightning Rod
+- Nature: Hasty
+- EVs: 36 HP/196 Atk/76 SpA/196 Spe/
+---
+Pokémon: Cleffa
+- Moves: Counter, Endeavor, Thunder Wave, Encore
+- Item: Focus Sash
+- Ability: Magic Guard
+- Nature: Hasty
+- EVs: 3 Def/9 SpD/
+---
+Pokémon: Igglybuff
+- Moves: Wish, Protect, Hyper Voice, Psychic/Fire Blast
+- Item: Eviolite
+- Ability: Competitive
+- Nature: Calm
+- EVs: 0 Atk/
+---
+Pokémon: Togepi
+- Moves: Dazzling Gleam, Fire Blast, Soft-Boiled/Morning Sun, Heal Bell/Nasty Plot
+- Item: Eviolite
+- Ability: Serene Grace
+- Nature: Bold
+- EVs: 236 HP/156 Def/76 SpD/36 Spe/
+---
+Pokémon: Natu
+- Moves: Psychic, Roost, Heat Wave, Thunder Wave/U-turn
+- Item: Eviolite
+- Ability: Magic Bounce
+- Nature: Bold
+- EVs: 196 HP/156 Def/36 SpA/76 SpD/36 Spe/
+---
+Pokémon: Xatu
+- Moves: Night Shade, Roost, U-turn, Protect/Toxic
+- Item: Rocky Helmet
+- Ability: Magic Bounce
+- Nature: Impish
+- EVs: 252 HP/196 Def/60 Spe/
+---
+Pokémon: Mareep
+- Moves: Reflect, Light Screen, Toxic/Heal Bell, Thunderbolt
+- Item: Eviolite
+- Ability: Static
+- Nature: Bold
+- EVs: 196 Def/76 SpA/236 SpD/
+---
+Pokémon: Pidgeot
+- Moves: Hurricane, Heat Wave, U-turn, Roost
+- Item: Pidgeotite
+- Ability: Big Pecks
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Ampharos
+- Moves: Volt Switch/Thunderbolt, Focus Blast, Hidden Power, Heal Bell
+- Item: Leftovers
+- Ability: Static
+- Nature: Modest
+- EVs: 184 HP/252 SpA/72 Spe/
+---
+Pokémon: Bellossom
+- Moves: Quiver Dance, Giga Drain, Strength Sap, Sleep Powder/Moonblast/Safeguard
+- Item: Grassium Z
+- Ability: Chlorophyll
+- Nature: Timid
+- EVs: 252 HP/4 Def/252 Spe/
+---
+Pokémon: Azumarill
+- Moves: Belly Drum, Aqua Jet, Play Rough, Knock Off
+- Item: Normalium Z
+- Ability: Huge Power
+- Nature: Adamant
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Sudowoodo
+- Moves: Head Smash, Earthquake, Sucker Punch, Wood Hammer
+- Item: Choice Band
+- Ability: Rock Head
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Politoed
+- Moves: Encore/Protect, Scald, Toxic, Rest
+- Item: Chesto Berry
+- Ability: Water Absorb
+- Nature: Calm
+- EVs: 248 HP/252 SpD/8 Spe/
+---
+Pokémon: Hoppip
+- Moves: Strength Sap, Toxic/Sleep Powder, Bullet Seed, Cotton Guard/U-turn
+- Item: Eviolite
+- Ability: Infiltrator
+- Nature: Impish
+- EVs: 156 HP/196 Def/156 SpD/
+---
+Pokémon: Jumpluff
+- Moves: Swords Dance, Acrobatics, Strength Sap, Seed Bomb/Sleep Powder
+- Item: No Item
+- Ability: Infiltrator
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Rattata
+- Moves: Return/Double-Edge, Flame Wheel, Sucker Punch, Hidden Power/Zen Headbutt
+- Item: Life Orb
+- Ability: Hustle
+- Nature: Jolly
+- EVs: 232 Atk/76 Def/180 Spe/
+---
+Pokémon: Rattata-Alola
+- Moves: Return/Double-Edge, Crunch/Sucker Punch, U-turn, Crunch/Quick Attack/Pursuit
+- Item: Life Orb
+- Ability: Hustle
+- Nature: Jolly
+- EVs: 228 Atk/76 Def/180 Spe/
+---
+Pokémon: Sunflora
+- Moves: Solar Beam, Earth Power, Sludge Bomb, Giga Drain
+- Item: Life Orb
+- Ability: Solar Power
+- Nature: Modest
+- EVs: 92 HP/252 SpA/164 Spe/
+---
+Pokémon: Wooper
+- Moves: Scald, Recover, Earthquake, Encore/Yawn
+- Item: Eviolite
+- Ability: Water Absorb
+- Nature: Sassy
+- EVs: 76 HP/236 Def/156 SpD/
+---
+Pokémon: Quagsire
+- Moves: Scald, Earthquake, Recover, Curse/Toxic
+- Item: Leftovers
+- Ability: Unaware
+- Nature: Relaxed
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Espeon
+- Moves: Psychic, Shadow Ball, Dazzling Gleam, Hidden Power/Trick
+- Item: Choice Specs
+- Ability: Magic Bounce
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Umbreon
+- Moves: Wish, Protect, Toxic/Heal Bell, Foul Play
+- Item: Leftovers
+- Ability: Synchronize
+- Nature: Calm
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Slowking
+- Moves: Scald, Psyshock, Calm Mind/Toxic, Slack Off
+- Item: Psychium Z
+- Ability: Regenerator
+- Nature: Bold
+- EVs: 248 HP/252 Def/8 SpD/
+---
+Pokémon: Slowking-Galar
+- Moves: Scald, Psyshock, Calm Mind/Toxic, Slack Off
+- Item: Psychium Z
+- Ability: Regenerator
+- Nature: Bold
+- EVs: 248 HP/252 Def/8 SpD/
+---
+Pokémon: Regieleki
+- Moves: Scald, Psyshock, Calm Mind/Toxic, Slack Off
+- Item: Psychium Z
+- Ability: Regenerator
+- Nature: Bold
+- EVs: 248 HP/252 Def/8 SpD/
+---
+Pokémon: Ivysaur
+- Moves: Growth, Sludge Bomb, Giga Drain/Solar Beam, Hidden Power
+- Item: Eviolite
+- Ability: Chlorophyll
+- Nature: Modest
+- EVs: 0 Atk/
+---
+Pokémon: Raticate
+- Moves: Double-Edge, Crunch, Pursuit, U-turn/Sucker Punch
+- Item: Choice Band
+- Ability: Hustle
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Raticate-Alola
+- Moves: Swords Dance, Double-Edge, Knock Off, Sucker Punch
+- Item: Darkinium Z
+- Ability: Hustle
+- Nature: Adamant
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Misdreavus
+- Moves: Hex/Foul Play, Will-O-Wisp, Taunt, Pain Split
+- Item: Eviolite
+- Ability: Levitate
+- Nature: Timid
+- EVs: 248 HP/8 Def/252 Spe/
+---
+Pokémon: Wobbuffet
+- Moves: Encore, Counter, Mirror Coat, Safeguard/Destiny Bond
+- Item: Sitrus Berry
+- Ability: Shadow Tag
+- Nature: Calm
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Girafarig
+- Moves: Return, Psychic Fangs, Earthquake, Trick
+- Item: Choice Band
+- Ability: Sap Sipper
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Pineco
+- Moves: Stealth Rock, Spikes, Rapid Spin, Payback/Explosion
+- Item: Berry Juice
+- Ability: Sturdy
+- Nature: Jolly
+- EVs: 236 Atk/36 Def/236 Spe/
+---
+Pokémon: Forretress
+- Moves: Gyro Ball, Spikes, Volt Switch, Toxic/Rapid Spin
+- Item: Leftovers
+- Ability: Sturdy
+- Nature: Relaxed
+- EVs: 0 Spe/
+---
+Pokémon: Dunsparce
+- Moves: Glare, Headbutt, Roost, Substitute/Rock Slide/Coil
+- Item: Leftovers
+- Ability: Serene Grace
+- Nature: Adamant
+- EVs: 252 HP/36 Atk/220 Spe/
+---
+Pokémon: Gligar
+- Moves: Earthquake, Roost, Stealth Rock/Defog, Knock Off/Toxic/U-turn
+- Item: Eviolite
+- Ability: Immunity
+- Nature: Impish
+- EVs: 252 HP/156 Def/100 SpD/
+---
+Pokémon: Steelix
+- Moves: Stealth Rock, Gyro Ball, Earthquake, Curse
+- Item: Steelixite
+- Ability: Sturdy
+- Nature: Brave
+- EVs: 0 Spe/
+---
+Pokémon: Snubbull
+- Moves: Play Rough, Fire Punch/Earthquake, Fire Punch/Thief, Thief/Bulk Up/Thunder Wave
+- Item: Eviolite
+- Ability: Intimidate
+- Nature: Jolly
+- EVs: 36 HP/116 Atk/36 Def/116 SpD/196 Spe/
+---
+Pokémon: Spearow
+- Moves: Double-Edge, Drill Peck, Drill Run, U-turn
+- Item: Life Orb
+- Ability: Sniper
+- Nature: Jolly
+- EVs: 0 HP/
+---
+Pokémon: Granbull
+- Moves: Play Rough, Earthquake, Thunder Wave/Toxic, Roar/Heal Bell
+- Item: Leftovers
+- Ability: Intimidate
+- Nature: Impish
+- EVs: 248 HP/8 Atk/252 Def/
+---
+Pokémon: Qwilfish
+- Moves: Swords Dance, Liquidation/Waterfall, Poison Jab, Explosion
+- Item: Waterium Z
+- Ability: Swift Swim
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Scizor
+- Moves: Swords Dance, Bullet Punch, Roost, Superpower/Knock Off
+- Item: Scizorite
+- Ability: Light Metal
+- Nature: Impish
+- EVs: 248 HP/16 Def/244 SpD/
+---
+Pokémon: Shuckle
+- Moves: Sticky Web, Stealth Rock, Encore, Knock Off/Toxic/Infestation
+- Item: Mental Herb
+- Ability: Sturdy
+- Nature: Careful
+- EVs: 0 Atk/
+---
+Pokémon: Heracross
+- Moves: Swords Dance, Close Combat, Rock Blast, Bullet Seed/Substitute/Pin Missile
+- Item: Heracronite
+- Ability: Moxie
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Sneasel
+- Moves: Knock Off, Icicle Crash, Ice Shard, Pursuit
+- Item: Choice Band
+- Ability: Inner Focus
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Teddiursa
+- Moves: Facade, Crunch, Close Combat, Swords Dance/Protect
+- Item: Toxic Orb
+- Ability: Quick Feet
+- Nature: Jolly
+- EVs: 36 HP/196 Atk/36 Def/36 SpD/196 Spe/
+---
+Pokémon: Ursaring
+- Moves: Swords Dance, Facade, Crunch, Close Combat
+- Item: Flame Orb
+- Ability: Guts
+- Nature: Brave
+- EVs: 0 Spe/
+---
+Pokémon: Slugma
+- Moves: Lava Plume, Earth Power/Clear Smog, Memento, Will-O-Wisp
+- Item: Eviolite
+- Ability: Flame Body
+- Nature: Bold
+- EVs: 36 HP/196 Def/116 SpA/116 SpD/36 Spe/
+---
+Pokémon: Magcargo
+- Moves: Stealth Rock, Recover, Yawn/Toxic, Lava Plume
+- Item: Leftovers
+- Ability: Flame Body
+- Nature: Calm
+- EVs: 248 HP/8 Def/252 SpD/
+---
+Pokémon: Fearow
+- Moves: Frustration, Drill Peck, Drill Run, U-turn
+- Item: Scope Lens
+- Ability: Sniper
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Swinub
+- Moves: Stealth Rock, Earthquake, Ice Shard, Endeavor
+- Item: Focus Sash
+- Ability: Oblivious
+- Nature: Jolly
+- EVs: 116 HP/196 Atk/196 Spe/
+---
+Pokémon: Piloswine
+- Moves: Stealth Rock, Icicle Crash, Earthquake, Ice Shard
+- Item: Eviolite
+- Ability: Thick Fat
+- Nature: Adamant
+- EVs: 252 HP/252 Atk/4 Def/
+---
+Pokémon: Corsola
+- Moves: Scald, Toxic, Stealth Rock, Recover
+- Item: Rocky Helmet
+- Ability: Regenerator
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Remoraid
+- Moves: Water Spout, Hydro Pump, Fire Blast, Bullet Seed
+- Item: Choice Scarf
+- Ability: Hustle
+- Nature: Naive
+- EVs: 236 SpA/236 Spe/
+---
+Pokémon: Octillery
+- Moves: Surf/Hydro Pump, Fire Blast, Ice Beam, Energy Ball
+- Item: Life Orb
+- Ability: Sniper
+- Nature: Quiet
+- EVs: 0 Spe/
+---
+Pokémon: Delibird
+- Moves: Spikes, Rapid Spin, Icy Wind, Destiny Bond
+- Item: Focus Sash
+- Ability: Vital Spirit
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Mantine
+- Moves: Roost, Defog, Scald, Haze/Air Slash
+- Item: Leftovers
+- Ability: Water Absorb
+- Nature: Calm
+- EVs: 252 HP/120 SpD/136 Spe/
+---
+Pokémon: Skarmory
+- Moves: Roost, Spikes, Whirlwind, Toxic/Counter
+- Item: Rocky Helmet
+- Ability: Sturdy
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Houndour
+- Moves: Fire Blast, Dark Pulse, Pursuit, Snarl/Destiny Bond
+- Item: Choice Scarf
+- Ability: Flash Fire
+- Nature: Naive
+- EVs: 36 Def/196 SpA/36 SpD/236 Spe/
+---
+Pokémon: Houndoom
+- Moves: Nasty Plot, Fire Blast, Dark Pulse, Sludge Bomb
+- Item: Houndoominite
+- Ability: Flash Fire
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Ekans
+- Moves: Coil, Gunk Shot, Earthquake, Sucker Punch
+- Item: Berry Juice
+- Ability: Shed Skin
+- Nature: Careful
+- EVs: 156 HP/84 Def/244 SpD/
+---
+Pokémon: Kingdra
+- Moves: Hydro Pump, Surf, Draco Meteor, Ice Beam
+- Item: Choice Specs
+- Ability: Swift Swim
+- Nature: Modest
+- EVs: 4 HP/252 SpA/252 Spe/
+---
+Pokémon: Phanpy
+- Moves: Stealth Rock, Earthquake, Knock Off, Ice Shard
+- Item: Eviolite
+- Ability: Pickup
+- Nature: Careful
+- EVs: 116 HP/116 Atk/116 Def/116 SpD/36 Spe/
+---
+Pokémon: Donphan
+- Moves: Rapid Spin, Earthquake, Knock Off, Ice Shard
+- Item: Leftovers
+- Ability: Sturdy
+- Nature: Adamant
+- EVs: 252 HP/252 Atk/4 Def/
+---
+Pokémon: Porygon2
+- Moves: Recover, Ice Beam, Foul Play, Thunder Wave/Toxic
+- Item: Eviolite
+- Ability: Trace
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Stantler
+- Moves: Double-Edge, Sucker Punch, Earthquake/Jump Kick, Energy Ball/Signal Beam
+- Item: Life Orb
+- Ability: Intimidate
+- Nature: Hasty
+- EVs: 252 Atk/4 SpA/252 Spe/
+---
+Pokémon: Smeargle
+- Moves: Sticky Web, Nuzzle, Taunt, Toxic Thread/Whirlwind
+- Item: Focus Sash
+- Ability: Own Tempo
+- Nature: Jolly
+- EVs: 252 HP/4 Def/252 Spe/
+---
+Pokémon: Hitmontop
+- Moves: Rapid Spin, Protect/Foresight, Low Kick/Close Combat, Toxic
+- Item: Leftovers
+- Ability: Intimidate
+- Nature: Impish
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Smoochum
+- Moves: Blizzard, Psychic, Hidden Power, Ice Beam/Substitute
+- Item: Icium Z
+- Ability: Forewarn
+- Nature: Timid
+- EVs: 240 SpA/240 Spe/
+---
+Pokémon: Elekid
+- Moves: Volt Switch, Thunderbolt, Psychic, Cross Chop/Hidden Power
+- Item: Life Orb
+- Ability: Vital Spirit
+- Nature: Hasty
+- EVs: 9 HP/
+---
+Pokémon: Arbok
+- Moves: Gunk Shot, Earthquake, Sucker Punch/Crunch, Switcheroo
+- Item: Choice Band
+- Ability: Intimidate
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Magby
+- Moves: Flare Blitz, Cross Chop, Mach Punch, Thunder Punch/Return
+- Item: Life Orb
+- Ability: Vital Spirit
+- Nature: Jolly
+- EVs: 0 HP/
+---
+Pokémon: Miltank
+- Moves: Stealth Rock, Seismic Toss, Milk Drink, Toxic
+- Item: Leftovers
+- Ability: Thick Fat
+- Nature: Calm
+- EVs: 252 HP/236 SpD/20 Spe/
+---
+Pokémon: Blissey
+- Moves: Seismic Toss, Toxic, Soft-Boiled, Stealth Rock/Heal Bell
+- Item: Leftovers
+- Ability: Natural Cure
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Raikou
+- Moves: Calm Mind, Thunderbolt, Aura Sphere, Hidden Power
+- Item: Fightinium Z
+- Ability: Pressure
+- Nature: Rash
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Entei
+- Moves: Sacred Fire, Extreme Speed, Stone Edge, Flare Blitz
+- Item: Choice Band
+- Ability: Pressure
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Suicune
+- Moves: Calm Mind, Rest, Sleep Talk, Scald
+- Item: Leftovers
+- Ability: Pressure
+- Nature: Bold
+- EVs: 252 HP/160 Def/96 Spe/
+---
+Pokémon: Larvitar
+- Moves: Dragon Dance, Earthquake, Stone Edge/Rock Slide, Superpower
+- Item: Eviolite
+- Ability: Guts
+- Nature: Jolly
+- EVs: 244 Atk/36 Def/36 SpD/188 Spe/
+---
+Pokémon: Tyranitar
+- Moves: Ice Punch/Stone Edge/Rock Slide, Pursuit, Crunch/Foul Play, Earthquake
+- Item: Choice Scarf
+- Ability: Sand Stream
+- Nature: Jolly
+- EVs: 8 HP/208 Atk/40 Def/252 Spe/
+---
+Pokémon: Lugia
+- Moves: Roost, Toxic, Dragon Tail/Whirlwind, Ice Beam/Psychic
+- Item: Leftovers
+- Ability: Multiscale
+- Nature: Bold
+- EVs: 252 HP/160 Def/96 Spe/
+---
+Pokémon: Pikachu-Starter
+- Moves: Thunderbolt, Zippy Zap, Splishy Splash, Calm Mind/Floaty Fall
+- Item: No Item
+- Ability: Multiscale
+- Nature: Naive
+- EVs: nan
+---
+Pokémon: Ho-Oh
+- Moves: Sacred Fire, Brave Bird, Earthquake, Toxic
+- Item: Choice Band
+- Ability: Regenerator
+- Nature: Adamant
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Celebi
+- Moves: Nasty Plot, Psychic, Leaf Storm/Giga Drain, Recover/Dazzling Gleam
+- Item: Grassium Z
+- Ability: Natural Cure
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Treecko
+- Moves: Swords Dance, Bullet Seed, Drain Punch, Rock Slide/Acrobatics
+- Item: Berry Juice
+- Ability: Unburden
+- Nature: Adamant
+- EVs: 116 HP/156 Atk/156 Def/36 Spe/
+---
+Pokémon: Sceptile
+- Moves: Leaf Storm, Giga Drain, Earthquake/Focus Blast, Hidden Power
+- Item: Life Orb
+- Ability: Overgrow
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Torchic
+- Moves: Protect, Fire Blast, Hidden Power, Overheat/Substitute
+- Item: Firium Z
+- Ability: Speed Boost
+- Nature: Modest
+- EVs: 0 HP/
+---
+Pokémon: Combusken
+- Moves: Swords Dance, Flare Blitz, Sky Uppercut, Protect
+- Item: Fightinium Z
+- Ability: Speed Boost
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Blaziken
+- Moves: Swords Dance, Flare Blitz, Low Kick, Knock Off/Stone Edge
+- Item: Blazikenite
+- Ability: Speed Boost
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Mudkip
+- Moves: Waterfall, Ice Beam, Superpower, Return/Double-Edge
+- Item: Eviolite
+- Ability: Torrent
+- Nature: Impish
+- EVs: 196 Atk/116 Def/196 SpD/
+---
+Pokémon: Raichu
+- Moves: Nasty Plot, Thunderbolt, Focus Blast, Hidden Power
+- Item: Life Orb
+- Ability: Lightning Rod
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Raichu-Alola
+- Moves: Nasty Plot, Thunderbolt, Psychic/Psyshock, Substitute/Focus Blast
+- Item: Aloraichium Z
+- Ability: Surge Surfer
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Swampert
+- Moves: Waterfall, Earthquake, Toxic/Ice Punch, Superpower/Substitute/Stealth Rock
+- Item: Swampertite
+- Ability: Swift Swim
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Poochyena
+- Moves: Howl, Crunch, Play Rough, Fire Fang
+- Item: Normalium Z
+- Ability: Rattled
+- Nature: Jolly
+- EVs: 236 Atk/36 SpD/236 Spe/
+---
+Pokémon: Mightyena
+- Moves: Crunch, Sucker Punch, Play Rough, Iron Tail
+- Item: Life Orb
+- Ability: Moxie
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Zigzagoon
+- Moves: Belly Drum, Extreme Speed, Thief, Protect/Seed Bomb
+- Item: Berry Juice
+- Ability: Pickup
+- Nature: Adamant
+- EVs: 132 HP/196 Atk/108 Def/28 SpD/36 Spe/
+---
+Pokémon: Linoone
+- Moves: Belly Drum, Extreme Speed, Stomping Tantrum, Seed Bomb
+- Item: Figy Berry
+- Ability: Gluttony
+- Nature: Adamant
+- EVs: 148 HP/248 Atk/8 Def/88 SpD/16 Spe/
+---
+Pokémon: Beautifly
+- Moves: Quiver Dance, Bug Buzz, Hidden Power, Roost
+- Item: Life Orb
+- Ability: Swarm
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Dustox
+- Moves: Quiver Dance, Iron Defense, Bug Buzz, Roost
+- Item: Black Sludge
+- Ability: Shield Dust
+- Nature: Bold
+- EVs: 0 Atk/
+---
+Pokémon: Sandshrew
+- Moves: Rapid Spin, Stealth Rock, Earthquake, Knock Off
+- Item: Eviolite
+- Ability: Sand Rush
+- Nature: Adamant
+- EVs: 36 HP/156 Atk/76 Def/36 SpD/196 Spe/
+---
+Pokémon: Sandshrew-Alola
+- Moves: Icicle Spear, Iron Head, Knock Off/Rapid Spin, Earthquake
+- Item: Choice Scarf
+- Ability: Slush Rush
+- Nature: Jolly
+- EVs: 236 Atk/76 SpD/196 Spe/
+---
+Pokémon: Lotad
+- Moves: Surf, Giga Drain, Ice Beam, Rain Dance
+- Item: Life Orb
+- Ability: Swift Swim
+- Nature: Modest
+- EVs: 19 HP/
+---
+Pokémon: Ludicolo
+- Moves: Rain Dance, Hydro Pump, Energy Ball/Giga Drain, Ice Beam
+- Item: Life Orb
+- Ability: Swift Swim
+- Nature: Timid
+- EVs: 29 HP/
+---
+Pokémon: Seedot
+- Moves: Growth, Solar Beam, Hidden Power, Explosion
+- Item: Life Orb
+- Ability: Chlorophyll
+- Nature: Rash
+- EVs: 19 HP/
+---
+Pokémon: Shiftry
+- Moves: Knock Off, Leaf Blade, Rock Slide, Explosion/Low Kick
+- Item: Choice Scarf
+- Ability: Chlorophyll
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Taillow
+- Moves: Facade, Brave Bird, Quick Attack, Protect/U-turn
+- Item: Flame Orb
+- Ability: Guts
+- Nature: Jolly
+- EVs: 36 HP/236 Atk/236 Spe/
+---
+Pokémon: Swellow
+- Moves: Boomburst, U-turn, Heat Wave, Air Slash
+- Item: Choice Specs
+- Ability: Scrappy
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Pelipper
+- Moves: Scald, U-turn, Roost, Knock Off/Hurricane/Defog
+- Item: Damp Rock
+- Ability: Drizzle
+- Nature: Relaxed
+- EVs: 0 Spe/
+---
+Pokémon: Sandslash
+- Moves: Rapid Spin, Toxic/Stealth Rock, Earthquake, Toxic/Knock Off
+- Item: Leftovers
+- Ability: Sand Rush
+- Nature: Impish
+- EVs: 252 HP/160 Def/96 Spe/
+---
+Pokémon: Sandslash-Alola
+- Moves: Stealth Rock/Rapid Spin, Icicle Crash, Iron Head/Knock Off, Earthquake
+- Item: Shuca Berry
+- Ability: Slush Rush
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Ralts
+- Moves: Psychic, Dazzling Gleam, Thunderbolt, Destiny Bond/Memento
+- Item: Choice Scarf
+- Ability: Trace
+- Nature: Timid
+- EVs: 52 HP/236 SpA/196 Spe/
+---
+Pokémon: Gardevoir
+- Moves: Psyshock, Moonblast, Hidden Power/Shadow Ball, Healing Wish/Trick
+- Item: Choice Specs
+- Ability: Trace
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Masquerain
+- Moves: Sticky Web, Bug Buzz, Air Slash/Hydro Pump, Quiver Dance
+- Item: Focus Sash
+- Ability: Intimidate
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Shroomish
+- Moves: Spore, Bullet Seed, Drain Punch, Synthesis
+- Item: Eviolite
+- Ability: Effect Spore
+- Nature: Impish
+- EVs: 36 HP/36 Atk/196 Def/116 SpD/76 Spe/
+---
+Pokémon: Breloom
+- Moves: Spore, Mach Punch, Bullet Seed, Rock Tomb/Swords Dance
+- Item: Focus Sash
+- Ability: Technician
+- Nature: Adamant
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Vigoroth
+- Moves: Bulk Up, Return/Facade, Slack Off, Substitute/Taunt
+- Item: Eviolite
+- Ability: Vital Spirit
+- Nature: Jolly
+- EVs: 252 HP/164 SpD/92 Spe/
+---
+Pokémon: Slaking
+- Moves: Retaliate/Return, Sucker Punch/Pursuit, Earthquake, Fire Blast
+- Item: Life Orb
+- Ability: Truant
+- Nature: Naive
+- EVs: 252 Atk/4 SpA/252 Spe/
+---
+Pokémon: Nidoran-F
+- Moves: Toxic Spikes, Super Fang, Poison Jab, Thief
+- Item: Berry Juice
+- Ability: Poison Point
+- Nature: Impish
+- EVs: 60 Atk/180 Def/196 SpD/28 Spe/
+---
+Pokémon: Nincada
+- Moves: Final Gambit, Leech Life, Giga Drain, Toxic
+- Item: Eviolite
+- Ability: Compound Eyes
+- Nature: Naive
+- EVs: 188 HP/76 Atk/36 Def/196 Spe/
+---
+Pokémon: Ninjask
+- Moves: Swords Dance, Leech Life, Aerial Ace, Dig
+- Item: Groundium Z
+- Ability: Speed Boost
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Shedinja
+- Moves: Will-O-Wisp, Swords Dance/Toxic, X-Scissor/Protect, Shadow Ball/X-Scissor/Shadow Sneak
+- Item: Focus Sash
+- Ability: Wonder Guard
+- Nature: Naive
+- EVs: 0 Def/0 SpD/
+---
+Pokémon: Whismur
+- Moves: Hyper Voice, Shadow Ball, Ice Beam, Hammer Arm/Fire Blast
+- Item: Life Orb
+- Ability: Soundproof
+- Nature: Quiet
+- EVs: 244 HP/36 Def/188 SpA/36 SpD/
+---
+Pokémon: Exploud
+- Moves: Boomburst, Focus Blast, Fire Blast, Surf
+- Item: Choice Specs
+- Ability: Scrappy
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Makuhita
+- Moves: Belly Drum, Close Combat, Knock Off, Heavy Slam/Bullet Punch
+- Item: Berry Juice
+- Ability: Thick Fat
+- Nature: Jolly
+- EVs: 20 HP/196 Atk/36 Def/236 Spe/
+---
+Pokémon: Hariyama
+- Moves: Revenge/Close Combat, Toxic/Knock Off, Rest, Sleep Talk
+- Item: Leftovers
+- Ability: Thick Fat
+- Nature: Impish
+- EVs: 12 HP/252 Def/244 SpD/
+---
+Pokémon: Azurill
+- Moves: Double-Edge, Knock Off, Iron Tail/Waterfall, Return
+- Item: Life Orb
+- Ability: Huge Power
+- Nature: Brave
+- EVs: 0 Spe/
+---
+Pokémon: Nosepass
+- Moves: Stealth Rock, Rock Blast, Thunder Wave, Volt Switch
+- Item: Berry Juice
+- Ability: Sturdy
+- Nature: Relaxed
+- EVs: 76 Atk/236 Def/196 SpD/
+---
+Pokémon: Venusaur
+- Moves: Growth, Sludge Bomb, Giga Drain, Hidden Power
+- Item: Grassium Z
+- Ability: Chlorophyll
+- Nature: Modest
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Skitty
+- Moves: Fake Out, Sucker Punch, Double-Edge, Foresight/Thunder Wave
+- Item: Life Orb
+- Ability: Normalize
+- Nature: Adamant
+- EVs: 236 Atk/76 SpD/196 Spe/
+---
+Pokémon: Delcatty
+- Moves: Fake Out, Sucker Punch, Double-Edge/Return, Thunder Wave
+- Item: Silk Scarf
+- Ability: Normalize
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Sableye
+- Moves: Knock Off, Will-O-Wisp, Recover, Protect
+- Item: Sablenite
+- Ability: Prankster
+- Nature: Careful
+- EVs: 248 HP/8 Def/252 SpD/
+---
+Pokémon: Mawile
+- Moves: Substitute, Thunder Punch, Ice Punch, Focus Punch
+- Item: Mawilite
+- Ability: Intimidate
+- Nature: Adamant
+- EVs: 144 HP/252 Atk/112 Spe/
+---
+Pokémon: Aron
+- Moves: Rock Polish, Head Smash, Iron Head/Heavy Slam, Superpower/Earthquake
+- Item: Eviolite
+- Ability: Rock Head
+- Nature: Jolly
+- EVs: 196 Atk/116 SpD/196 Spe/
+---
+Pokémon: Aggron
+- Moves: Heavy Slam, Curse, Rest, Sleep Talk
+- Item: Aggronite
+- Ability: Sturdy
+- Nature: Careful
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Medicham
+- Moves: Fake Out, High Jump Kick, Ice Punch, Thunder Punch/Zen Headbutt
+- Item: Medichamite
+- Ability: Telepathy
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Electrike
+- Moves: Volt Switch, Hidden Power/Thunderbolt, Flamethrower, Thunderbolt/Switcheroo
+- Item: Choice Scarf
+- Ability: Lightning Rod
+- Nature: Timid
+- EVs: 0 Atk/30 SpA/
+---
+Pokémon: Nidoqueen
+- Moves: Stealth Rock, Earth Power, Ice Beam/Sludge Wave, Taunt/Toxic
+- Item: Life Orb
+- Ability: Sheer Force
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Manectric
+- Moves: Volt Switch, Flamethrower/Overheat, Thunderbolt, Hidden Power/Hidden Power
+- Item: Manectite
+- Ability: Lightning Rod
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Plusle
+- Moves: Nasty Plot, Thunderbolt, Grass Knot/Hidden Power, Encore/Substitute
+- Item: Life Orb
+- Ability: Lightning Rod
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Minun
+- Moves: Nasty Plot, Thunderbolt, Grass Knot/Hidden Power, Encore/Substitute
+- Item: Life Orb
+- Ability: Volt Absorb
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Volbeat
+- Moves: Rain Dance/Sunny Day, U-turn, Thunder Wave, Roost
+- Item: Damp Rock
+- Ability: Prankster
+- Nature: Relaxed
+- EVs: 252 HP/4 Atk/252 Def/
+---
+Pokémon: Illumise
+- Moves: Rain Dance/Sunny Day, U-turn, Thunder Wave, Encore
+- Item: Damp Rock
+- Ability: Prankster
+- Nature: Relaxed
+- EVs: 0 Spe/
+---
+Pokémon: Roselia
+- Moves: Spikes, Synthesis, Sludge Bomb, Giga Drain
+- Item: Eviolite
+- Ability: Natural Cure
+- Nature: Calm
+- EVs: 248 HP/236 SpD/24 Spe/
+---
+Pokémon: Swalot
+- Moves: Sludge Bomb, Giga Drain, Ice Beam, Earthquake
+- Item: Assault Vest
+- Ability: Liquid Ooze
+- Nature: Quiet
+- EVs: 248 HP/200 SpA/60 SpD/
+---
+Pokémon: Carvanha
+- Moves: Hydro Pump, Dark Pulse, Ice Beam, Protect
+- Item: Life Orb
+- Ability: Speed Boost
+- Nature: Modest
+- EVs: 9 HP/
+---
+Pokémon: Sharpedo
+- Moves: Crunch, Ice Fang, Psychic Fangs/Earthquake, Protect
+- Item: Sharpedonite
+- Ability: Speed Boost
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Nidoran-M
+- Moves: Poison Jab, Drill Run, Sucker Punch, Hone Claws
+- Item: Eviolite
+- Ability: Hustle
+- Nature: Adamant
+- EVs: 220 Atk/36 Def/196 Spe/
+---
+Pokémon: Wailmer
+- Moves: Water Spout, Hydro Pump, Ice Beam, Hidden Power/Hidden Power
+- Item: Choice Scarf
+- Ability: Pressure
+- Nature: Timid
+- EVs: 36 HP/200 SpA/200 Spe/
+---
+Pokémon: Wailord
+- Moves: Substitute, Aqua Ring, Protect, Block
+- Item: Leftovers
+- Ability: Pressure
+- Nature: Calm
+- EVs: 252 Def/4 SpA/252 SpD/
+---
+Pokémon: Numel
+- Moves: Flame Charge, Fire Blast, Earth Power, Stealth Rock/Growth
+- Item: Groundium Z
+- Ability: Simple
+- Nature: Modest
+- EVs: 36 HP/236 SpA/236 Spe/
+---
+Pokémon: Camerupt
+- Moves: Stealth Rock, Lava Plume, Toxic, Protect/Earth Power
+- Item: Leftovers
+- Ability: Solid Rock
+- Nature: Calm
+- EVs: 252 HP/4 SpA/252 SpD/
+---
+Pokémon: Torkoal
+- Moves: Stealth Rock, Rapid Spin, Lava Plume, Toxic/Yawn
+- Item: Leftovers
+- Ability: Shell Armor
+- Nature: Bold
+- EVs: 248 HP/232 Def/28 SpD/
+---
+Pokémon: Spoink
+- Moves: Calm Mind, Psychic, Power Gem, Hidden Power
+- Item: Eviolite
+- Ability: Thick Fat
+- Nature: Timid
+- EVs: 80 Def/200 SpA/200 Spe/
+---
+Pokémon: Grumpig
+- Moves: Psychic, Focus Blast, Shadow Ball, Thunder Wave/Taunt/Calm Mind
+- Item: Fightinium Z
+- Ability: Thick Fat
+- Nature: Timid
+- EVs: 80 HP/252 SpA/176 Spe/
+---
+Pokémon: Spinda
+- Moves: Trick Room, Superpower, Return, Sucker Punch
+- Item: Life Orb
+- Ability: Contrary
+- Nature: Brave
+- EVs: 0 Spe/
+---
+Pokémon: Flygon
+- Moves: U-turn, Earthquake, Outrage, Defog/Dragon Claw/Aerial Ace
+- Item: Choice Scarf
+- Ability: Levitate
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Cacnea
+- Moves: Swords Dance, Sucker Punch, Seed Bomb, Thunder Punch/Drain Punch
+- Item: Eviolite
+- Ability: Water Absorb
+- Nature: Jolly
+- EVs: 236 Atk/116 Def/156 Spe/
+---
+Pokémon: Cacturne
+- Moves: Swords Dance, Seed Bomb, Sucker Punch, Superpower
+- Item: Life Orb
+- Ability: Water Absorb
+- Nature: Adamant
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Altaria
+- Moves: Hyper Voice, Fire Blast, Toxic, Roost
+- Item: Altarianite
+- Ability: Natural Cure
+- Nature: Modest
+- EVs: 248 HP/4 Def/160 SpA/96 Spe/
+---
+Pokémon: Zangoose
+- Moves: Belly Drum, Quick Attack, Knock Off, Close Combat
+- Item: Sitrus Berry
+- Ability: Immunity
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Seviper
+- Moves: Sludge Wave, Giga Drain, Flamethrower/Earthquake, Sucker Punch
+- Item: Life Orb
+- Ability: Shed Skin
+- Nature: Naughty
+- EVs: 8 HP/56 Atk/224 SpA/220 Spe/
+---
+Pokémon: Lunatone
+- Moves: Psyshock/Psychic, Power Gem, Earth Power, Rock Polish
+- Item: Life Orb
+- Ability: Levitate
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Solrock
+- Moves: Stealth Rock, Stone Edge, Will-O-Wisp, Morning Sun
+- Item: Rocky Helmet
+- Ability: Levitate
+- Nature: Impish
+- EVs: 252 HP/252 Def/4 Spe/
+---
+Pokémon: Barboach
+- Moves: Dragon Dance, Earthquake, Waterfall, Bounce
+- Item: Flyinium Z
+- Ability: Oblivious
+- Nature: Adamant
+- EVs: 36 HP/212 Atk/12 Def/28 SpD/196 Spe/
+---
+Pokémon: Nidoking
+- Moves: Sludge Wave, Earth Power, Ice Beam, Taunt/Substitute
+- Item: Life Orb
+- Ability: Sheer Force
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Whiscash
+- Moves: Dragon Dance, Waterfall, Earthquake, Bounce
+- Item: Flyinium Z
+- Ability: Anticipation
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Corphish
+- Moves: Crabhammer, Aqua Jet, Knock Off, Dragon Dance
+- Item: Eviolite
+- Ability: Adaptability
+- Nature: Adamant
+- EVs: 196 Atk/76 Def/236 Spe/
+---
+Pokémon: Crawdaunt
+- Moves: Knock Off, Crabhammer, Aqua Jet, Crunch/Superpower
+- Item: Choice Band
+- Ability: Adaptability
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Baltoy
+- Moves: Rapid Spin, Stealth Rock, Earth Power, Psychic
+- Item: Berry Juice
+- Ability: Levitate
+- Nature: Bold
+- EVs: 36 HP/236 Def/36 SpA/196 SpD/
+---
+Pokémon: Claydol
+- Moves: Rapid Spin, Stealth Rock/Toxic, Psychic, Earth Power
+- Item: Colbur Berry
+- Ability: Levitate
+- Nature: Bold
+- EVs: 252 HP/120 Def/136 Spe/
+---
+Pokémon: Lileep
+- Moves: Recover, Giga Drain, Stealth Rock, Toxic/Earth Power/Ancient Power
+- Item: Eviolite
+- Ability: Storm Drain
+- Nature: Bold
+- EVs: 68 HP/220 Def/108 SpA/60 SpD/12 Spe/
+---
+Pokémon: Cradily
+- Moves: Giga Drain, Toxic, Stealth Rock, Recover
+- Item: Leftovers
+- Ability: Storm Drain
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Anorith
+- Moves: Stealth Rock, Rapid Spin, Knock Off, Rock Blast
+- Item: Berry Juice
+- Ability: Battle Armor
+- Nature: Jolly
+- EVs: 236 Atk/36 Def/236 Spe/
+---
+Pokémon: Armaldo
+- Moves: Stone Edge, Earthquake/X-Scissor, Aqua Jet/Earthquake/Knock Off, Swords Dance
+- Item: Life Orb
+- Ability: Swift Swim
+- Nature: Adamant
+- EVs: 29 HP/
+---
+Pokémon: Clefairy
+- Moves: Soft-Boiled, Moonblast/Seismic Toss, Knock Off/Stealth Rock, Toxic
+- Item: Eviolite
+- Ability: Magic Guard
+- Nature: Sassy
+- EVs: 0 Spe/
+---
+Pokémon: Milotic
+- Moves: Scald, Recover, Haze/Toxic, Ice Beam/Refresh
+- Item: Leftovers
+- Ability: Marvel Scale
+- Nature: Calm
+- EVs: 252 HP/108 Def/148 SpD/
+---
+Pokémon: Castform
+- Moves: Rain Dance, Hydro Pump, Ice Beam, Thunder
+- Item: Waterium Z
+- Ability: Forecast
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Kecleon
+- Moves: Knock Off, Drain Punch, Shadow Sneak, Fake Out/Sucker Punch/Ice Beam
+- Item: Assault Vest
+- Ability: Protean
+- Nature: Brave
+- EVs: 252 HP/156 Atk/100 SpA/
+---
+Pokémon: Shuppet
+- Moves: Trick Room, Knock Off, Shadow Sneak, Destiny Bond
+- Item: Focus Sash
+- Ability: Frisk
+- Nature: Brave
+- EVs: 0 Spe/
+---
+Pokémon: Banette
+- Moves: Shadow Claw, Gunk Shot/Knock Off, Will-O-Wisp, Shadow Sneak/Sucker Punch
+- Item: Life Orb
+- Ability: Insomnia
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Duskull
+- Moves: Pain Split, Will-O-Wisp, Substitute, Hex/Shadow Sneak
+- Item: Eviolite
+- Ability: Levitate
+- Nature: Careful
+- EVs: 196 HP/196 Def/116 SpD/
+---
+Pokémon: Dusclops
+- Moves: Rest, Sleep Talk, Will-O-Wisp/Toxic, Seismic Toss
+- Item: Eviolite
+- Ability: Pressure
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Tropius
+- Moves: Leech Seed, Substitute, Air Slash, Toxic/Protect
+- Item: Sitrus Berry
+- Ability: Harvest
+- Nature: Bold
+- EVs: 248 HP/252 Def/8 SpD/
+---
+Pokémon: Chimecho
+- Moves: Psyshock/Psychic, Heal Bell/Toxic, Recover, Defog
+- Item: Leftovers
+- Ability: Levitate
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpA/
+---
+Pokémon: Absol
+- Moves: Swords Dance, Knock Off, Sucker Punch, Play Rough/Superpower
+- Item: Darkinium Z
+- Ability: Justified
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Clefable
+- Moves: Moonblast, Calm Mind, Wish, Protect
+- Item: Leftovers
+- Ability: Unaware
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Wynaut
+- Moves: Counter, Mirror Coat, Encore, Safeguard/Tickle
+- Item: Berry Juice
+- Ability: Shadow Tag
+- Nature: Bold
+- EVs: 156 HP/132 Def/132 SpD/12 Spe/
+---
+Pokémon: Snorunt
+- Moves: Spikes, Frost Breath, Shadow Ball, Hidden Power
+- Item: Choice Scarf
+- Ability: Inner Focus
+- Nature: Modest
+- EVs: 30 HP/0 Atk/30 SpA/30 SpD/30 Spe/
+---
+Pokémon: Glalie
+- Moves: Spikes, Double-Edge, Earthquake, Explosion
+- Item: Glalitite
+- Ability: Ice Body
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Spheal
+- Moves: Yawn, Ice Beam, Surf, Hidden Power/Hidden Power
+- Item: Berry Juice
+- Ability: Thick Fat
+- Nature: Modest
+- EVs: 0 Atk/30 SpA/
+---
+Pokémon: Walrein
+- Moves: Roar, Toxic, Ice Beam/Surf, Encore/Super Fang/Protect
+- Item: Leftovers
+- Ability: Oblivious
+- Nature: Calm
+- EVs: 248 HP/8 Def/252 SpD/
+---
+Pokémon: Clamperl
+- Moves: Shell Smash, Surf, Ice Beam, Substitute/Hidden Power
+- Item: Deep Sea Tooth
+- Ability: Rattled
+- Nature: Timid
+- EVs: 76 HP/248 SpA/184 Spe/
+---
+Pokémon: Huntail
+- Moves: Shell Smash, Waterfall, Ice Beam, Sucker Punch
+- Item: White Herb
+- Ability: Water Veil
+- Nature: Naughty
+- EVs: 252 Atk/4 SpA/252 Spe/
+---
+Pokémon: Gorebyss
+- Moves: Shell Smash, Hydro Pump, Ice Beam, Substitute/Hidden Power/Hidden Power
+- Item: White Herb
+- Ability: Swift Swim
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Relicanth
+- Moves: Rain Dance, Head Smash, Stealth Rock, Toxic/Yawn
+- Item: Damp Rock
+- Ability: Sturdy
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Vulpix-Alola
+- Moves: Aurora Veil, Blizzard, Freeze-Dry, Hidden Power/Hidden Power
+- Item: Light Clay
+- Ability: Snow Warning
+- Nature: Timid
+- EVs: 52 HP/200 SpA/240 Spe/
+---
+Pokémon: Luvdisc
+- Moves: Hydro Pump, Ice Beam, Hidden Power, Rain Dance
+- Item: Waterium Z
+- Ability: Swift Swim
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Bagon
+- Moves: Dragon Dance, Outrage, Substitute/Zen Headbutt, Substitute/Fire Fang
+- Item: Dragonium Z
+- Ability: Sheer Force
+- Nature: Adamant
+- EVs: 0 HP/
+---
+Pokémon: Salamence
+- Moves: Body Slam, Defog, Roost, Dragon Tail/Refresh
+- Item: Salamencite
+- Ability: Intimidate
+- Nature: Impish
+- EVs: 248 HP/136 Def/124 Spe/
+---
+Pokémon: Metang
+- Moves: Stealth Rock, Meteor Mash, Bullet Punch/Zen Headbutt/Earthquake, Zen Headbutt/Earthquake/Bullet Punch
+- Item: Eviolite
+- Ability: Clear Body
+- Nature: Adamant
+- EVs: 88 Atk/204 Def/216 Spe/
+---
+Pokémon: Metagross
+- Moves: Meteor Mash, Ice Punch, Thunder Punch/Rock Slide, Earthquake/Bullet Punch
+- Item: Metagrossite
+- Ability: Clear Body
+- Nature: Jolly
+- EVs: 232 HP/60 Atk/40 SpD/176 Spe/
+---
+Pokémon: Regirock
+- Moves: Sunny Day, Stealth Rock, Explosion, Stone Edge
+- Item: Heat Rock
+- Ability: Sturdy
+- Nature: Adamant
+- EVs: 252 HP/252 Atk/4 Def/
+---
+Pokémon: Regice
+- Moves: Rock Polish, Ice Beam, Thunderbolt, Focus Blast
+- Item: Fightinium Z
+- Ability: Clear Body
+- Nature: Modest
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Registeel
+- Moves: Seismic Toss, Toxic, Stealth Rock, Protect
+- Item: Leftovers
+- Ability: Clear Body
+- Nature: Calm
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Ninetales
+- Moves: Overheat, Flamethrower/Fire Blast, Solar Beam, Hidden Power
+- Item: Choice Specs
+- Ability: Drought
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Ninetales-Alola
+- Moves: Aurora Veil, Freeze-Dry, Hypnosis, Hail
+- Item: Light Clay
+- Ability: Snow Warning
+- Nature: Timid
+- EVs: 252 HP/4 SpA/252 Spe/
+---
+Pokémon: Latias
+- Moves: Calm Mind, Psyshock/Stored Power, Ice Beam, Roost
+- Item: Latiasite
+- Ability: Levitate
+- Nature: Timid
+- EVs: 248 HP/8 Def/252 Spe/
+---
+Pokémon: Latios
+- Moves: Psychic, Earthquake, Thunderbolt/Draco Meteor/Ice Beam, Roost
+- Item: Latiosite
+- Ability: Levitate
+- Nature: Naive
+- EVs: 4 Atk/252 SpA/252 Spe/
+---
+Pokémon: Kyogre
+- Moves: Origin Pulse, Ice Beam, Substitute/Thunder, Calm Mind/Liquidation
+- Item: Blue Orb
+- Ability: Drizzle
+- Nature: Hasty
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Groudon
+- Moves: Rock Polish, Swords Dance, Precipice Blades, Fire Punch/Stone Edge
+- Item: Red Orb
+- Ability: Drought
+- Nature: Adamant
+- EVs: 252 Atk/100 SpD/156 Spe/
+---
+Pokémon: Rayquaza
+- Moves: Dragon Ascent, Draco Meteor, Extreme Speed, Surf/Earthquake/V-create
+- Item: Life Orb
+- Ability: Air Lock
+- Nature: Naughty
+- EVs: 252 Atk/4 SpA/252 Spe/
+---
+Pokémon: Jirachi
+- Moves: Stealth Rock, Iron Head, U-turn, Healing Wish
+- Item: Leftovers
+- Ability: Serene Grace
+- Nature: Careful
+- EVs: 248 HP/188 SpD/72 Spe/
+---
+Pokémon: Deoxys
+- Moves: Psycho Boost, Taunt, Pursuit, Ice Beam/Spikes
+- Item: Kasib Berry
+- Ability: Pressure
+- Nature: Jolly
+- EVs: 228 Atk/120 Def/48 SpD/112 Spe/
+---
+Pokémon: Deoxys-Attack
+- Moves: Psycho Boost, Ice Beam, Superpower, Dark Pulse/Pursuit
+- Item: Life Orb
+- Ability: Pressure
+- Nature: Rash
+- EVs: 4 Atk/252 SpA/252 Spe/
+---
+Pokémon: Deoxys-Defense
+- Moves: Spikes, Taunt, Recover, Toxic
+- Item: Leftovers
+- Ability: Pressure
+- Nature: Bold
+- EVs: 0 Atk/
+---
+Pokémon: Deoxys-Speed
+- Moves: Stealth Rock, Taunt, Magic Coat/Skill Swap, Magic Coat/Spikes
+- Item: Rocky Helmet
+- Ability: Pressure
+- Nature: Timid
+- EVs: 252 HP/4 Def/252 Spe/
+---
+Pokémon: Turtwig
+- Moves: Stealth Rock, Synthesis, Bullet Seed, Superpower
+- Item: Eviolite
+- Ability: Overgrow
+- Nature: Careful
+- EVs: 76 HP/52 Atk/244 Def/76 SpD/28 Spe/
+---
+Pokémon: Torterra
+- Moves: Rock Polish, Swords Dance/Stone Edge, Wood Hammer, Earthquake
+- Item: Rockium Z
+- Ability: Overgrow
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Chimchar
+- Moves: Fake Out, Overheat, Hidden Power, Stealth Rock
+- Item: Focus Sash
+- Ability: Blaze
+- Nature: Hasty
+- EVs: 4 HP/56 Atk/4 Def/216 SpA/4 SpD/188 Spe/
+---
+Pokémon: Monferno
+- Moves: Stealth Rock, Close Combat, Flare Blitz, U-turn
+- Item: Eviolite
+- Ability: Blaze
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Infernape
+- Moves: Swords Dance, Close Combat, Flare Blitz, Thunder Punch/Mach Punch
+- Item: Electrium Z
+- Ability: Iron Fist
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Piplup
+- Moves: Stealth Rock, Defog, Scald, Ice Beam
+- Item: Eviolite
+- Ability: Torrent
+- Nature: Bold
+- EVs: 92 HP/252 Def/148 SpD/
+---
+Pokémon: Empoleon
+- Moves: Scald, Defog/Stealth Rock, Toxic, Roar/Knock Off/Protect
+- Item: Leftovers
+- Ability: Torrent
+- Nature: Calm
+- EVs: 252 HP/76 Def/180 SpD/
+---
+Pokémon: Starly
+- Moves: Brave Bird, Double-Edge, U-turn, Hidden Power/Heat Wave
+- Item: Choice Scarf
+- Ability: Reckless
+- Nature: Naive
+- EVs: 36 HP/236 Atk/36 SpA/196 Spe/
+---
+Pokémon: Staravia
+- Moves: Brave Bird, U-turn, Defog, Roost
+- Item: Eviolite
+- Ability: Intimidate
+- Nature: Impish
+- EVs: 252 HP/252 Def/4 Spe/
+---
+Pokémon: Staraptor
+- Moves: Brave Bird, Double-Edge, U-turn, Tailwind/Defog/Final Gambit/Close Combat
+- Item: Choice Scarf
+- Ability: Reckless
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Bidoof
+- Moves: Swords Dance, Return, Quick Attack, Aqua Tail/Crunch
+- Item: Berry Juice
+- Ability: Simple
+- Nature: Adamant
+- EVs: 236 Atk/116 Def/116 SpD/28 Spe/
+---
+Pokémon: Charmander
+- Moves: Dragon Dance, Flare Blitz, Brick Break/Hidden Power, Thunder Punch
+- Item: Life Orb
+- Ability: Blaze
+- Nature: Adamant
+- EVs: 21 HP/
+---
+Pokémon: Wigglytuff
+- Moves: Stealth Rock, Hyper Voice, Dazzling Gleam, Focus Blast/Fire Blast
+- Item: Life Orb
+- Ability: Competitive
+- Nature: Timid
+- EVs: 4 HP/252 SpA/252 Spe/
+---
+Pokémon: Bibarel
+- Moves: Swords Dance, Return, Quick Attack, Aqua Jet/Liquidation
+- Item: Silk Scarf
+- Ability: Simple
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Kricketune
+- Moves: Sticky Web, Endeavor, Taunt, Bug Bite
+- Item: Focus Sash
+- Ability: Technician
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Shinx
+- Moves: Volt Switch, Wild Charge, Thief, Ice Fang/Fire Fang
+- Item: Berry Juice
+- Ability: Intimidate
+- Nature: Adamant
+- EVs: 76 HP/76 Atk/244 Def/36 SpA/4 SpD/
+---
+Pokémon: Luxray
+- Moves: Wild Charge, Facade, Superpower, Volt Switch
+- Item: Flame Orb
+- Ability: Guts
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Budew
+- Moves: Spikes, Sludge Bomb/Sleep Powder, Giga Drain/Synthesis, Hidden Power/Sludge Bomb/Giga Drain
+- Item: Eviolite
+- Ability: Natural Cure
+- Nature: Bold
+- EVs: 36 HP/236 Def/40 SpA/196 SpD/
+---
+Pokémon: Roserade
+- Moves: Spikes, Leaf Storm, Sludge Bomb, Synthesis/Hidden Power
+- Item: Life Orb
+- Ability: Natural Cure
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Cranidos
+- Moves: Rock Slide, Zen Headbutt, Superpower/Fire Punch, Substitute/Crunch
+- Item: Life Orb
+- Ability: Sheer Force
+- Nature: Jolly
+- EVs: 236 Atk/36 Def/212 Spe/
+---
+Pokémon: Rampardos
+- Moves: Rock Slide, Fire Punch, Ice Beam, Substitute/Zen Headbutt
+- Item: Life Orb
+- Ability: Sheer Force
+- Nature: Naive
+- EVs: 252 Atk/4 SpA/252 Spe/
+---
+Pokémon: Zubat
+- Moves: Brave Bird, U-turn, Defog, Pursuit
+- Item: Choice Scarf
+- Ability: Inner Focus
+- Nature: Jolly
+- EVs: 36 HP/236 Atk/236 Spe/
+---
+Pokémon: Shieldon
+- Moves: Metal Burst, Stealth Rock, Rock Blast, Protect/Endure
+- Item: Berry Juice
+- Ability: Sturdy
+- Nature: Adamant
+- EVs: 116 HP/100 Atk/52 Def/212 SpD/
+---
+Pokémon: Bastiodon
+- Moves: Stealth Rock, Metal Burst/Rock Slide, Roar/Magic Coat/Metal Burst, Toxic
+- Item: Leftovers
+- Ability: Sturdy
+- Nature: Careful
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Wormadam
+- Moves: Quiver Dance, Bug Buzz, Giga Drain, Hidden Power
+- Item: Leftovers
+- Ability: Overcoat
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Wormadam-Sandy
+- Moves: Earthquake, Stealth Rock, Toxic, Protect
+- Item: Leftovers
+- Ability: Overcoat
+- Nature: Impish
+- EVs: 252 HP/4 Atk/252 Def/
+---
+Pokémon: Wormadam-Trash
+- Moves: Stealth Rock, Toxic, Protect, Gyro Ball/Iron Head
+- Item: Leftovers
+- Ability: Overcoat
+- Nature: Careful
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Mothim
+- Moves: Bug Buzz, Air Slash, U-turn, Energy Ball
+- Item: Choice Specs
+- Ability: Tinted Lens
+- Nature: Rash
+- EVs: 4 Atk/252 SpA/252 Spe/
+---
+Pokémon: Vespiquen
+- Moves: Substitute, Toxic, Roost, Bug Buzz/Air Slash
+- Item: Leftovers
+- Ability: Pressure
+- Nature: Bold
+- EVs: 248 HP/172 Def/88 Spe/
+---
+Pokémon: Pachirisu
+- Moves: Nuzzle, Toxic, U-turn, Super Fang
+- Item: Leftovers
+- Ability: Volt Absorb
+- Nature: Impish
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Buizel
+- Moves: Blizzard, Scald, Hidden Power, Aqua Jet
+- Item: Life Orb
+- Ability: Water Veil
+- Nature: Naive
+- EVs: 200 SpA/36 SpD/240 Spe/
+---
+Pokémon: Floatzel
+- Moves: Hydro Pump, Ice Beam, Focus Blast, Switcheroo
+- Item: Choice Specs
+- Ability: Water Veil
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Golbat
+- Moves: Brave Bird, Toxic, Taunt/Defog, Roost
+- Item: Eviolite
+- Ability: Infiltrator
+- Nature: Jolly
+- EVs: 252 HP/80 SpD/176 Spe/
+---
+Pokémon: Cherubi
+- Moves: Solar Beam, Weather Ball, Sunny Day, Healing Wish
+- Item: Eviolite
+- Ability: Chlorophyll
+- Nature: Modest
+- EVs: 76 Def/180 SpA/236 Spe/
+---
+Pokémon: Cherrim
+- Moves: Sunny Day, Swords Dance, Petal Blizzard, Healing Wish/Return
+- Item: Firium Z
+- Ability: Flower Gift
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Shellos
+- Moves: Scald, Recover, Ice Beam/Earth Power, Toxic/Clear Smog
+- Item: Eviolite
+- Ability: Sticky Hold
+- Nature: Bold
+- EVs: 228 HP/132 Def/100 SpD/4 Spe/
+---
+Pokémon: Gastrodon
+- Moves: Scald, Recover, Toxic, Earthquake
+- Item: Leftovers
+- Ability: Storm Drain
+- Nature: Sassy
+- EVs: 252 HP/108 Def/148 SpD/
+---
+Pokémon: Ambipom
+- Moves: Fake Out, Return, Pursuit/Low Kick, U-turn
+- Item: Life Orb
+- Ability: Technician
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Drifblim
+- Moves: Substitute, Acrobatics, Knock Off, Explosion/Will-O-Wisp
+- Item: Sitrus Berry
+- Ability: Unburden
+- Nature: Adamant
+- EVs: 12 HP/252 Atk/32 Def/32 SpD/180 Spe/
+---
+Pokémon: Buneary
+- Moves: Splash, Return, Drain Punch, Quick Attack/Fire Punch
+- Item: Normalium Z
+- Ability: Limber
+- Nature: Jolly
+- EVs: 228 Atk/4 Def/236 Spe/
+---
+Pokémon: Lopunny
+- Moves: Frustration, High Jump Kick, Power-Up Punch, Encore
+- Item: Lopunnite
+- Ability: Limber
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Mismagius
+- Moves: Nasty Plot, Shadow Ball, Power Gem, Taunt/Protect
+- Item: Ghostium Z
+- Ability: Levitate
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Oddish
+- Moves: Sleep Powder, Synthesis/Strength Sap, Sludge Bomb, Giga Drain
+- Item: Eviolite
+- Ability: Chlorophyll
+- Nature: Bold
+- EVs: 156 HP/236 Def/76 SpD/36 Spe/
+---
+Pokémon: Honchkrow
+- Moves: Brave Bird, Sucker Punch, Superpower, Taunt
+- Item: Darkinium Z
+- Ability: Moxie
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Glameow
+- Moves: Return, Sucker Punch, Play Rough, Knock Off/Fake Out
+- Item: Life Orb
+- Ability: Limber
+- Nature: Jolly
+- EVs: 1 HP/
+---
+Pokémon: Purugly
+- Moves: Fake Out, Return, Sucker Punch/Knock Off, U-turn
+- Item: Silk Scarf
+- Ability: Defiant
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Chingling
+- Moves: Psychic, Recover, Grass Knot, Knock Off/Hidden Power/Hypnosis
+- Item: Eviolite
+- Ability: Levitate
+- Nature: Bold
+- EVs: 156 HP/116 Def/196 SpD/
+---
+Pokémon: Stunky
+- Moves: Pursuit, Sucker Punch, Defog, Memento/Fire Blast/Sludge Bomb
+- Item: Eviolite
+- Ability: Aftermath
+- Nature: Careful
+- EVs: 252 Atk/60 Def/188 SpD/4 Spe/
+---
+Pokémon: Skuntank
+- Moves: Defog, Dark Pulse, Sludge Bomb/Acid Spray, Fire Blast/Taunt
+- Item: Black Sludge
+- Ability: Aftermath
+- Nature: Modest
+- EVs: 4 HP/252 SpA/252 Spe/
+---
+Pokémon: Bronzor
+- Moves: Toxic, Psywave, Stealth Rock, Rest
+- Item: Eviolite
+- Ability: Levitate
+- Nature: Calm
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Bronzong
+- Moves: Stealth Rock, Toxic, Psywave, Earthquake/Gyro Ball/Protect
+- Item: Leftovers
+- Ability: Levitate
+- Nature: Sassy
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Bonsly
+- Moves: Stealth Rock, Rock Slide, Stomping Tantrum, Counter/Sucker Punch
+- Item: Berry Juice
+- Ability: Sturdy
+- Nature: Jolly
+- EVs: 36 HP/196 Atk/76 Def/196 Spe/
+---
+Pokémon: Chatot
+- Moves: Nasty Plot, Boomburst, Encore, Heat Wave
+- Item: Normalium Z
+- Ability: Tangled Feet
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Spiritomb
+- Moves: Calm Mind, Dark Pulse, Rest, Sleep Talk
+- Item: Darkinium Z
+- Ability: Pressure
+- Nature: Bold
+- EVs: 248 HP/252 Def/8 SpD/
+---
+Pokémon: Gible
+- Moves: Stealth Rock, Draco Meteor, Earth Power, Fire Blast
+- Item: Berry Juice
+- Ability: Rough Skin
+- Nature: Bold
+- EVs: 52 HP/156 Def/116 SpA/156 SpD/20 Spe/
+---
+Pokémon: Gabite
+- Moves: Stealth Rock, Earthquake, Dragon Claw, Toxic/Roar
+- Item: Eviolite
+- Ability: Rough Skin
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Garchomp
+- Moves: Swords Dance, Aqua Tail/Fire Fang/Substitute, Earthquake, Stone Edge
+- Item: Garchompite
+- Ability: Rough Skin
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Munchlax
+- Moves: Body Slam/Return, Whirlwind/Earthquake/Curse, Rest, Sleep Talk
+- Item: Eviolite
+- Ability: Thick Fat
+- Nature: Impish
+- EVs: 236 Atk/36 Def/236 SpD/
+---
+Pokémon: Riolu
+- Moves: Swords Dance, Copycat, High Jump Kick, Crunch/Zen Headbutt/Iron Tail/Protect
+- Item: Eviolite
+- Ability: Prankster
+- Nature: Adamant
+- EVs: 116 HP/196 Atk/116 Def/36 SpD/36 Spe/
+---
+Pokémon: Lucario
+- Moves: Swords Dance, Meteor Mash, Close Combat, Bullet Punch
+- Item: Lucarionite
+- Ability: Justified
+- Nature: Adamant
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Hippopotas
+- Moves: Slack Off, Stealth Rock, Earthquake, Rock Tomb/Whirlwind
+- Item: Eviolite
+- Ability: Sand Stream
+- Nature: Careful
+- EVs: 132 HP/20 Atk/132 Def/180 SpD/20 Spe/
+---
+Pokémon: Vileplume
+- Moves: Giga Drain, Sludge Bomb, Strength Sap, Sleep Powder
+- Item: Black Sludge
+- Ability: Effect Spore
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Hippowdon
+- Moves: Stealth Rock, Earthquake, Slack Off, Whirlwind/Toxic
+- Item: Rocky Helmet
+- Ability: Sand Force
+- Nature: Impish
+- EVs: 252 HP/80 Def/176 SpD/
+---
+Pokémon: Skorupi
+- Moves: Toxic Spikes, Taunt, Knock Off, Poison Jab
+- Item: Eviolite
+- Ability: Battle Armor
+- Nature: Jolly
+- EVs: 196 HP/36 Atk/36 Def/236 Spe/
+---
+Pokémon: Drapion
+- Moves: Knock Off, Poison Jab, Pursuit, Aqua Tail/Earthquake
+- Item: Choice Band
+- Ability: Sniper
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Croagunk
+- Moves: Drain Punch, Gunk Shot, Bulk Up/Thief/Knock Off, Bulk Up/Sucker Punch
+- Item: Eviolite
+- Ability: Dry Skin
+- Nature: Adamant
+- EVs: 52 HP/188 Atk/116 Def/116 SpD/36 Spe/
+---
+Pokémon: Toxicroak
+- Moves: Gunk Shot, Low Kick, Earthquake, Knock Off
+- Item: Choice Scarf
+- Ability: Dry Skin
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Carnivine
+- Moves: Swords Dance, Power Whip, Knock Off, Sleep Powder
+- Item: Grassium Z
+- Ability: Levitate
+- Nature: Adamant
+- EVs: 188 HP/252 Atk/68 Spe/
+---
+Pokémon: Finneon
+- Moves: Defog, Scald, U-turn, Hidden Power
+- Item: Eviolite
+- Ability: Storm Drain
+- Nature: Bold
+- EVs: 44 HP/232 Def/48 SpA/112 SpD/72 Spe/
+---
+Pokémon: Lumineon
+- Moves: Defog, Scald, U-turn, Toxic
+- Item: Leftovers
+- Ability: Storm Drain
+- Nature: Bold
+- EVs: 252 HP/248 Def/8 Spe/
+---
+Pokémon: Mantyke
+- Moves: Rain Dance, Hydro Pump, Air Slash, Hidden Power/Hidden Power
+- Item: Eviolite
+- Ability: Swift Swim
+- Nature: Modest
+- EVs: 9 HP/
+---
+Pokémon: Snover
+- Moves: Blizzard, Giga Drain, Ice Shard, Hidden Power
+- Item: Eviolite
+- Ability: Snow Warning
+- Nature: Quiet
+- EVs: 36 HP/104 Atk/40 Def/184 SpA/120 SpD/
+---
+Pokémon: Paras
+- Moves: Spore, Knock Off, Seed Bomb, Leech Life
+- Item: Eviolite
+- Ability: Dry Skin
+- Nature: Adamant
+- EVs: 116 Atk/156 Def/156 SpD/76 Spe/
+---
+Pokémon: Abomasnow
+- Moves: Swords Dance, Wood Hammer, Ice Shard, Earthquake
+- Item: Abomasite
+- Ability: Soundproof
+- Nature: Adamant
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Weavile
+- Moves: Icicle Crash, Knock Off, Beat Up/Ice Shard, Beat Up/Pursuit
+- Item: Choice Band
+- Ability: Pressure
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Magnezone
+- Moves: Thunderbolt, Hidden Power, Flash Cannon, Volt Switch
+- Item: Choice Specs
+- Ability: Magnet Pull
+- Nature: Modest
+- EVs: 4 HP/252 SpA/252 Spe/
+---
+Pokémon: Lickilicky
+- Moves: Wish, Protect, Seismic Toss/Toxic, Seismic Toss/Heal Bell
+- Item: Leftovers
+- Ability: Oblivious
+- Nature: Calm
+- EVs: 248 HP/8 Def/252 SpD/
+---
+Pokémon: Rhyperior
+- Moves: Earthquake, Stone Edge, Megahorn, Ice Punch
+- Item: Choice Band
+- Ability: Solid Rock
+- Nature: Adamant
+- EVs: 52 HP/252 Atk/204 Spe/
+---
+Pokémon: Tangrowth
+- Moves: Giga Drain, Knock Off, Sludge Bomb/Hidden Power, Sludge Bomb/Earthquake
+- Item: Assault Vest
+- Ability: Regenerator
+- Nature: Sassy
+- EVs: 252 HP/12 Def/244 SpD/
+---
+Pokémon: Electivire
+- Moves: Thunderbolt/Wild Charge, Flamethrower, Ice Punch, Cross Chop
+- Item: Expert Belt
+- Ability: Motor Drive
+- Nature: Hasty
+- EVs: 252 Atk/4 SpA/252 Spe/
+---
+Pokémon: Magmortar
+- Moves: Fire Blast, Focus Blast, Thunderbolt, Hidden Power
+- Item: Choice Specs
+- Ability: Vital Spirit
+- Nature: Modest
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Togekiss
+- Moves: Air Slash, Thunder Wave, Trick, Roost
+- Item: Choice Scarf
+- Ability: Serene Grace
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Yanmega
+- Moves: Protect, Bug Buzz, Air Slash, Giga Drain
+- Item: Life Orb
+- Ability: Speed Boost
+- Nature: Modest
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Parasect
+- Moves: Spore, Leech Life, Knock Off, Synthesis
+- Item: Leftovers
+- Ability: Dry Skin
+- Nature: Careful
+- EVs: 248 HP/8 Def/252 SpD/
+---
+Pokémon: Leafeon
+- Moves: Celebrate, Double-Edge/Swords Dance, Leaf Blade, Knock Off
+- Item: Normalium Z
+- Ability: Leaf Guard
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Glaceon
+- Moves: Celebrate, Ice Beam, Shadow Ball, Hidden Power/Hidden Power
+- Item: Normalium Z
+- Ability: Snow Cloak
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Gliscor
+- Moves: Stealth Rock/Defog, Earthquake, Roost, Knock Off/U-turn/Toxic
+- Item: Toxic Orb
+- Ability: Poison Heal
+- Nature: Jolly
+- EVs: 248 HP/64 Def/60 SpD/136 Spe/
+---
+Pokémon: Mamoswine
+- Moves: Ice Shard, Earthquake, Icicle Crash, Knock Off
+- Item: Life Orb
+- Ability: Thick Fat
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Porygon-Z
+- Moves: Thunderbolt, Ice Beam, Recover, Conversion
+- Item: Normalium Z
+- Ability: Adaptability
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Gallade
+- Moves: Swords Dance, Close Combat, Zen Headbutt, Knock Off
+- Item: Galladite
+- Ability: Justified
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Probopass
+- Moves: Stealth Rock, Earth Power/Flash Cannon, Volt Switch, Taunt/Toxic
+- Item: Leftovers
+- Ability: Magnet Pull
+- Nature: Calm
+- EVs: 252 HP/172 SpD/84 Spe/
+---
+Pokémon: Dusknoir
+- Moves: Trick Room, Will-O-Wisp, Brick Break, Memento
+- Item: Darkinium Z
+- Ability: Frisk
+- Nature: Relaxed
+- EVs: 252 HP/112 Atk/144 Def/
+---
+Pokémon: Froslass
+- Moves: Spikes, Taunt, Icy Wind, Destiny Bond
+- Item: Focus Sash
+- Ability: Cursed Body
+- Nature: Timid
+- EVs: 4 HP/252 SpA/252 Spe/
+---
+Pokémon: Rotom
+- Moves: Thunderbolt, Shadow Ball, Volt Switch, Defog/Trick
+- Item: Choice Specs
+- Ability: Levitate
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Rotom-Fan
+- Moves: Volt Switch, Air Slash, Thunderbolt/Will-O-Wisp, Trick
+- Item: Choice Scarf
+- Ability: Levitate
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Rotom-Frost
+- Moves: Blizzard, Volt Switch, Thunderbolt, Defog/Trick
+- Item: Choice Scarf
+- Ability: Levitate
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Rotom-Heat
+- Moves: Overheat, Volt Switch, Toxic, Pain Split
+- Item: Firium Z
+- Ability: Levitate
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Rotom-Mow
+- Moves: Defog, Leaf Storm, Volt Switch, Will-O-Wisp
+- Item: Grassium Z
+- Ability: Levitate
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Rotom-Wash
+- Moves: Hydro Pump, Volt Switch, Thunder, Pain Split
+- Item: Electrium Z
+- Ability: Levitate
+- Nature: Timid
+- EVs: 108 HP/184 SpA/216 Spe/
+---
+Pokémon: Venonat
+- Moves: Sleep Powder, Morning Sun, Sludge Bomb, Psychic
+- Item: Eviolite
+- Ability: Compound Eyes
+- Nature: Bold
+- EVs: 36 HP/36 Def/116 SpA/76 SpD/236 Spe/
+---
+Pokémon: Uxie
+- Moves: Stealth Rock, Psyshock, Yawn, Memento/U-turn
+- Item: Colbur Berry
+- Ability: Levitate
+- Nature: Timid
+- EVs: 252 HP/40 Def/216 Spe/
+---
+Pokémon: Mesprit
+- Moves: Stealth Rock, Psychic, Thunderbolt/Thunder, Ice Beam/Energy Ball
+- Item: Electrium Z
+- Ability: Levitate
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Azelf
+- Moves: Reflect, Light Screen, Taunt, Explosion/U-turn
+- Item: Light Clay
+- Ability: Levitate
+- Nature: Jolly
+- EVs: 252 Def/40 SpD/216 Spe/
+---
+Pokémon: Dialga
+- Moves: Stealth Rock, Draco Meteor, Fire Blast, Toxic/Thunder
+- Item: Shuca Berry
+- Ability: Pressure
+- Nature: Modest
+- EVs: 104 HP/252 SpA/152 Spe/
+---
+Pokémon: Palkia
+- Moves: Hydro Pump, Draco Meteor/Spacial Rend, Thunder, Fire Blast/Focus Punch
+- Item: Life Orb
+- Ability: Pressure
+- Nature: Mild
+- EVs: 4 Atk/252 SpA/252 Spe/
+---
+Pokémon: Heatran
+- Moves: Magma Storm, Earth Power, Flash Cannon/Solar Beam/Toxic, Toxic/Taunt/Stealth Rock
+- Item: Steelium Z
+- Ability: Flash Fire
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Regigigas
+- Moves: Toxic/Thunder Wave, Knock Off, Return, Substitute/Drain Punch
+- Item: Leftovers
+- Ability: Slow Start
+- Nature: Adamant
+- EVs: 252 HP/252 Atk/4 SpD/
+---
+Pokémon: Giratina
+- Moves: Defog, Rest, Toxic, Roar/Will-O-Wisp
+- Item: Leftovers
+- Ability: Pressure
+- Nature: Relaxed
+- EVs: 248 HP/208 Def/52 SpD/
+---
+Pokémon: Giratina-Origin
+- Moves: Defog, Hex, Draco Meteor/Dragon Pulse, Will-O-Wisp/Thunder Wave
+- Item: Griseous Orb
+- Ability: Levitate
+- Nature: Modest
+- EVs: 248 HP/208 SpA/52 SpD/
+---
+Pokémon: Cresselia
+- Moves: Moonlight, Psyshock, Ice Beam/Moonblast, Toxic
+- Item: Leftovers
+- Ability: Levitate
+- Nature: Bold
+- EVs: 252 HP/112 Def/144 Spe/
+---
+Pokémon: Phione
+- Moves: Rain Dance, Heal Bell, Scald, U-turn
+- Item: Damp Rock
+- Ability: Hydration
+- Nature: Relaxed
+- EVs: 0 Spe/
+---
+Pokémon: Venomoth
+- Moves: Quiver Dance, Sleep Powder, Bug Buzz, Sludge Bomb
+- Item: Buginium Z
+- Ability: Tinted Lens
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Manaphy
+- Moves: Tail Glow, Surf, Ice Beam, Psychic
+- Item: Waterium Z
+- Ability: Hydration
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Darkrai
+- Moves: Hypnosis, Nasty Plot, Dark Pulse, Sludge Bomb/Thunder
+- Item: Life Orb
+- Ability: Bad Dreams
+- Nature: Timid
+- EVs: 4 HP/252 SpA/252 Spe/
+---
+Pokémon: Shaymin
+- Moves: Celebrate, Seed Flare, Air Slash, Earth Power
+- Item: Normalium Z
+- Ability: Natural Cure
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Shaymin-Sky
+- Moves: Seed Flare, Air Slash, Hidden Power/Earth Power, Healing Wish
+- Item: Metronome
+- Ability: Serene Grace
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Arceus
+- Moves: Swords Dance, Extreme Speed, Refresh, Shadow Claw
+- Item: Normalium Z
+- Ability: Multitype
+- Nature: Adamant
+- EVs: 132 HP/252 Atk/124 Spe/
+---
+Pokémon: Arceus-Bug
+- Moves: Stealth Rock, Judgment, Recover, Ice Beam/Toxic
+- Item: Insect Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 248 HP/16 Def/144 SpA/96 Spe/
+---
+Pokémon: Arceus-Dark
+- Moves: Judgment, Calm Mind, Recover, Refresh
+- Item: Dread Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 252 HP/4 SpA/252 Spe/
+---
+Pokémon: Arceus-Dragon
+- Moves: Defog, Recover, Judgment, Fire Blast/Will-O-Wisp
+- Item: Draco Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 252 HP/40 Def/24 SpD/192 Spe/
+---
+Pokémon: Arceus-Electric
+- Moves: Calm Mind, Judgment, Ice Beam, Recover
+- Item: Zap Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 252 HP/4 SpA/252 Spe/
+---
+Pokémon: Arceus-Fighting
+- Moves: Calm Mind, Judgment, Ice Beam/Shadow Ball, Recover
+- Item: Fist Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Arceus-Fire
+- Moves: Calm Mind, Overheat/Fire Blast, Thunder, Ice Beam
+- Item: Firium Z
+- Ability: Multitype
+- Nature: Modest
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Arceus-Flying
+- Moves: Calm Mind, Refresh, Recover, Judgment
+- Item: Sky Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 248 HP/8 SpA/252 Spe/
+---
+Pokémon: Arceus-Ghost
+- Moves: Swords Dance, Shadow Force, Stone Edge/Brick Break, Shadow Claw/Substitute
+- Item: Ghostium Z
+- Ability: Multitype
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Arceus-Grass
+- Moves: Grass Knot, Ice Beam, Fire Blast, Recover
+- Item: Meadow Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 80 HP/176 SpA/252 Spe/
+---
+Pokémon: Arceus-Ground
+- Moves: Swords Dance, Earthquake, Stone Edge, Substitute/Recover
+- Item: Earth Plate
+- Ability: Multitype
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Arceus-Ice
+- Moves: Calm Mind, Recover, Judgment, Fire Blast/Thunder
+- Item: Icicle Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 172 HP/84 SpA/252 Spe/
+---
+Pokémon: Arceus-Poison
+- Moves: Calm Mind, Sludge Bomb, Recover, Fire Blast/Earth Power
+- Item: Toxic Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 248 HP/8 SpD/252 Spe/
+---
+Pokémon: Arceus-Psychic
+- Moves: Judgment, Will-O-Wisp, Recover, Toxic/Ice Beam
+- Item: Mind Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 252 HP/4 Def/252 Spe/
+---
+Pokémon: Arceus-Rock
+- Moves: Judgment, Will-O-Wisp, Recover, Stealth Rock
+- Item: Stone Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 252 HP/16 Def/144 SpA/96 Spe/
+---
+Pokémon: Arceus-Steel
+- Moves: Swords Dance, Iron Head, Earthquake, Recover/Stone Edge
+- Item: Steelium Z
+- Ability: Multitype
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Arceus-Water
+- Moves: Stealth Rock, Judgment, Ice Beam, Recover
+- Item: Splash Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 252 HP/16 Def/144 SpA/96 Spe/
+---
+Pokémon: Arceus-Fairy
+- Moves: Judgment, Stealth Rock, Recover, Toxic/Will-O-Wisp
+- Item: Pixie Plate
+- Ability: Multitype
+- Nature: Timid
+- EVs: 252 HP/4 Def/252 Spe/
+---
+Pokémon: Victini
+- Moves: Celebrate, Searing Shot, Stored Power, Focus Blast
+- Item: Normalium Z
+- Ability: Victory Star
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Snivy
+- Moves: Leaf Storm, Defog/Giga Drain, Defog/Knock Off, Hidden Power/Hidden Power
+- Item: Choice Scarf
+- Ability: Contrary
+- Nature: Timid
+- EVs: 240 SpA/252 Spe/
+---
+Pokémon: Servine
+- Moves: Leaf Storm, Knock Off, Synthesis/Glare, Synthesis/Hidden Power
+- Item: Eviolite
+- Ability: Contrary
+- Nature: Calm
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Serperior
+- Moves: Leaf Storm, Glare, Hidden Power/Defog, Hidden Power/Knock Off
+- Item: Choice Scarf
+- Ability: Contrary
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Tepig
+- Moves: Flare Blitz, Wild Charge/Head Smash, Sucker Punch, Flame Charge/Superpower
+- Item: Life Orb
+- Ability: Thick Fat
+- Nature: Jolly
+- EVs: 252 Atk/236 Spe/
+---
+Pokémon: Diglett
+- Moves: Earthquake, Memento/Sucker Punch, Rock Slide, Stealth Rock/Reversal/Memento
+- Item: Focus Sash
+- Ability: Arena Trap
+- Nature: Jolly
+- EVs: 36 HP/236 Atk/236 Spe/
+---
+Pokémon: Diglett-Alola
+- Moves: Iron Head, Earthquake, Rock Slide, Substitute
+- Item: Life Orb
+- Ability: Sand Force
+- Nature: Jolly
+- EVs: 36 HP/236 Atk/36 Def/196 Spe/
+---
+Pokémon: Emboar
+- Moves: Flare Blitz, Superpower, Wild Charge, Sucker Punch/Earthquake
+- Item: Choice Band
+- Ability: Reckless
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Oshawott
+- Moves: Swords Dance, Aerial Ace/Sacred Sword, Aqua Jet, Aqua Tail
+- Item: Life Orb
+- Ability: Torrent
+- Nature: Jolly
+- EVs: 236 Atk/236 Spe/
+---
+Pokémon: Samurott
+- Moves: Swords Dance, Liquidation, Aqua Jet, Megahorn
+- Item: Waterium Z
+- Ability: Torrent
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Patrat
+- Moves: Swords Dance, Hypnosis, Return, Crunch/Zen Headbutt
+- Item: Eviolite
+- Ability: Analytic
+- Nature: Adamant
+- EVs: 236 Atk/204 Def/44 SpD/20 Spe/
+---
+Pokémon: Watchog
+- Moves: Return, Low Kick, Knock Off, Seed Bomb
+- Item: Life Orb
+- Ability: Analytic
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Lillipup
+- Moves: Return, Play Rough, Fire Fang, Thunder Wave
+- Item: Eviolite
+- Ability: Vital Spirit
+- Nature: Jolly
+- EVs: 196 Atk/76 Def/236 Spe/
+---
+Pokémon: Stoutland
+- Moves: Return, Superpower, Pursuit, Facade
+- Item: Choice Band
+- Ability: Scrappy
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Purrloin
+- Moves: Encore, U-turn, Knock Off, Taunt/Thunder Wave
+- Item: Berry Juice
+- Ability: Prankster
+- Nature: Careful
+- EVs: 188 HP/36 Atk/140 Def/60 SpD/68 Spe/
+---
+Pokémon: Dugtrio
+- Moves: Earthquake, Toxic, Stealth Rock, Memento
+- Item: Focus Sash
+- Ability: Sand Force
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Dugtrio-Alola
+- Moves: Earthquake, Iron Head, Sucker Punch, Memento/Pursuit
+- Item: Life Orb
+- Ability: Tangling Hair
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Liepard
+- Moves: Knock Off, Sunny Day/Rain Dance, Thunder Wave/Encore, U-turn
+- Item: Heat Rock
+- Ability: Prankster
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Pansage
+- Moves: Bullet Seed, Knock Off, Low Sweep, Gunk Shot
+- Item: Life Orb
+- Ability: Overgrow
+- Nature: Jolly
+- EVs: 252 Atk/244 Spe/
+---
+Pokémon: Simisage
+- Moves: Nasty Plot, Energy Ball/Giga Drain, Focus Blast, Hidden Power
+- Item: Life Orb
+- Ability: Overgrow
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Pansear
+- Moves: Recycle, Will-O-Wisp, Substitute, Flame Charge
+- Item: Berry Juice
+- Ability: Blaze
+- Nature: Jolly
+- EVs: 36 HP/12 Atk/212 Def/212 SpD/4 Spe/
+---
+Pokémon: Simisear
+- Moves: Nasty Plot, Fire Blast, Hidden Power/Substitute/Taunt, Focus Blast/Grass Knot
+- Item: Life Orb
+- Ability: Blaze
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Panpour
+- Moves: Nasty Plot, Hydro Pump, Ice Beam, Hidden Power
+- Item: Eviolite
+- Ability: Torrent
+- Nature: Timid
+- EVs: 36 HP/52 Def/176 SpA/244 Spe/
+---
+Pokémon: Simipour
+- Moves: Nasty Plot, Hydro Pump, Ice Beam, Focus Blast/Substitute
+- Item: Waterium Z
+- Ability: Torrent
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Munna
+- Moves: Calm Mind, Stored Power, Dazzling Gleam, Moonlight
+- Item: Eviolite
+- Ability: Synchronize
+- Nature: Bold
+- EVs: 68 HP/156 Def/60 SpA/156 SpD/4 Spe/
+---
+Pokémon: Musharna
+- Moves: Calm Mind, Barrier, Rest, Stored Power/Dazzling Gleam
+- Item: Leftovers
+- Ability: Synchronize
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpA/
+---
+Pokémon: Pidove
+- Moves: Tailwind, Aerial Ace, U-turn/Hidden Power, Return
+- Item: Flyinium Z
+- Ability: Super Luck
+- Nature: Adamant
+- EVs: 240 Atk/252 Spe/
+---
+Pokémon: Meowth
+- Moves: Fake Out, Return/Feint, Water Pulse, U-turn/Knock Off/Aerial Ace
+- Item: Life Orb
+- Ability: Technician
+- Nature: Hasty
+- EVs: 19 HP/
+---
+Pokémon: Meowth-Alola
+- Moves: Nasty Plot, Dark Pulse, Hidden Power, Parting Shot/Thunderbolt
+- Item: Life Orb
+- Ability: Technician
+- Nature: Timid
+- EVs: 19 HP/
+---
+Pokémon: Unfezant
+- Moves: Tailwind, Hypnosis, U-turn, Return
+- Item: Scope Lens
+- Ability: Super Luck
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Blitzle
+- Moves: Wild Charge, Double-Edge/Volt Switch, Flame Charge, Hidden Power
+- Item: Life Orb
+- Ability: Sap Sipper
+- Nature: Naive
+- EVs: 9 HP/
+---
+Pokémon: Zebstrika
+- Moves: Thunderbolt, Volt Switch, Overheat, Hidden Power
+- Item: Life Orb
+- Ability: Sap Sipper
+- Nature: Timid
+- EVs: 29 HP/
+---
+Pokémon: Roggenrola
+- Moves: Stealth Rock, Rock Blast, Earthquake, Explosion
+- Item: Eviolite
+- Ability: Weak Armor
+- Nature: Jolly
+- EVs: 156 Atk/76 Def/76 SpD/156 Spe/
+---
+Pokémon: Gigalith
+- Moves: Stealth Rock, Rock Blast/Stone Edge, Earthquake, Toxic
+- Item: Leftovers
+- Ability: Sand Stream
+- Nature: Careful
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Woobat
+- Moves: Calm Mind, Stored Power, Air Slash/Heat Wave, Substitute/Roost
+- Item: Salac Berry
+- Ability: Simple
+- Nature: Timid
+- EVs: 76 HP/12 Def/236 SpA/180 Spe/
+---
+Pokémon: Swoobat
+- Moves: Substitute, Calm Mind, Stored Power, Heat Wave
+- Item: Salac Berry
+- Ability: Simple
+- Nature: Timid
+- EVs: 4 HP/252 SpA/252 Spe/
+---
+Pokémon: Drilbur
+- Moves: Earthquake, Rock Slide, Shadow Claw, Poison Jab/Rapid Spin
+- Item: Groundium Z
+- Ability: Mold Breaker
+- Nature: Jolly
+- EVs: 36 HP/236 Atk/212 Spe/
+---
+Pokémon: Persian
+- Moves: Nasty Plot, Hyper Voice, Hidden Power, Substitute/Water Pulse
+- Item: Normalium Z
+- Ability: Technician
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Persian-Alola
+- Moves: Parting Shot, Taunt, Foul Play, Toxic
+- Item: Darkinium Z
+- Ability: Fur Coat
+- Nature: Jolly
+- EVs: 252 HP/4 Def/252 Spe/
+---
+Pokémon: Excadrill
+- Moves: Stealth Rock, Earthquake, Toxic/Rock Tomb, Rapid Spin
+- Item: Focus Sash
+- Ability: Mold Breaker
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Audino
+- Moves: Wish, Protect, Toxic/Heal Bell, Dazzling Gleam/Knock Off
+- Item: Audinite
+- Ability: Regenerator
+- Nature: Calm
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Timburr
+- Moves: Drain Punch, Mach Punch, Knock Off, Bulk Up
+- Item: Eviolite
+- Ability: Iron Fist
+- Nature: Careful
+- EVs: 116 Atk/156 Def/236 SpD/
+---
+Pokémon: Gurdurr
+- Moves: Drain Punch, Mach Punch, Knock Off, Bulk Up
+- Item: Eviolite
+- Ability: Guts
+- Nature: Adamant
+- EVs: 252 HP/44 Atk/212 Def/
+---
+Pokémon: Conkeldurr
+- Moves: Drain Punch, Mach Punch, Knock Off, Facade
+- Item: Flame Orb
+- Ability: Guts
+- Nature: Adamant
+- EVs: 104 HP/252 Atk/152 Spe/
+---
+Pokémon: Tympole
+- Moves: Rain Dance, Hydro Pump, Earth Power, Sludge Bomb
+- Item: Life Orb
+- Ability: Swift Swim
+- Nature: Modest
+- EVs: 116 Def/196 SpA/36 SpD/84 Spe/
+---
+Pokémon: Seismitoad
+- Moves: Substitute, Toxic, Scald, Earthquake
+- Item: Leftovers
+- Ability: Water Absorb
+- Nature: Timid
+- EVs: 252 HP/24 Def/232 Spe/
+---
+Pokémon: Throh
+- Moves: Bulk Up, Storm Throw, Knock Off, Substitute
+- Item: Leftovers
+- Ability: Mold Breaker
+- Nature: Impish
+- EVs: 128 HP/104 Def/152 SpD/124 Spe/
+---
+Pokémon: Sawk
+- Moves: Close Combat, Knock Off, Taunt, Earthquake/Poison Jab
+- Item: Fightinium Z
+- Ability: Sturdy
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Psyduck
+- Moves: Hydro Pump, Psychic, Ice Beam, Scald/Hidden Power
+- Item: Choice Scarf
+- Ability: Cloud Nine
+- Nature: Timid
+- EVs: 240 SpA/240 Spe/
+---
+Pokémon: Leavanny
+- Moves: Sticky Web, Leaf Blade, X-Scissor, Magic Coat/Knock Off
+- Item: Focus Sash
+- Ability: Swarm
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Venipede
+- Moves: Spikes, Toxic Spikes/Solar Beam, Protect, Pin Missile
+- Item: Eviolite
+- Ability: Speed Boost
+- Nature: Impish
+- EVs: 76 Atk/204 Def/36 SpA/44 SpD/148 Spe/
+---
+Pokémon: Scolipede
+- Moves: Swords Dance, Megahorn, Aqua Tail, Earthquake
+- Item: Waterium Z
+- Ability: Speed Boost
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Cottonee
+- Moves: Hidden Power/Giga Drain, Hidden Power/Dazzling Gleam, Knock Off/Encore, Tailwind/Knock Off/Memento
+- Item: Eviolite
+- Ability: Prankster
+- Nature: Timid
+- EVs: 36 HP/40 Def/144 SpA/40 SpD/232 Spe/
+---
+Pokémon: Whimsicott
+- Moves: Moonblast, Energy Ball, Psychic, U-turn
+- Item: Choice Specs
+- Ability: Infiltrator
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Petilil
+- Moves: Sunny Day, Giga Drain/Solar Beam, Hidden Power, Sleep Powder
+- Item: Life Orb
+- Ability: Chlorophyll
+- Nature: Timid
+- EVs: 36 Def/200 SpA/36 SpD/200 Spe/
+---
+Pokémon: Lilligant
+- Moves: Quiver Dance, Hidden Power/Sleep Powder, Energy Ball/Giga Drain, Hyper Beam
+- Item: Normalium Z
+- Ability: Chlorophyll
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Golduck
+- Moves: Rain Dance, Hydro Pump, Ice Beam, Synchronoise
+- Item: Waterium Z
+- Ability: Swift Swim
+- Nature: Modest
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Basculin
+- Moves: Liquidation, Ice Beam, Superpower, Aqua Jet
+- Item: Life Orb
+- Ability: Adaptability
+- Nature: Naive
+- EVs: 29 HP/
+---
+Pokémon: Sandile
+- Moves: Earthquake, Crunch, Stone Edge/Fire Fang, Stone Edge/Pursuit
+- Item: Choice Scarf
+- Ability: Moxie
+- Nature: Jolly
+- EVs: 180 Atk/76 Def/236 Spe/
+---
+Pokémon: Krookodile
+- Moves: Stealth Rock, Knock Off, Earthquake, Pursuit/Taunt
+- Item: Focus Sash
+- Ability: Intimidate
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Darumaka
+- Moves: Flare Blitz, U-turn, Superpower, Zen Headbutt/Rock Slide
+- Item: Choice Scarf
+- Ability: Hustle
+- Nature: Jolly
+- EVs: 116 HP/196 Atk/196 Spe/
+---
+Pokémon: Darmanitan
+- Moves: Flare Blitz, U-turn, Earthquake, Fire Punch/Rock Slide
+- Item: Choice Band
+- Ability: Sheer Force
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Maractus
+- Moves: Spikes, Endeavor, Energy Ball, Sucker Punch
+- Item: Focus Sash
+- Ability: Water Absorb
+- Nature: Naive
+- EVs: 4 Atk/252 SpA/252 Spe/
+---
+Pokémon: Dwebble
+- Moves: Shell Smash, Rock Blast, Earthquake, Aerial Ace/Knock Off/Substitute
+- Item: Berry Juice
+- Ability: Sturdy
+- Nature: Adamant
+- EVs: 236 Atk/236 Spe/
+---
+Pokémon: Crustle
+- Moves: Stealth Rock, Spikes, Knock Off, Rock Blast/Stone Edge
+- Item: Custap Berry
+- Ability: Sturdy
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Scraggy
+- Moves: High Jump Kick, Knock Off, Poison Jab, Zen Headbutt/Drain Punch
+- Item: Choice Scarf
+- Ability: Moxie
+- Nature: Jolly
+- EVs: 36 HP/236 Atk/212 Spe/
+---
+Pokémon: Mankey
+- Moves: Close Combat, Gunk Shot, U-turn, Earthquake
+- Item: Choice Scarf
+- Ability: Defiant
+- Nature: Adamant
+- EVs: 36 HP/196 Atk/76 Def/196 Spe/
+---
+Pokémon: Scrafty
+- Moves: Dragon Dance, Knock Off, High Jump Kick, Drain Punch
+- Item: Chople Berry
+- Ability: Moxie
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Sigilyph
+- Moves: Calm Mind, Air Slash, Roost, Stored Power/Cosmic Power
+- Item: Flyinium Z
+- Ability: Magic Guard
+- Nature: Timid
+- EVs: 252 HP/4 Def/252 Spe/
+---
+Pokémon: Yamask
+- Moves: Will-O-Wisp, Hex, Knock Off, Toxic Spikes
+- Item: Eviolite
+- Ability: Mummy
+- Nature: Relaxed
+- EVs: 52 HP/36 Atk/156 Def/236 SpD/
+---
+Pokémon: Cofagrigus
+- Moves: Shadow Ball, Hidden Power, Trick Room, Nasty Plot
+- Item: Ghostium Z
+- Ability: Mummy
+- Nature: Quiet
+- EVs: 0 Spe/
+---
+Pokémon: Tirtouga
+- Moves: Shell Smash, Aqua Jet/Waterfall, Stone Edge, Earthquake/Zen Headbutt
+- Item: Berry Juice
+- Ability: Sturdy
+- Nature: Jolly
+- EVs: 212 Atk/92 Def/180 Spe/
+---
+Pokémon: Carracosta
+- Moves: Shell Smash, Stone Edge, Aqua Jet, Ice Beam/Superpower/Hydro Pump
+- Item: White Herb
+- Ability: Solid Rock
+- Nature: Naughty
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Archen
+- Moves: Defog/Stealth Rock, Rock Slide, Acrobatics, Knock Off/Defog/Earthquake
+- Item: Berry Juice
+- Ability: Defeatist
+- Nature: Jolly
+- EVs: 76 HP/20 Atk/76 Def/76 SpD/196 Spe/
+---
+Pokémon: Archeops
+- Moves: Head Smash, Stealth Rock, Endeavor, Taunt
+- Item: Focus Sash
+- Ability: Defeatist
+- Nature: Naive
+- EVs: 0 HP/0 Def/0 SpD/
+---
+Pokémon: Trubbish
+- Moves: Spikes, Recycle, Gunk Shot, Drain Punch
+- Item: Berry Juice
+- Ability: Sticky Hold
+- Nature: Jolly
+- EVs: 116 HP/36 Atk/100 Def/20 SpD/236 Spe/
+---
+Pokémon: Garbodor
+- Moves: Gunk Shot, Spikes, Seed Bomb/Toxic Spikes, Pain Split
+- Item: Rocky Helmet
+- Ability: Aftermath
+- Nature: Careful
+- EVs: 252 HP/228 SpD/28 Spe/
+---
+Pokémon: Primeape
+- Moves: Close Combat, U-turn, Stone Edge, Seed Bomb/Gunk Shot
+- Item: Choice Band
+- Ability: Defiant
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Zorua
+- Moves: Dark Pulse/Night Daze, Extrasensory, Knock Off/Nasty Plot, Knock Off/Hidden Power/U-turn
+- Item: Life Orb
+- Ability: Illusion
+- Nature: Naive
+- EVs: 36 Def/196 SpA/36 SpD/236 Spe/
+---
+Pokémon: Zoroark
+- Moves: Nasty Plot, Dark Pulse, Focus Blast, Sludge Bomb
+- Item: Fightinium Z
+- Ability: Illusion
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Minccino
+- Moves: Tail Slap, Knock Off, U-turn/Seed Bomb, Wake-Up Slap/U-turn
+- Item: Life Orb
+- Ability: Skill Link
+- Nature: Jolly
+- EVs: 196 Atk/36 Def/36 SpD/236 Spe/
+---
+Pokémon: Cinccino
+- Moves: Tail Slap, Rock Blast, Bullet Seed, U-turn/Knock Off
+- Item: Choice Band
+- Ability: Skill Link
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Gothorita
+- Moves: Charm, Confide, Taunt, Rest
+- Item: Eviolite
+- Ability: Shadow Tag
+- Nature: Sassy
+- EVs: 0 Spe/
+---
+Pokémon: Gothitelle
+- Moves: Confide, Taunt, Rest, Charm
+- Item: Leftovers
+- Ability: Shadow Tag
+- Nature: Calm
+- EVs: 248 HP/8 Def/252 SpD/
+---
+Pokémon: Solosis
+- Moves: Trick Room, Psychic, Thunder, Hidden Power
+- Item: Life Orb
+- Ability: Magic Guard
+- Nature: Quiet
+- EVs: 1 Atk/30 Def/30 SpA/30 SpD/0 Spe/
+---
+Pokémon: Duosion
+- Moves: Calm Mind, Psyshock/Psychic, Acid Armor/Signal Beam, Recover
+- Item: Eviolite
+- Ability: Magic Guard
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpA/
+---
+Pokémon: Reuniclus
+- Moves: Calm Mind, Acid Armor, Psyshock, Recover
+- Item: Rocky Helmet
+- Ability: Magic Guard
+- Nature: Bold
+- EVs: 252 HP/212 Def/44 Spe/
+---
+Pokémon: Growlithe
+- Moves: Will-O-Wisp, Morning Sun, Flare Blitz, Hidden Power/Wild Charge
+- Item: Eviolite
+- Ability: Intimidate
+- Nature: Impish
+- EVs: 76 HP/36 Atk/156 Def/196 SpD/36 Spe/
+---
+Pokémon: Ducklett
+- Moves: Air Slash/Hurricane, Scald, Defog, Roost
+- Item: Eviolite
+- Ability: Hydration
+- Nature: Bold
+- EVs: 180 HP/116 Def/4 SpA/196 SpD/
+---
+Pokémon: Swanna
+- Moves: Mirror Move, Brave Bird, Liquidation, Roost/Aqua Jet
+- Item: Flyinium Z
+- Ability: Big Pecks
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Vanillite
+- Moves: Ice Beam, Hidden Power, Explosion, Substitute
+- Item: Life Orb
+- Ability: Weak Armor
+- Nature: Modest
+- EVs: 19 HP/1 Atk/30 Def/30 SpA/30 SpD/30 Spe/
+---
+Pokémon: Vanilluxe
+- Moves: Blizzard, Freeze-Dry, Ice Shard, Hidden Power/Taunt
+- Item: Choice Specs
+- Ability: Snow Warning
+- Nature: Hasty
+- EVs: 4 Atk/252 SpA/252 Spe/
+---
+Pokémon: Deerling
+- Moves: Double-Edge/Return, Seed Bomb, Jump Kick, Wild Charge/Substitute
+- Item: Life Orb
+- Ability: Sap Sipper
+- Nature: Jolly
+- EVs: 36 HP/196 Atk/36 Def/236 Spe/
+---
+Pokémon: Sawsbuck
+- Moves: Horn Leech, Double-Edge, Jump Kick, Swords Dance
+- Item: Normalium Z
+- Ability: Sap Sipper
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Emolga
+- Moves: Thunderbolt, U-turn, Taunt/Encore, Knock Off/Roost
+- Item: Rocky Helmet
+- Ability: Motor Drive
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Karrablast
+- Moves: Megahorn, Knock Off, Drill Run, Pursuit/Poison Jab
+- Item: Choice Scarf
+- Ability: No Guard
+- Nature: Adamant
+- EVs: 236 Atk/76 Def/196 Spe/
+---
+Pokémon: Escavalier
+- Moves: Megahorn, Iron Head, Pursuit, Drill Run/Knock Off
+- Item: Choice Band
+- Ability: Overcoat
+- Nature: Adamant
+- EVs: 172 HP/252 Atk/84 Spe/
+---
+Pokémon: Arcanine
+- Moves: Flare Blitz, Wild Charge, Extreme Speed, Morning Sun
+- Item: Life Orb
+- Ability: Flash Fire
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Foongus
+- Moves: Spore, Sludge Bomb, Giga Drain, Hidden Power/Hidden Power/Synthesis
+- Item: Eviolite
+- Ability: Regenerator
+- Nature: Bold
+- EVs: 124 HP/160 Def/160 SpD/
+---
+Pokémon: Amoonguss
+- Moves: Spore, Giga Drain, Hidden Power, Sludge Bomb
+- Item: Black Sludge
+- Ability: Regenerator
+- Nature: Bold
+- EVs: 252 HP/176 Def/80 SpD/
+---
+Pokémon: Frillish
+- Moves: Water Spout, Hydro Pump/Shadow Ball, Energy Ball/Ice Beam, Trick
+- Item: Choice Scarf
+- Ability: Water Absorb
+- Nature: Timid
+- EVs: 76 HP/236 SpA/196 Spe/
+---
+Pokémon: Jellicent
+- Moves: Water Spout, Shadow Ball, Hydro Pump, Trick/Ice Beam
+- Item: Choice Specs
+- Ability: Water Absorb
+- Nature: Modest
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Alomomola
+- Moves: Wish, Protect, Knock Off/Toxic, Knock Off/Scald
+- Item: Rocky Helmet
+- Ability: Regenerator
+- Nature: Impish
+- EVs: 40 HP/252 Def/216 SpD/
+---
+Pokémon: Joltik
+- Moves: Volt Switch, Thunderbolt, Giga Drain, Bug Buzz
+- Item: Life Orb
+- Ability: Swarm
+- Nature: Timid
+- EVs: 36 Def/220 SpA/236 Spe/
+---
+Pokémon: Galvantula
+- Moves: Sticky Web, Thunder, Bug Buzz, Volt Switch
+- Item: Life Orb
+- Ability: Compound Eyes
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Ferroseed
+- Moves: Stealth Rock/Spikes, Leech Seed, Gyro Ball, Protect
+- Item: Eviolite
+- Ability: Iron Barbs
+- Nature: Relaxed
+- EVs: 0 Spe/
+---
+Pokémon: Ferrothorn
+- Moves: Stealth Rock/Spikes, Leech Seed, Knock Off/Thunder Wave/Gyro Ball, Knock Off/Protect/Power Whip
+- Item: Leftovers
+- Ability: Iron Barbs
+- Nature: Careful
+- EVs: 0 Spe/
+---
+Pokémon: Klink
+- Moves: Shift Gear, Gear Grind, Wild Charge, Return
+- Item: Eviolite
+- Ability: Clear Body
+- Nature: Adamant
+- EVs: 236 Atk/36 Def/116 SpD/116 Spe/
+---
+Pokémon: Charizard
+- Moves: Swords Dance, Flare Blitz, Dragon Claw, Roost
+- Item: Charizardite X
+- Ability: Tough Claws
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Poliwag
+- Moves: Belly Drum, Waterfall, Thief/Hypnosis, Thief/Return
+- Item: Berry Juice
+- Ability: Water Absorb
+- Nature: Jolly
+- EVs: 116 HP/196 Atk/196 Spe/
+---
+Pokémon: Klinklang
+- Moves: Shift Gear, Gear Grind, Return/Wild Charge, Substitute/Magnet Rise
+- Item: Electrium Z
+- Ability: Clear Body
+- Nature: Adamant
+- EVs: 68 HP/252 Atk/188 Spe/
+---
+Pokémon: Eelektrik
+- Moves: Discharge/Wild Charge, U-turn, Rest, Sleep Talk
+- Item: Eviolite
+- Ability: Levitate
+- Nature: Sassy
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Eelektross
+- Moves: Volt Switch, Giga Drain, Flamethrower, Drain Punch/Acid Spray/Knock Off
+- Item: Assault Vest
+- Ability: Levitate
+- Nature: Quiet
+- EVs: 252 HP/4 Atk/252 SpA/
+---
+Pokémon: Elgyem
+- Moves: Trick Room, Nasty Plot, Psychic, Hidden Power
+- Item: Eviolite
+- Ability: Analytic
+- Nature: Quiet
+- EVs: 0 Spe/
+---
+Pokémon: Beheeyem
+- Moves: Trick Room, Psyshock/Psychic, Shadow Ball, Signal Beam/Hidden Power
+- Item: Psychium Z
+- Ability: Analytic
+- Nature: Quiet
+- EVs: 0 Spe/
+---
+Pokémon: Litwick
+- Moves: Memento, Trick Room, Pain Split/Fire Blast, Will-O-Wisp
+- Item: Eviolite
+- Ability: Flame Body
+- Nature: Quiet
+- EVs: 0 Spe/
+---
+Pokémon: Chandelure
+- Moves: Shadow Ball, Fire Blast, Trick, Flamethrower/Hidden Power/Memento
+- Item: Choice Scarf
+- Ability: Flash Fire
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Axew
+- Moves: Dragon Dance, Dual Chop/Outrage, Superpower, Poison Jab/Iron Tail
+- Item: Eviolite
+- Ability: Mold Breaker
+- Nature: Adamant
+- EVs: 68 HP/220 Atk/220 Spe/
+---
+Pokémon: Fraxure
+- Moves: Swords Dance, Outrage, Stomping Tantrum, Superpower/Iron Tail
+- Item: Eviolite
+- Ability: Mold Breaker
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Haxorus
+- Moves: Dragon Dance, Outrage, Earthquake, Poison Jab
+- Item: Lum Berry
+- Ability: Mold Breaker
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Cubchoo
+- Moves: Ice Punch, Superpower, Play Rough, Surf
+- Item: Berry Juice
+- Ability: Slush Rush
+- Nature: Naughty
+- EVs: 76 HP/196 Atk/36 SpA/196 Spe/
+---
+Pokémon: Beartic
+- Moves: Icicle Crash, Superpower, Throat Chop/Substitute, Swords Dance
+- Item: Icium Z
+- Ability: Slush Rush
+- Nature: Adamant
+- EVs: 29 HP/
+---
+Pokémon: Cryogonal
+- Moves: Defog/Rapid Spin, Recover, Freeze-Dry/Frost Breath, Toxic/Hidden Power/Hidden Power
+- Item: Leftovers
+- Ability: Levitate
+- Nature: Timid
+- EVs: 0 Atk/
+---
+Pokémon: Accelgor
+- Moves: Spikes, Bug Buzz, Focus Blast, Recover
+- Item: Fightinium Z
+- Ability: Hydration
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Stunfisk
+- Moves: Stealth Rock, Discharge, Earth Power, Protect/Toxic
+- Item: Leftovers
+- Ability: Static
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Mienfoo
+- Moves: Bounce, High Jump Kick, Fake Out, U-turn/Knock Off
+- Item: Flyinium Z
+- Ability: Reckless
+- Nature: Jolly
+- EVs: 156 Atk/116 Def/236 Spe/
+---
+Pokémon: Poliwrath
+- Moves: Circle Throw, Scald, Toxic, Protect
+- Item: Leftovers
+- Ability: Water Absorb
+- Nature: Bold
+- EVs: 252 HP/200 Def/56 Spe/
+---
+Pokémon: Mienshao
+- Moves: High Jump Kick, Knock Off, U-turn, Fake Out
+- Item: Assault Vest
+- Ability: Regenerator
+- Nature: Jolly
+- EVs: 100 HP/156 SpD/252 Spe/
+---
+Pokémon: Druddigon
+- Moves: Stealth Rock, Outrage, Earthquake, Glare/Taunt
+- Item: Dragonium Z
+- Ability: Mold Breaker
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Golett
+- Moves: Drain Punch, Earthquake, Stealth Rock, Shadow Punch/Ice Punch
+- Item: Eviolite
+- Ability: Iron Fist
+- Nature: Adamant
+- EVs: 44 HP/164 Atk/196 Def/76 Spe/
+---
+Pokémon: Golurk
+- Moves: Stealth Rock, Earthquake, Shadow Punch, Ice Punch
+- Item: Colbur Berry
+- Ability: Iron Fist
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Pawniard
+- Moves: Swords Dance, Knock Off, Sucker Punch, Iron Head
+- Item: Eviolite
+- Ability: Defiant
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Bisharp
+- Moves: Pursuit, Knock Off, Iron Head, Sucker Punch
+- Item: Assault Vest
+- Ability: Defiant
+- Nature: Adamant
+- EVs: 188 HP/236 Atk/84 Spe/
+---
+Pokémon: Bouffalant
+- Moves: Head Charge, Earthquake, Pursuit, Facade/Toxic
+- Item: Choice Band
+- Ability: Reckless
+- Nature: Adamant
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Rufflet
+- Moves: Aerial Ace/Brave Bird, Facade/Superpower, Bulk Up, Roost
+- Item: Eviolite
+- Ability: Hustle
+- Nature: Impish
+- EVs: 116 HP/12 Atk/116 Def/196 SpD/36 Spe/
+---
+Pokémon: Braviary
+- Moves: Substitute, Bulk Up, Brave Bird, Roost
+- Item: Leftovers
+- Ability: Defiant
+- Nature: Jolly
+- EVs: 252 HP/160 SpD/96 Spe/
+---
+Pokémon: Vullaby
+- Moves: Brave Bird, Knock Off, U-turn, Hidden Power/Defog
+- Item: Choice Scarf
+- Ability: Overcoat
+- Nature: Jolly
+- EVs: 30 HP/30 SpA/
+---
+Pokémon: Abra
+- Moves: Psychic, Dazzling Gleam, Energy Ball/Hidden Power/Hidden Power, Substitute
+- Item: Life Orb
+- Ability: Magic Guard
+- Nature: Timid
+- EVs: 240 SpA/200 Spe/
+---
+Pokémon: Mandibuzz
+- Moves: Defog, U-turn/Taunt, Roost, Knock Off/Foul Play
+- Item: Rocky Helmet
+- Ability: Overcoat
+- Nature: Careful
+- EVs: 248 HP/20 Def/240 SpD/
+---
+Pokémon: Heatmor
+- Moves: Fire Lash, Sucker Punch, Giga Drain/Knock Off, Superpower
+- Item: Life Orb
+- Ability: Flash Fire
+- Nature: Naive
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Durant
+- Moves: Hone Claws, Iron Head, Superpower, Rock Slide/Crunch
+- Item: Steelium Z
+- Ability: Hustle
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Deino
+- Moves: Outrage, Crunch, Superpower, Zen Headbutt
+- Item: Choice Scarf
+- Ability: Hustle
+- Nature: Jolly
+- EVs: 20 HP/236 Atk/36 SpD/212 Spe/
+---
+Pokémon: Hydreigon
+- Moves: Draco Meteor, Dark Pulse, U-turn/Flash Cannon, U-turn/Fire Blast
+- Item: Choice Specs
+- Ability: Levitate
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Larvesta
+- Moves: Flare Blitz, Morning Sun, U-turn, Wild Charge/Will-O-Wisp
+- Item: Eviolite
+- Ability: Flame Body
+- Nature: Impish
+- EVs: 76 HP/236 Def/156 SpD/36 Spe/
+---
+Pokémon: Volcarona
+- Moves: Quiver Dance, Flamethrower, Bug Buzz, Roost
+- Item: Buginium Z
+- Ability: Flame Body
+- Nature: Timid
+- EVs: 248 HP/112 Def/148 Spe/
+---
+Pokémon: Cobalion
+- Moves: Calm Mind, Flash Cannon, Focus Blast, Volt Switch/Hidden Power
+- Item: Electrium Z
+- Ability: Justified
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Terrakion
+- Moves: Close Combat, Stone Edge, Earthquake, Quick Attack/Toxic
+- Item: Choice Band
+- Ability: Justified
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Kadabra
+- Moves: Calm Mind, Psyshock/Psychic, Shadow Ball, Dazzling Gleam/Signal Beam
+- Item: Life Orb
+- Ability: Magic Guard
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Virizion
+- Moves: Swords Dance, Close Combat, Leaf Blade, Stone Edge/Synthesis
+- Item: Life Orb
+- Ability: Justified
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Tornadus
+- Moves: Hurricane, U-turn, Heat Wave/Superpower, Tailwind/Defog
+- Item: Flyinium Z
+- Ability: Prankster
+- Nature: Timid
+- EVs: 4 Atk/252 SpA/252 Spe/
+---
+Pokémon: Tornadus-Therian
+- Moves: Hurricane, Heat Wave/Focus Blast/Knock Off, Taunt/U-turn, Defog
+- Item: Fightinium Z
+- Ability: Regenerator
+- Nature: Timid
+- EVs: 128 HP/8 Def/156 SpA/216 Spe/
+---
+Pokémon: Thundurus
+- Moves: Nasty Plot, Thunderbolt, Hidden Power, Focus Blast
+- Item: Fightinium Z
+- Ability: Prankster
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Thundurus-Therian
+- Moves: Nasty Plot, Thunderbolt, Hidden Power, Focus Blast
+- Item: Fightinium Z
+- Ability: Volt Absorb
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Reshiram
+- Moves: Blue Flare, Draco Meteor, Roost, Stone Edge/Toxic
+- Item: Life Orb
+- Ability: Turboblaze
+- Nature: Modest
+- EVs: 104 HP/252 SpA/152 Spe/
+---
+Pokémon: Zekrom
+- Moves: Bolt Strike, Dragon Tail, Toxic, Roost
+- Item: Leftovers
+- Ability: Teravolt
+- Nature: Impish
+- EVs: 252 HP/4 Atk/252 Def/
+---
+Pokémon: Landorus
+- Moves: Earth Power, Rock Slide, Knock Off/Stealth Rock, Hidden Power
+- Item: Life Orb
+- Ability: Sheer Force
+- Nature: Naive
+- EVs: 4 Atk/252 SpA/252 Spe/
+---
+Pokémon: Landorus-Therian
+- Moves: Stealth Rock, Earthquake, Hidden Power/Imprison/Rock Tomb, U-turn/Imprison/Explosion
+- Item: Yache Berry
+- Ability: Intimidate
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Kyurem
+- Moves: Substitute, Ice Beam, Earth Power, Roost
+- Item: Icium Z
+- Ability: Pressure
+- Nature: Timid
+- EVs: 56 HP/196 SpA/4 SpD/252 Spe/
+---
+Pokémon: Kyurem-Black
+- Moves: Freeze Shock, Fusion Bolt, Ice Beam, Hone Claws/Earth Power/Substitute/Roost
+- Item: Icium Z
+- Ability: Teravolt
+- Nature: Naive
+- EVs: 252 Atk/4 SpA/252 Spe/
+---
+Pokémon: Kyurem-White
+- Moves: Ice Beam, Draco Meteor, Fusion Flare, Earth Power/Roost
+- Item: Choice Specs
+- Ability: Turboblaze
+- Nature: Modest
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Keldeo
+- Moves: Calm Mind, Hydro Pump/Scald, Secret Sword, Taunt/Substitute
+- Item: Waterium Z
+- Ability: Justified
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Meloetta
+- Moves: Celebrate, Psychic, Focus Blast, Shadow Ball/Hyper Voice
+- Item: Normalium Z
+- Ability: Serene Grace
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Genesect
+- Moves: U-turn, Iron Head, Extreme Speed, Explosion
+- Item: Choice Band
+- Ability: Download
+- Nature: Hasty
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Alakazam
+- Moves: Psychic, Focus Blast, Calm Mind/Shadow Ball, Knock Off/Taunt/Energy Ball/Calm Mind/Recover
+- Item: Alakazite
+- Ability: Magic Guard
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Chespin
+- Moves: Seed Bomb, Zen Headbutt, Synthesis, Rock Slide/Drain Punch/Spikes
+- Item: Eviolite
+- Ability: Bulletproof
+- Nature: Impish
+- EVs: 68 HP/28 Atk/156 Def/236 SpD/
+---
+Pokémon: Chesnaught
+- Moves: Spikes, Roar/Wood Hammer, Drain Punch, Synthesis
+- Item: Rocky Helmet
+- Ability: Bulletproof
+- Nature: Impish
+- EVs: 244 HP/252 Def/12 Spe/
+---
+Pokémon: Fennekin
+- Moves: Fire Blast, Solar Beam, Psychic, Will-O-Wisp
+- Item: Power Herb
+- Ability: Magician
+- Nature: Timid
+- EVs: 36 HP/36 Def/180 SpA/36 SpD/196 Spe/
+---
+Pokémon: Delphox
+- Moves: Fire Blast, Psyshock/Psychic, Grass Knot/Dazzling Gleam, Trick
+- Item: Choice Scarf
+- Ability: Blaze
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Froakie
+- Moves: Hydro Pump, Ice Beam, U-turn, Hidden Power/Hidden Power
+- Item: Life Orb
+- Ability: Protean
+- Nature: Naive
+- EVs: 30 Atk/30 SpA/30 Spe/
+---
+Pokémon: Frogadier
+- Moves: Hydro Pump, Ice Beam, Dark Pulse, Gunk Shot/Hidden Power
+- Item: Life Orb
+- Ability: Protean
+- Nature: Naive
+- EVs: 4 Atk/252 SpA/252 Spe/
+---
+Pokémon: Greninja
+- Moves: Gunk Shot/Rock Slide, U-turn, Ice Beam, Low Kick/Spikes
+- Item: Choice Scarf
+- Ability: Protean
+- Nature: Naive
+- EVs: 176 Atk/80 SpA/252 Spe/
+---
+Pokémon: Bunnelby
+- Moves: Return, Quick Attack, Earthquake, Iron Head
+- Item: Life Orb
+- Ability: Huge Power
+- Nature: Jolly
+- EVs: 4 HP/
+---
+Pokémon: Machop
+- Moves: Dynamic Punch, Knock Off, Poison Jab, Rock Slide
+- Item: Choice Scarf
+- Ability: No Guard
+- Nature: Jolly
+- EVs: 36 HP/196 Atk/36 Def/236 Spe/
+---
+Pokémon: Diggersby
+- Moves: Earthquake, Return, Quick Attack, Fire Punch/Spikes
+- Item: Choice Band
+- Ability: Huge Power
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Fletchling
+- Moves: Acrobatics, Swords Dance, Flame Charge/U-turn, Hidden Power/Overheat/Substitute
+- Item: Berry Juice
+- Ability: Gale Wings
+- Nature: Adamant
+- EVs: 196 Atk/92 Def/180 Spe/
+---
+Pokémon: Talonflame
+- Moves: Swords Dance, Brave Bird, Flame Charge/Flare Blitz, Flame Charge/Roost/Taunt
+- Item: Flyinium Z
+- Ability: Gale Wings
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Vivillon
+- Moves: Quiver Dance, Hurricane, Substitute/Energy Ball, Sleep Powder
+- Item: Leftovers
+- Ability: Compound Eyes
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Litleo
+- Moves: Flare Blitz, Return, Flame Charge, Hidden Power/Wild Charge
+- Item: Firium Z
+- Ability: Moxie
+- Nature: Jolly
+- EVs: 20 HP/196 Atk/52 Def/4 SpD/180 Spe/
+---
+Pokémon: Pyroar
+- Moves: Fire Blast, Hyper Voice, Hidden Power/Solar Beam, Taunt
+- Item: Normalium Z
+- Ability: Unnerve
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Flabebe
+- Moves: Calm Mind, Psychic, Moonblast, Synthesis
+- Item: Eviolite
+- Ability: Flower Veil
+- Nature: Bold
+- EVs: 164 HP/204 Def/108 SpA/20 Spe/
+---
+Pokémon: Machoke
+- Moves: Bulk Up, Dynamic Punch, Rest/Knock Off, Rest/Heavy Slam/Earthquake
+- Item: Eviolite
+- Ability: No Guard
+- Nature: Careful
+- EVs: 208 HP/252 SpD/48 Spe/
+---
+Pokémon: Florges
+- Moves: Moonblast, Synthesis, Aromatherapy, Wish
+- Item: Leftovers
+- Ability: Symbiosis
+- Nature: Timid
+- EVs: 252 HP/120 Def/136 Spe/
+---
+Pokémon: Skiddo
+- Moves: Bulk Up, Horn Leech, Rock Slide, Brick Break/Zen Headbutt
+- Item: Eviolite
+- Ability: Sap Sipper
+- Nature: Careful
+- EVs: 236 Atk/52 Def/220 SpD/
+---
+Pokémon: Gogoat
+- Moves: Bulk Up, Horn Leech, Rock Slide/Earthquake, Milk Drink
+- Item: Leftovers
+- Ability: Sap Sipper
+- Nature: Careful
+- EVs: 252 HP/4 Atk/252 SpD/
+---
+Pokémon: Pancham
+- Moves: Swords Dance, Drain Punch, Knock Off, Zen Headbutt/Gunk Shot
+- Item: Eviolite
+- Ability: Iron Fist
+- Nature: Adamant
+- EVs: 180 Atk/100 Def/212 SpD/12 Spe/
+---
+Pokémon: Pangoro
+- Moves: Knock Off, Hammer Arm/Superpower, Drain Punch, Zen Headbutt/Bullet Punch
+- Item: Choice Band
+- Ability: Iron Fist
+- Nature: Adamant
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Furfrou
+- Moves: Return, U-turn, Surf, Toxic/Sucker Punch
+- Item: Choice Band
+- Ability: Fur Coat
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Espurr
+- Moves: Thunderbolt, Psychic, Substitute, Hidden Power
+- Item: Electrium Z
+- Ability: Infiltrator
+- Nature: Timid
+- EVs: 0 Atk/30 SpA/30 Spe/
+---
+Pokémon: Meowstic-F
+- Moves: Psyshock, Signal Beam, Hidden Power, Calm Mind
+- Item: Colbur Berry
+- Ability: Competitive
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Meowstic-M
+- Moves: Reflect, Light Screen, Thunder Wave/Yawn, Psychic
+- Item: Light Clay
+- Ability: Prankster
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Honedge
+- Moves: Shadow Sneak, Iron Head, Rock Slide/Sacred Sword, Swords Dance/Pursuit
+- Item: Berry Juice
+- Ability: No Guard
+- Nature: Adamant
+- EVs: 76 HP/116 Atk/116 Def/140 SpD/52 Spe/
+---
+Pokémon: Machamp
+- Moves: Close Combat, Knock Off, Thunder Punch/Ice Punch, Bullet Punch
+- Item: Assault Vest
+- Ability: Guts
+- Nature: Adamant
+- EVs: 252 HP/200 Atk/56 Spe/
+---
+Pokémon: Doublade
+- Moves: Swords Dance, Iron Head/Gyro Ball, Sacred Sword/Shadow Claw, Shadow Sneak
+- Item: Eviolite
+- Ability: No Guard
+- Nature: Adamant
+- EVs: 0 Spe/
+---
+Pokémon: Aegislash
+- Moves: King's Shield, Toxic, Gyro Ball, Shadow Ball
+- Item: Leftovers
+- Ability: Stance Change
+- Nature: Sassy
+- EVs: 0 Spe/
+---
+Pokémon: Spritzee
+- Moves: Nasty Plot, Moonblast, Psychic, Trick Room
+- Item: Berry Juice
+- Ability: Aroma Veil
+- Nature: Modest
+- EVs: 52 HP/116 Def/252 SpA/76 SpD/12 Spe/
+---
+Pokémon: Aromatisse
+- Moves: Trick Room, Nasty Plot, Moonblast, Hidden Power/Psychic
+- Item: Fairium Z
+- Ability: Aroma Veil
+- Nature: Quiet
+- EVs: 0 Atk/0 Spe/
+---
+Pokémon: Slurpuff
+- Moves: Belly Drum, Play Rough, Return, Drain Punch
+- Item: Sitrus Berry
+- Ability: Unburden
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Inkay
+- Moves: Superpower, Knock Off, Psycho Cut, Switcheroo
+- Item: Choice Scarf
+- Ability: Contrary
+- Nature: Adamant
+- EVs: 12 HP/244 Atk/12 Def/236 Spe/
+---
+Pokémon: Malamar
+- Moves: Superpower, Knock Off, Rest, Sleep Talk
+- Item: Leftovers
+- Ability: Contrary
+- Nature: Careful
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Binacle
+- Moves: Shell Smash, Liquidation, Stone Edge, Cross Chop
+- Item: Eviolite
+- Ability: Tough Claws
+- Nature: Adamant
+- EVs: 20 HP/180 Atk/60 Def/148 SpD/36 Spe/
+---
+Pokémon: Barbaracle
+- Moves: Shell Smash, Stone Edge, Liquidation, Earthquake/Grass Knot
+- Item: Rockium Z
+- Ability: Tough Claws
+- Nature: Jolly
+- EVs: 252 Atk/4 SpA/252 Spe/
+---
+Pokémon: Bellsprout
+- Moves: Solar Beam, Sludge Bomb, Weather Ball, Growth/Sleep Powder
+- Item: Life Orb
+- Ability: Chlorophyll
+- Nature: Timid
+- EVs: 76 Def/196 SpA/36 SpD/196 Spe/
+---
+Pokémon: Skrelp
+- Moves: Sludge Wave, Hydro Pump, Hidden Power/Hidden Power, Scald/Toxic Spikes
+- Item: Eviolite
+- Ability: Adaptability
+- Nature: Calm
+- EVs: 116 HP/116 Def/200 SpA/36 SpD/40 Spe/
+---
+Pokémon: Dragalge
+- Moves: Draco Meteor, Sludge Bomb, Focus Blast, Toxic Spikes
+- Item: Dragonium Z
+- Ability: Adaptability
+- Nature: Modest
+- EVs: 204 HP/252 SpA/52 Spe/
+---
+Pokémon: Dragapult
+- Moves: Draco Meteor, Sludge Bomb, Focus Blast, Toxic Spikes
+- Item: Dragonium Z
+- Ability: Adaptability
+- Nature: Modest
+- EVs: 204 HP/252 SpA/52 Spe/
+---
+Pokémon: Clauncher
+- Moves: U-turn, Water Pulse, Ice Beam, Hidden Power/Hidden Power
+- Item: Choice Scarf
+- Ability: Mega Launcher
+- Nature: Modest
+- EVs: 20 Def/212 SpA/12 SpD/244 Spe/
+---
+Pokémon: Clawitzer
+- Moves: Substitute, Toxic, Water Pulse, Ice Beam/Dark Pulse
+- Item: Leftovers
+- Ability: Mega Launcher
+- Nature: Modest
+- EVs: 100 HP/252 SpA/156 Spe/
+---
+Pokémon: Helioptile
+- Moves: Thunderbolt, Surf, Hidden Power/Glare, U-turn
+- Item: Life Orb
+- Ability: Dry Skin
+- Nature: Timid
+- EVs: 11 HP/
+---
+Pokémon: Heliolisk
+- Moves: Volt Switch, Hyper Voice, Thunderbolt, Surf
+- Item: Choice Specs
+- Ability: Dry Skin
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Tyrunt
+- Moves: Dragon Dance, Rock Slide/Stone Edge, Outrage, Superpower/Earthquake
+- Item: Berry Juice
+- Ability: Sturdy
+- Nature: Jolly
+- EVs: 23 HP/
+---
+Pokémon: Tyrantrum
+- Moves: Rock Polish, Head Smash, Outrage, Earthquake
+- Item: Rockium Z
+- Ability: Rock Head
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Amaura
+- Moves: Hyper Voice/Blizzard, Earth Power, Thunderbolt, Hyper Beam/Ancient Power
+- Item: Choice Scarf
+- Ability: Refrigerate
+- Nature: Timid
+- EVs: 60 HP/220 SpA/228 Spe/
+---
+Pokémon: Aurorus
+- Moves: Stealth Rock, Blizzard, Encore, Earth Power/Rock Tomb
+- Item: Focus Sash
+- Ability: Snow Warning
+- Nature: Timid
+- EVs: 4 Atk/252 SpA/252 Spe/
+---
+Pokémon: Squirtle
+- Moves: Rapid Spin, Fake Out, Waterfall, Yawn/Ice Punch/Aqua Jet
+- Item: Eviolite
+- Ability: Torrent
+- Nature: Impish
+- EVs: 84 HP/52 Atk/156 Def/84 SpD/92 Spe/
+---
+Pokémon: Sylveon
+- Moves: Hyper Voice, Wish, Protect, Heal Bell
+- Item: Leftovers
+- Ability: Pixilate
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpA/
+---
+Pokémon: Hawlucha
+- Moves: Acrobatics, Swords Dance, High Jump Kick, Roost
+- Item: Psychic Seed
+- Ability: Unburden
+- Nature: Adamant
+- EVs: 96 HP/252 Atk/36 SpD/124 Spe/
+---
+Pokémon: Dedenne
+- Moves: Substitute, Recycle, Thunderbolt, Hidden Power
+- Item: Petaya Berry
+- Ability: Cheek Pouch
+- Nature: Timid
+- EVs: 4 HP/252 SpA/252 Spe/
+---
+Pokémon: Carbink
+- Moves: Trick Room, Stealth Rock, Magic Coat, Explosion
+- Item: Mental Herb
+- Ability: Sturdy
+- Nature: Relaxed
+- EVs: 248 HP/8 Atk/252 Def/
+---
+Pokémon: Goomy
+- Moves: Dragon Pulse, Hidden Power/Sludge Wave, Rest, Sleep Talk
+- Item: Eviolite
+- Ability: Sap Sipper
+- Nature: Bold
+- EVs: 76 HP/236 Def/156 SpD/40 Spe/
+---
+Pokémon: Goodra
+- Moves: Draco Meteor, Fire Blast, Thunderbolt, Sludge Wave
+- Item: Choice Specs
+- Ability: Sap Sipper
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Klefki
+- Moves: Spikes, Thunder Wave, Magnet Rise/Toxic, Play Rough
+- Item: Leftovers
+- Ability: Prankster
+- Nature: Careful
+- EVs: 248 HP/252 SpD/8 Spe/
+---
+Pokémon: Phantump
+- Moves: Forest's Curse, Shadow Claw, Horn Leech, Poison Jab/Rock Slide
+- Item: Grassium Z
+- Ability: Frisk
+- Nature: Jolly
+- EVs: 12 HP/196 Atk/52 Def/36 SpD/212 Spe/
+---
+Pokémon: Trevenant
+- Moves: Wood Hammer, Earthquake, Rock Slide, Trick/Shadow Claw
+- Item: Choice Band
+- Ability: Natural Cure
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Victreebel
+- Moves: Swords Dance, Strength Sap, Power Whip, Poison Jab
+- Item: Lum Berry
+- Ability: Chlorophyll
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Pumpkaboo-Small
+- Moves: Trick-or-Treat, Shadow Ball, Fire Blast, Giga Drain
+- Item: Ghostium Z
+- Ability: Frisk
+- Nature: Modest
+- EVs: 4 HP/36 Def/164 SpA/156 SpD/148 Spe/
+---
+Pokémon: Pumpkaboo-Super
+- Moves: Bullet Seed/Giga Drain, Synthesis, Will-O-Wisp, Fire Blast/Shadow Sneak
+- Item: Eviolite
+- Ability: Frisk
+- Nature: Careful
+- EVs: 204 HP/36 Def/4 SpA/236 SpD/28 Spe/
+---
+Pokémon: Gourgeist
+- Moves: Trick-or-Treat, Seed Bomb, Phantom Force, Return/Shadow Sneak
+- Item: Ghostium Z
+- Ability: Frisk
+- Nature: Adamant
+- EVs: 96 HP/252 Atk/160 Spe/
+---
+Pokémon: Gourgeist-Large
+- Moves: Seed Bomb, Foul Play, Will-O-Wisp, Synthesis
+- Item: Leftovers
+- Ability: Frisk
+- Nature: Impish
+- EVs: 72 HP/252 Def/184 Spe/
+---
+Pokémon: Gourgeist-Small
+- Moves: Substitute, Leech Seed, Will-O-Wisp, Phantom Force
+- Item: Leftovers
+- Ability: Frisk
+- Nature: Jolly
+- EVs: 152 HP/132 Def/224 Spe/
+---
+Pokémon: Gourgeist-Super
+- Moves: Foul Play, Synthesis, Will-O-Wisp, Seed Bomb/Leech Seed
+- Item: Leftovers
+- Ability: Frisk
+- Nature: Impish
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Bergmite
+- Moves: Rapid Spin, Recover, Avalanche, Toxic
+- Item: Eviolite
+- Ability: Sturdy
+- Nature: Impish
+- EVs: 44 Atk/156 Def/236 SpD/52 Spe/
+---
+Pokémon: Avalugg
+- Moves: Rapid Spin, Recover, Avalanche, Roar/Toxic
+- Item: Rocky Helmet
+- Ability: Sturdy
+- Nature: Impish
+- EVs: 252 HP/4 Atk/252 Def/
+---
+Pokémon: Noibat
+- Moves: Draco Meteor, Hurricane, Heat Wave, Tailwind
+- Item: Life Orb
+- Ability: Infiltrator
+- Nature: Timid
+- EVs: 9 HP/
+---
+Pokémon: Noivern
+- Moves: Hurricane, Draco Meteor, U-turn, Switcheroo
+- Item: Choice Scarf
+- Ability: Infiltrator
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Xerneas
+- Moves: Geomancy, Sleep Talk/Ingrain, Rest, Moonblast
+- Item: Fairium Z
+- Ability: Fairy Aura
+- Nature: Bold
+- EVs: 248 HP/252 Def/8 SpD/
+---
+Pokémon: Yveltal
+- Moves: Knock Off, Foul Play, U-turn, Toxic/Sucker Punch
+- Item: Choice Band
+- Ability: Dark Aura
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Zygarde
+- Moves: Dragon Dance, Thousand Arrows, Thousand Waves, Rest
+- Item: Leftovers
+- Ability: Power Construct
+- Nature: Adamant
+- EVs: 80 HP/220 Atk/208 Def/
+---
+Pokémon: Diancie
+- Moves: Stealth Rock, Substitute, Endeavor, Moonblast/Diamond Storm
+- Item: Diancite
+- Ability: Magic Bounce
+- Nature: Timid
+- EVs: 240 HP/16 Def/252 Spe/
+---
+Pokémon: Tentacool
+- Moves: Hydro Pump, Sludge Bomb, Knock Off, Rapid Spin/Hidden Power
+- Item: Life Orb
+- Ability: Clear Body
+- Nature: Timid
+- EVs: 19 HP/
+---
+Pokémon: Hoopa
+- Moves: Shadow Ball, Thunderbolt/Focus Blast, Substitute/Thunderbolt, Nasty Plot
+- Item: Electrium Z
+- Ability: Magician
+- Nature: Timid
+- EVs: 248 SpA/8 SpD/252 Spe/
+---
+Pokémon: Hoopa-Unbound
+- Moves: Dark Pulse, Psyshock, Focus Blast, Thunderbolt/Trick
+- Item: Choice Specs
+- Ability: Magician
+- Nature: Timid
+- EVs: 32 HP/224 SpA/252 Spe/
+---
+Pokémon: Volcanion
+- Moves: Steam Eruption, Flamethrower, Toxic, Substitute/Protect
+- Item: Leftovers
+- Ability: Water Absorb
+- Nature: Modest
+- EVs: 248 HP/44 SpA/216 Spe/
+---
+Pokémon: Rowlet
+- Moves: Swords Dance, Brave Bird, Leaf Blade, Sucker Punch
+- Item: Berry Juice
+- Ability: Overgrow
+- Nature: Jolly
+- EVs: 236 Atk/36 SpD/180 Spe/
+---
+Pokémon: Decidueye
+- Moves: Defog, Leaf Storm, Roost, U-turn
+- Item: Grassium Z
+- Ability: Overgrow
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Litten
+- Moves: U-turn, Flare Blitz, Will-O-Wisp, Fake Out
+- Item: Berry Juice
+- Ability: Intimidate
+- Nature: Jolly
+- EVs: 156 Atk/116 Def/36 SpD/196 Spe/
+---
+Pokémon: Incineroar
+- Moves: Bulk Up, Flame Charge, Power Trip, Drain Punch/Substitute
+- Item: Weakness Policy
+- Ability: Intimidate
+- Nature: Jolly
+- EVs: 252 HP/4 SpD/252 Spe/
+---
+Pokémon: Tentacruel
+- Moves: Scald, Rapid Spin, Haze, Knock Off/Toxic Spikes/Sludge Bomb
+- Item: Icium Z
+- Ability: Clear Body
+- Nature: Timid
+- EVs: 252 HP/112 Def/144 Spe/
+---
+Pokémon: Primarina
+- Moves: Scald, Moonblast, Rest, Sleep Talk
+- Item: Leftovers
+- Ability: Torrent
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Pikipek
+- Moves: Drill Peck/Brave Bird, Bullet Seed, Flame Charge/Brick Break, U-turn/Substitute/Flame Charge
+- Item: Life Orb
+- Ability: Skill Link
+- Nature: Jolly
+- EVs: 10 HP/
+---
+Pokémon: Toucannon
+- Moves: Brave Bird, Bullet Seed, Knock Off, Brick Break/Overheat/U-turn
+- Item: Life Orb
+- Ability: Skill Link
+- Nature: Jolly
+- EVs: 29 HP/
+---
+Pokémon: Yungoos
+- Moves: Return, Fire Fang/Earthquake, U-turn, Fire Fang/Crunch/Pursuit
+- Item: Choice Scarf
+- Ability: Adaptability
+- Nature: Jolly
+- EVs: 196 Atk/36 Def/36 SpD/236 Spe/
+---
+Pokémon: Gumshoos
+- Moves: Return, Earthquake, U-turn, Crunch
+- Item: Choice Band
+- Ability: Stakeout
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Grubbin
+- Moves: Electroweb, Volt Switch, X-Scissor, Acrobatics
+- Item: Eviolite
+- Ability: Swarm
+- Nature: Relaxed
+- EVs: 140 HP/20 Atk/156 Def/156 SpD/
+---
+Pokémon: Vikavolt
+- Moves: Bug Buzz, Thunderbolt, Energy Ball, Volt Switch
+- Item: Choice Specs
+- Ability: Levitate
+- Nature: Modest
+- EVs: 104 HP/252 SpA/152 Spe/
+---
+Pokémon: Crabrawler
+- Moves: Close Combat, Crabhammer, Earthquake, Stone Edge
+- Item: Choice Scarf
+- Ability: Hyper Cutter
+- Nature: Jolly
+- EVs: 0 HP/
+---
+Pokémon: Geodude
+- Moves: Stealth Rock, Rock Blast, Earthquake, Counter/Explosion/Sucker Punch
+- Item: Berry Juice
+- Ability: Sturdy
+- Nature: Adamant
+- EVs: 36 HP/196 Atk/116 Def/36 SpD/116 Spe/
+---
+Pokémon: Geodude-Alola
+- Moves: Rock Blast, Fire Punch, Superpower, Stealth Rock
+- Item: Eviolite
+- Ability: Magnet Pull
+- Nature: Adamant
+- EVs: 36 HP/116 Atk/116 Def/196 SpD/36 Spe/
+---
+Pokémon: Crabominable
+- Moves: Ice Hammer, Close Combat, Earthquake, Thunder Punch
+- Item: Choice Band
+- Ability: Iron Fist
+- Nature: Brave
+- EVs: 0 Spe/
+---
+Pokémon: Oricorio
+- Moves: Revelation Dance, Hurricane, Hidden Power/Hidden Power, U-turn
+- Item: Choice Specs
+- Ability: Dancer
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Oricorio-Pa'u
+- Moves: Calm Mind, Hurricane, Hidden Power/Taunt, Roost
+- Item: Flyinium Z
+- Ability: Dancer
+- Nature: Timid
+- EVs: 252 HP/4 Def/252 Spe/
+---
+Pokémon: Oricorio-Pom-Pom
+- Moves: Toxic, Taunt, Roost, Revelation Dance/Hurricane
+- Item: Leftovers
+- Ability: Dancer
+- Nature: Timid
+- EVs: 0 Atk/
+---
+Pokémon: Oricorio-Sensu
+- Moves: Calm Mind, Hurricane, Revelation Dance, Substitute/Roost
+- Item: Leftovers
+- Ability: Dancer
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Ribombee
+- Moves: Quiver Dance, Moonblast, Bug Buzz, Psychic
+- Item: Fairium Z
+- Ability: Shield Dust
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Rockruff
+- Moves: Stone Edge, Stomping Tantrum, Fire Fang/Zen Headbutt, Sucker Punch
+- Item: Life Orb
+- Ability: Vital Spirit
+- Nature: Jolly
+- EVs: 9 HP/
+---
+Pokémon: Lycanroc
+- Moves: Stealth Rock, Stone Edge, Accelerock, Taunt/Toxic/Swords Dance
+- Item: Lycanium Z
+- Ability: Steadfast
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Lycanroc-Dusk
+- Moves: Swords Dance, Stone Edge, Drill Run/Fire Fang, Accelerock/Sucker Punch
+- Item: Lycanium Z
+- Ability: Tough Claws
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Lycanroc-Midnight
+- Moves: Stone Edge, Fire Punch/Stomping Tantrum, Sucker Punch/Crunch, Toxic
+- Item: Choice Band
+- Ability: No Guard
+- Nature: Adamant
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Wishiwashi
+- Moves: Rest, Sleep Talk, Scald, U-turn
+- Item: Leftovers
+- Ability: Schooling
+- Nature: Sassy
+- EVs: 0 Spe/
+---
+Pokémon: Mareanie
+- Moves: Recover, Sludge Bomb/Scald, Toxic/Toxic Spikes, Knock Off/Haze
+- Item: Eviolite
+- Ability: Regenerator
+- Nature: Bold
+- EVs: 248 HP/252 Def/8 SpD/
+---
+Pokémon: Toxapex
+- Moves: Scald, Haze, Recover, Baneful Bunker/Toxic Spikes/Toxic
+- Item: Black Sludge
+- Ability: Regenerator
+- Nature: Calm
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Mudbray
+- Moves: Earthquake, Heavy Slam, Rock Slide, Close Combat
+- Item: Choice Scarf
+- Ability: Stamina
+- Nature: Jolly
+- EVs: 36 HP/196 Atk/36 Def/236 Spe/
+---
+Pokémon: Mudsdale
+- Moves: Earthquake, Heavy Slam, Rock Slide, Toxic/Close Combat
+- Item: Choice Band
+- Ability: Stamina
+- Nature: Adamant
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Araquanid
+- Moves: Substitute, Toxic, Liquidation, Protect/Leech Life
+- Item: Leftovers
+- Ability: Water Bubble
+- Nature: Adamant
+- EVs: 188 HP/252 Atk/68 Spe/
+---
+Pokémon: Fomantis
+- Moves: Leaf Storm, Defog, Synthesis, Hidden Power
+- Item: Eviolite
+- Ability: Contrary
+- Nature: Bold
+- EVs: 116 HP/236 Def/120 SpA/
+---
+Pokémon: Lurantis
+- Moves: Defog, Leaf Storm, Toxic/Superpower, Synthesis/Aromatherapy
+- Item: Leftovers
+- Ability: Contrary
+- Nature: Bold
+- EVs: 248 HP/252 Def/8 SpA/
+---
+Pokémon: Morelull
+- Moves: Spore, Moonblast, Giga Drain, Strength Sap
+- Item: Eviolite
+- Ability: Effect Spore
+- Nature: Bold
+- EVs: 36 HP/236 Def/76 SpA/156 SpD/
+---
+Pokémon: Shiinotic
+- Moves: Spore, Strength Sap, Leech Seed/Giga Drain, Moonblast
+- Item: Leftovers
+- Ability: Effect Spore
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Salandit
+- Moves: Nasty Plot, Sludge Bomb, Fire Blast, Hidden Power
+- Item: Life Orb
+- Ability: Oblivious
+- Nature: Timid
+- EVs: 3 HP/0 Atk/30 SpA/
+---
+Pokémon: Salazzle
+- Moves: Fire Blast, Sludge Wave, Hidden Power, Dragon Pulse
+- Item: Choice Scarf
+- Ability: Corrosion
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Stufful
+- Moves: Swords Dance, Return, Superpower/Brick Break, Earthquake/Ice Punch
+- Item: Eviolite
+- Ability: Fluffy
+- Nature: Adamant
+- EVs: 236 Atk/36 Def/196 SpD/36 Spe/
+---
+Pokémon: Golem
+- Moves: Earthquake, Stone Edge, Sucker Punch, Fire Punch
+- Item: Choice Band
+- Ability: Sturdy
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Golem-Alola
+- Moves: Stone Edge, Fire Punch, Earthquake, Volt Switch
+- Item: Choice Band
+- Ability: Magnet Pull
+- Nature: Adamant
+- EVs: 252 Atk/4 SpA/252 Spe/
+---
+Pokémon: Bewear
+- Moves: Double-Edge/Return, Superpower, Shadow Claw, Drain Punch
+- Item: Choice Band
+- Ability: Fluffy
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Bounsweet
+- Moves: Rapid Spin, Seed Bomb, Synthesis, Play Rough
+- Item: Eviolite
+- Ability: Oblivious
+- Nature: Impish
+- EVs: 180 HP/36 Atk/132 Def/132 SpD/20 Spe/
+---
+Pokémon: Tsareena
+- Moves: Rapid Spin, Power Whip, Knock Off, High Jump Kick/Synthesis
+- Item: Life Orb
+- Ability: Queenly Majesty
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Comfey
+- Moves: Draining Kiss, Giga Drain, Calm Mind, Hidden Power/Hidden Power/Hidden Power
+- Item: Life Orb
+- Ability: Triage
+- Nature: Modest
+- EVs: 236 HP/252 SpA/20 Spe/
+---
+Pokémon: Oranguru
+- Moves: Trick Room, Nasty Plot, Psychic, Thunderbolt/Focus Blast
+- Item: Colbur Berry
+- Ability: Inner Focus
+- Nature: Quiet
+- EVs: 0 Spe/
+---
+Pokémon: Passimian
+- Moves: Close Combat, U-turn, Knock Off, Earthquake/Gunk Shot
+- Item: Choice Scarf
+- Ability: Defiant
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Wimpod
+- Moves: Spikes, Taunt, Scald, Aqua Jet
+- Item: Focus Sash
+- Ability: Wimp Out
+- Nature: Naive
+- EVs: 76 Atk/196 Def/36 SpA/196 Spe/
+---
+Pokémon: Golisopod
+- Moves: First Impression, Liquidation, Leech Life, Spikes/Aqua Jet
+- Item: Insect Plate
+- Ability: Emergency Exit
+- Nature: Adamant
+- EVs: 168 HP/252 Atk/88 Spe/
+---
+Pokémon: Sandygast
+- Moves: Rock Polish, Earth Power, Shadow Ball, Destiny Bond
+- Item: Berry Juice
+- Ability: Water Compaction
+- Nature: Modest
+- EVs: 76 HP/116 SpA/76 SpD/236 Spe/
+---
+Pokémon: Ponyta
+- Moves: Fire Blast, Solar Beam, Sunny Day, Morning Sun
+- Item: Firium Z
+- Ability: Flame Body
+- Nature: Timid
+- EVs: 156 Def/156 SpA/196 Spe/
+---
+Pokémon: Palossand
+- Moves: Stealth Rock, Earth Power, Shadow Ball, Shore Up
+- Item: Colbur Berry
+- Ability: Water Compaction
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpD/
+---
+Pokémon: Pyukumuku
+- Moves: Recover, Spite, Block/Toxic, Block/Rest
+- Item: Leftovers
+- Ability: Unaware
+- Nature: Bold
+- EVs: 248 HP/252 Def/8 SpD/
+---
+Pokémon: Type: Null
+- Moves: Swords Dance, Return, Rest, Iron Defense/Sleep Talk
+- Item: Eviolite
+- Ability: Battle Armor
+- Nature: Careful
+- EVs: 252 HP/8 Def/248 SpD/
+---
+Pokémon: Silvally
+- Moves: Swords Dance, Return/Double-Edge, Crunch, Explosion/Flame Charge
+- Item: Normalium Z
+- Ability: RKS System
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Silvally-Bug
+- Moves: Multi-Attack, U-turn/Parting Shot, Defog, Fire Fang
+- Item: Bug Memory
+- Ability: RKS System
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Silvally-Dark
+- Moves: Multi-Attack, Pursuit, U-turn/Parting Shot, Defog
+- Item: Dark Memory
+- Ability: RKS System
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Silvally-Dragon
+- Moves: Defog, Draco Meteor, Flamethrower, Parting Shot/U-turn
+- Item: Dragon Memory
+- Ability: RKS System
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Silvally-Electric
+- Moves: Toxic, Protect, Thunderbolt, Ice Beam
+- Item: Electric Memory
+- Ability: RKS System
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Silvally-Fairy
+- Moves: Swords Dance, Multi-Attack, Flame Charge, U-turn
+- Item: Fairy Memory
+- Ability: RKS System
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Silvally-Fighting
+- Moves: Swords Dance, Multi-Attack, Shadow Claw, Rock Slide/U-turn
+- Item: Fighting Memory
+- Ability: RKS System
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Silvally-Fire
+- Moves: Flamethrower, Surf, Parting Shot, Thunderbolt
+- Item: Fire Memory
+- Ability: RKS System
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Silvally-Flying
+- Moves: Air Slash, Hidden Power, Parting Shot, Defog
+- Item: Flying Memory
+- Ability: RKS System
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Silvally-Ghost
+- Moves: Shadow Ball, Parting Shot, Defog, Toxic
+- Item: Ghost Memory
+- Ability: RKS System
+- Nature: Timid
+- EVs: 4 HP/252 SpA/252 Spe/
+---
+Pokémon: Silvally-Grass
+- Moves: Grass Pledge, Ice Beam/Flamethrower, Defog, Parting Shot/U-turn
+- Item: Grass Memory
+- Ability: RKS System
+- Nature: Timid
+- EVs: 200 HP/124 SpA/184 Spe/
+---
+Pokémon: Silvally-Ground
+- Moves: Multi-Attack, Toxic, Defog, U-turn
+- Item: Ground Memory
+- Ability: RKS System
+- Nature: Impish
+- EVs: 252 HP/192 Def/64 Spe/
+---
+Pokémon: Silvally-Ice
+- Moves: Swords Dance, Multi-Attack, Crunch, Parting Shot/Fire Fang
+- Item: Ice Memory
+- Ability: RKS System
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Silvally-Poison
+- Moves: Thunderbolt, Ice Beam, Defog, U-turn
+- Item: Poison Memory
+- Ability: RKS System
+- Nature: Bold
+- EVs: 252 HP/200 Def/56 Spe/
+---
+Pokémon: Silvally-Psychic
+- Moves: Swords Dance, Multi-Attack, Crunch, U-turn
+- Item: Psychic Memory
+- Ability: RKS System
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Silvally-Rock
+- Moves: Swords Dance, Multi-Attack, Zen Headbutt, Parting Shot/Fire Fang
+- Item: Rock Memory
+- Ability: RKS System
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Silvally-Steel
+- Moves: Defog, Flamethrower, Multi-Attack/Toxic, Parting Shot/U-turn
+- Item: Steel Memory
+- Ability: RKS System
+- Nature: Calm
+- EVs: 252 HP/196 SpD/60 Spe/
+---
+Pokémon: Silvally-Water
+- Moves: Surf, Thunderbolt, Flamethrower/Ice Beam, U-turn
+- Item: Water Memory
+- Ability: RKS System
+- Nature: Modest
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Minior
+- Moves: Shell Smash, Stone Edge, Earthquake, Acrobatics/Hidden Power
+- Item: White Herb
+- Ability: Shields Down
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Komala
+- Moves: Return, Earthquake/Knock Off, Rapid Spin, U-turn
+- Item: Assault Vest
+- Ability: Comatose
+- Nature: Adamant
+- EVs: 160 HP/252 Atk/96 Spe/
+---
+Pokémon: Turtonator
+- Moves: Shell Smash, Fire Blast, Draco Meteor, Dragon Pulse
+- Item: White Herb
+- Ability: Shell Armor
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Togedemaru
+- Moves: U-turn, Zing Zap, Iron Head, Toxic/Nuzzle
+- Item: Choice Scarf
+- Ability: Lightning Rod
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Mimikyu
+- Moves: Swords Dance, Shadow Claw, Play Rough, Shadow Sneak
+- Item: Ghostium Z
+- Ability: Disguise
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Bruxish
+- Moves: Psychic Fangs, Aqua Jet, Liquidation, Crunch
+- Item: Choice Band
+- Ability: Strong Jaw
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Rapidash
+- Moves: Flare Blitz, Wild Charge, High Horsepower, Toxic
+- Item: Choice Scarf
+- Ability: Flash Fire
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Drampa
+- Moves: Calm Mind, Dragon Pulse, Roost, Hyper Voice/Flamethrower
+- Item: Leftovers
+- Ability: Berserk
+- Nature: Modest
+- EVs: 140 HP/252 SpA/116 Spe/
+---
+Pokémon: Dhelmise
+- Moves: Power Whip, Anchor Shot/Heavy Slam, Earthquake, Knock Off
+- Item: Choice Band
+- Ability: Steelworker
+- Nature: Adamant
+- EVs: 52 HP/252 Atk/204 Spe/
+---
+Pokémon: Jangmo-o
+- Moves: Dragon Dance, Dragon Claw/Outrage, Earthquake, Substitute/Brick Break
+- Item: Berry Juice
+- Ability: Overcoat
+- Nature: Adamant
+- EVs: 236 Atk/236 Spe/
+---
+Pokémon: Hakamo-o
+- Moves: Dragon Dance, Drain Punch, Dragon Claw/Dragon Tail, Substitute
+- Item: Eviolite
+- Ability: Overcoat
+- Nature: Adamant
+- EVs: 252 HP/72 Atk/184 Spe/
+---
+Pokémon: Kommo-o
+- Moves: Belly Drum, Substitute, Drain Punch, Thunder Punch
+- Item: Salac Berry
+- Ability: Bulletproof
+- Nature: Jolly
+- EVs: 52 HP/204 Atk/252 Spe/
+---
+Pokémon: Tapu-Koko
+- Moves: Thunderbolt, Hidden Power/Hidden Power, U-turn/Volt Switch, Roost
+- Item: Shuca Berry
+- Ability: Electric Surge
+- Nature: Timid
+- EVs: 8 HP/4 Def/244 SpA/252 Spe/
+---
+Pokémon: Tapu-Lele
+- Moves: Psychic, Moonblast, Hidden Power, Nature's Madness/Thunderbolt/Focus Blast
+- Item: Choice Scarf
+- Ability: Psychic Surge
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Tapu-Bulu
+- Moves: Horn Leech, Wood Hammer, Superpower, Megahorn/Stone Edge
+- Item: Choice Scarf
+- Ability: Grassy Surge
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Tapu-Fini
+- Moves: Whirlpool, Taunt, Nature's Madness, Moonblast
+- Item: Leftovers
+- Ability: Misty Surge
+- Nature: Bold
+- EVs: 248 HP/156 Def/40 SpD/64 Spe/
+---
+Pokémon: Slowpoke
+- Moves: Slack Off, Scald, Psychic, Calm Mind/Fire Blast/Thunder Wave
+- Item: Eviolite
+- Ability: Regenerator
+- Nature: Calm
+- EVs: 116 HP/76 Def/116 SpA/196 SpD/
+---
+Pokémon: Solgaleo
+- Moves: Sunsteel Strike, Flare Blitz, Earthquake, Toxic/Wild Charge/Stone Edge
+- Item: Choice Scarf
+- Ability: Full Metal Body
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Lunala
+- Moves: Moongeist Beam, Roost, Defog, Will-O-Wisp/Toxic
+- Item: Leftovers
+- Ability: Shadow Shield
+- Nature: Timid
+- EVs: 148 HP/160 Def/200 Spe/
+---
+Pokémon: Nihilego
+- Moves: Stealth Rock, Sludge Wave, Pain Split/Protect, Thunderbolt/Power Gem
+- Item: Black Sludge
+- Ability: Beast Boost
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Buzzwole
+- Moves: Hammer Arm, Toxic, Roost, Taunt/Earthquake
+- Item: Leftovers
+- Ability: Beast Boost
+- Nature: Impish
+- EVs: 248 HP/184 Def/76 SpD/
+---
+Pokémon: Pheromosa
+- Moves: U-turn, Low Kick, Ice Beam, Poison Jab/Throat Chop
+- Item: Life Orb
+- Ability: Beast Boost
+- Nature: Naughty
+- EVs: 252 Atk/4 SpA/252 Spe/
+---
+Pokémon: Xurkitree
+- Moves: Thunderbolt, Hidden Power, Energy Ball, Tail Glow
+- Item: Electrium Z
+- Ability: Beast Boost
+- Nature: Modest
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Celesteela
+- Moves: Leech Seed, Protect, Heavy Slam, Flamethrower
+- Item: Leftovers
+- Ability: Beast Boost
+- Nature: Sassy
+- EVs: 252 HP/24 Def/232 SpD/
+---
+Pokémon: Kartana
+- Moves: Leaf Blade, Knock Off, Synthesis, Defog
+- Item: Grassium Z
+- Ability: Beast Boost
+- Nature: Jolly
+- EVs: 128 HP/128 Atk/252 Spe/
+---
+Pokémon: Guzzlord
+- Moves: Draco Meteor, Dark Pulse/Knock Off, Fire Blast, Heavy Slam
+- Item: Dragonium Z
+- Ability: Beast Boost
+- Nature: Modest
+- EVs: 76 Def/252 SpA/180 Spe/
+---
+Pokémon: Slowbro
+- Moves: Scald, Psyshock, Slack Off, Ice Beam
+- Item: Colbur Berry
+- Ability: Regenerator
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpA/
+---
+Pokémon: Necrozma
+- Moves: Photon Geyser, Heat Wave, Stealth Rock, Moonlight
+- Item: Wiki Berry
+- Ability: Prism Armor
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Necrozma-Dawn-Wings
+- Moves: Swords Dance, Photon Geyser, Earthquake, Outrage/Stone Edge
+- Item: Ultranecrozium Z
+- Ability: Prism Armor
+- Nature: Jolly
+- EVs: 224 Atk/32 Def/252 Spe/
+---
+Pokémon: Necrozma-Dusk-Mane
+- Moves: Calm Mind, Photon Geyser, Heat Wave, Power Gem/Dragon Pulse
+- Item: Ultranecrozium Z
+- Ability: Prism Armor
+- Nature: Timid
+- EVs: 32 Def/224 SpA/252 Spe/
+---
+Pokémon: Magearna
+- Moves: Trick Room, Fleur Cannon, Flash Cannon/Focus Blast, Ice Beam/Thunderbolt
+- Item: Fairium Z
+- Ability: Soul-Heart
+- Nature: Quiet
+- EVs: 0 Atk/0 Spe/
+---
+Pokémon: Marshadow
+- Moves: Bulk Up, Spectral Thief, Close Combat, Substitute/Shadow Sneak
+- Item: Marshadium Z
+- Ability: Technician
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Naganadel
+- Moves: Draco Meteor, Sludge Wave, Nasty Plot, Fire Blast
+- Item: Dragonium Z
+- Ability: Beast Boost
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Stakataka
+- Moves: Gyro Ball, Rock Blast, Stealth Rock, Toxic/Protect
+- Item: Leftovers
+- Ability: Beast Boost
+- Nature: Sassy
+- EVs: 0 Spe/
+---
+Pokémon: Blacephalon
+- Moves: Flamethrower, Shadow Ball, Substitute, Calm Mind
+- Item: Ghostium Z
+- Ability: Beast Boost
+- Nature: Timid
+- EVs: 232 HP/4 Def/20 SpA/252 Spe/
+---
+Pokémon: Zeraora
+- Moves: Bulk Up, Plasma Fists, Close Combat, Giga Impact/Knock Off
+- Item: Normalium Z
+- Ability: Volt Absorb
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Melmetal
+- Moves: Double Iron Bash, Earthquake, Superpower/Thunder Punch, Ice Punch
+- Item: No Item
+- Ability: Volt Absorb
+- Nature: Impish
+- EVs: nan
+---
+Pokémon: Magnemite
+- Moves: Volt Switch, Flash Cannon, Recycle, Hidden Power/Endure
+- Item: Berry Juice
+- Ability: Sturdy
+- Nature: Timid
+- EVs: 36 Def/236 SpA/236 Spe/
+---
+Pokémon: Magneton
+- Moves: Thunderbolt, Hidden Power, Flash Cannon, Volt Switch
+- Item: Choice Scarf
+- Ability: Magnet Pull
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Farfetch'd
+- Moves: First Impression, Brave Bird, Leaf Blade, Swords Dance/Frustration/Knock Off
+- Item: Life Orb
+- Ability: Defiant
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Doduo
+- Moves: Brave Bird, Knock Off, Jump Kick, Quick Attack/Return
+- Item: Choice Scarf
+- Ability: Early Bird
+- Nature: Jolly
+- EVs: 236 Atk/236 Spe/
+---
+Pokémon: Dodrio
+- Moves: Brave Bird, Return, Jump Kick, Quick Attack/Pursuit/Knock Off
+- Item: Choice Band
+- Ability: Early Bird
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Seel
+- Moves: Whirlpool, Perish Song, Protect, Rest
+- Item: Eviolite
+- Ability: Thick Fat
+- Nature: Bold
+- EVs: 236 HP/236 Def/36 SpD/
+---
+Pokémon: Dewgong
+- Moves: Whirlpool, Perish Song, Rain Dance, Rest
+- Item: Leftovers
+- Ability: Hydration
+- Nature: Calm
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Grimer
+- Moves: Gunk Shot, Fire Punch, Giga Drain, Memento/Thief
+- Item: Berry Juice
+- Ability: Sticky Hold
+- Nature: Brave
+- EVs: 36 HP/196 Atk/196 Def/36 SpA/36 SpD/
+---
+Pokémon: Grimer-Alola
+- Moves: Rest, Sleep Talk, Knock Off, Gunk Shot/Poison Jab
+- Item: Eviolite
+- Ability: Poison Touch
+- Nature: Adamant
+- EVs: 36 HP/196 Atk/196 Def/36 SpD/
+---
+Pokémon: Muk
+- Moves: Rest, Sleep Talk, Curse, Fire Punch/Poison Jab
+- Item: Leftovers
+- Ability: Sticky Hold
+- Nature: Careful
+- EVs: 252 HP/4 Atk/252 SpD/
+---
+Pokémon: Muk-Alola
+- Moves: Pursuit, Poison Jab/Gunk Shot, Knock Off, Fire Punch
+- Item: Assault Vest
+- Ability: Poison Touch
+- Nature: Adamant
+- EVs: 4 HP/252 Atk/252 SpD/
+---
+Pokémon: Blastoise
+- Moves: Scald, Toxic, Rapid Spin, Ice Beam/Refresh
+- Item: Normalium Z
+- Ability: Torrent
+- Nature: Bold
+- EVs: 252 HP/60 Def/196 Spe/
+---
+Pokémon: Shellder
+- Moves: Shell Smash, Icicle Spear, Rock Blast, Liquidation
+- Item: Eviolite
+- Ability: Skill Link
+- Nature: Jolly
+- EVs: 36 HP/236 Atk/36 Def/196 Spe/
+---
+Pokémon: Cloyster
+- Moves: Shell Smash, Icicle Spear, Spikes, Rapid Spin/Explosion
+- Item: Focus Sash
+- Ability: Skill Link
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Gastly
+- Moves: Shadow Ball, Sludge Bomb, Thunderbolt, Hidden Power/Trick/Dazzling Gleam
+- Item: Choice Scarf
+- Ability: Levitate
+- Nature: Timid
+- EVs: 36 Def/196 SpA/76 SpD/196 Spe/
+---
+Pokémon: Haunter
+- Moves: Shadow Ball, Sludge Wave, Destiny Bond, Will-O-Wisp/Trick
+- Item: Choice Scarf
+- Ability: Levitate
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Gengar
+- Moves: Taunt, Substitute/Destiny Bond, Sludge Wave, Shadow Ball
+- Item: Gengarite
+- Ability: Cursed Body
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Onix
+- Moves: Stealth Rock, Rock Blast, Earthquake, Protect/Explosion
+- Item: Eviolite
+- Ability: Weak Armor
+- Nature: Jolly
+- EVs: 76 HP/236 Atk/196 Spe/
+---
+Pokémon: Drowzee
+- Moves: Psychic, Counter, Wish, Protect
+- Item: Eviolite
+- Ability: Insomnia
+- Nature: Bold
+- EVs: 196 HP/236 Def/12 SpA/36 SpD/20 Spe/
+---
+Pokémon: Hypno
+- Moves: Hypnosis, Belly Drum, Zen Headbutt, Drain Punch
+- Item: Psychium Z
+- Ability: Insomnia
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Krabby
+- Moves: Liquidation, Superpower, Knock Off, Body Slam
+- Item: Choice Scarf
+- Ability: Sheer Force
+- Nature: Adamant
+- EVs: 36 HP/236 Atk/36 Def/196 Spe/
+---
+Pokémon: Kingler
+- Moves: Agility, Swords Dance, Liquidation, X-Scissor/Knock Off
+- Item: Life Orb
+- Ability: Sheer Force
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Castform-Snowy
+- Moves: Rain Dance, Hydro Pump, Ice Beam, Thunder
+- Item: Waterium Z
+- Ability: Forecast
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Rayquaza-Mega
+- Moves: Dragon Ascent, Draco Meteor, Extreme Speed, Surf/Earthquake/V-create
+- Item: Life Orb
+- Ability: Air Lock
+- Nature: Naughty
+- EVs: 252 Atk/4 SpA/252 Spe/
+---
+Pokémon: Lopunny-Mega
+- Moves: Frustration, High Jump Kick, Power-Up Punch, Encore
+- Item: Lopunnite
+- Ability: Limber
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Gallade-Mega
+- Moves: Swords Dance, Close Combat, Zen Headbutt, Knock Off
+- Item: Galladite
+- Ability: Justified
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Banette-Mega
+- Moves: Shadow Claw, Gunk Shot/Knock Off, Will-O-Wisp, Shadow Sneak/Sucker Punch
+- Item: Life Orb
+- Ability: Insomnia
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Charizard-Mega-X
+- Moves: Swords Dance, Flare Blitz, Dragon Claw, Roost
+- Item: Charizardite X
+- Ability: Tough Claws
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Diancie-Mega
+- Moves: Stealth Rock, Substitute, Endeavor, Moonblast/Diamond Storm
+- Item: Diancite
+- Ability: Magic Bounce
+- Nature: Timid
+- EVs: 240 HP/16 Def/252 Spe/
+---
+Pokémon: Steelix-Mega
+- Moves: Stealth Rock, Gyro Ball, Earthquake, Curse
+- Item: Steelixite
+- Ability: Sturdy
+- Nature: Brave
+- EVs: 0 Spe/
+---
+Pokémon: Alakazam-Mega
+- Moves: Psychic, Focus Blast, Calm Mind/Shadow Ball, Knock Off/Taunt/Energy Ball/Calm Mind/Recover
+- Item: Alakazite
+- Ability: Magic Guard
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Latios-Mega
+- Moves: Psychic, Earthquake, Thunderbolt/Draco Meteor/Ice Beam, Roost
+- Item: Latiosite
+- Ability: Levitate
+- Nature: Naive
+- EVs: 4 Atk/252 SpA/252 Spe/
+---
+Pokémon: Gyarados-Mega
+- Moves: Dragon Dance, Waterfall, Bounce, Earthquake/Taunt
+- Item: Flyinium Z
+- Ability: Moxie
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Medicham-Mega
+- Moves: Fake Out, High Jump Kick, Ice Punch, Thunder Punch/Zen Headbutt
+- Item: Medichamite
+- Ability: Telepathy
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Darmanitan-Zen
+- Moves: Flare Blitz, U-turn, Earthquake, Fire Punch/Rock Slide
+- Item: Choice Band
+- Ability: Sheer Force
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Pidgeot-Mega
+- Moves: Hurricane, Heat Wave, U-turn, Roost
+- Item: Pidgeotite
+- Ability: Big Pecks
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Pinsir-Mega
+- Moves: X-Scissor, Close Combat/Earthquake, Stone Edge, Knock Off
+- Item: Choice Scarf
+- Ability: Moxie
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Manectric-Mega
+- Moves: Volt Switch, Flamethrower/Overheat, Thunderbolt, Hidden Power/Hidden Power
+- Item: Manectite
+- Ability: Lightning Rod
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Aggron-Mega
+- Moves: Heavy Slam, Curse, Rest, Sleep Talk
+- Item: Aggronite
+- Ability: Sturdy
+- Nature: Careful
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Aegislash-Blade
+- Moves: King's Shield, Toxic, Gyro Ball, Shadow Ball
+- Item: Leftovers
+- Ability: Stance Change
+- Nature: Sassy
+- EVs: 0 Spe/
+---
+Pokémon: Kyogre-Primal
+- Moves: Origin Pulse, Ice Beam, Substitute/Thunder, Calm Mind/Liquidation
+- Item: Blue Orb
+- Ability: Drizzle
+- Nature: Hasty
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Scizor-Mega
+- Moves: Swords Dance, Bullet Punch, Roost, Superpower/Knock Off
+- Item: Scizorite
+- Ability: Light Metal
+- Nature: Impish
+- EVs: 248 HP/16 Def/244 SpD/
+---
+Pokémon: Mewtwo-Mega-X
+- Moves: Low Kick, Taunt, Zen Headbutt/Ice Beam, Zen Headbutt/Stone Edge
+- Item: Mewtwonite X
+- Ability: Pressure
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Sceptile-Mega
+- Moves: Leaf Storm, Giga Drain, Earthquake/Focus Blast, Hidden Power
+- Item: Life Orb
+- Ability: Overgrow
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Ampharos-Mega
+- Moves: Volt Switch/Thunderbolt, Focus Blast, Hidden Power, Heal Bell
+- Item: Leftovers
+- Ability: Static
+- Nature: Modest
+- EVs: 184 HP/252 SpA/72 Spe/
+---
+Pokémon: Houndoom-Mega
+- Moves: Nasty Plot, Fire Blast, Dark Pulse, Sludge Bomb
+- Item: Houndoominite
+- Ability: Flash Fire
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Gengar-Mega
+- Moves: Taunt, Substitute/Destiny Bond, Sludge Wave, Shadow Ball
+- Item: Gengarite
+- Ability: Cursed Body
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Castform-Sunny
+- Moves: Rain Dance, Hydro Pump, Ice Beam, Thunder
+- Item: Waterium Z
+- Ability: Forecast
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Blaziken-Mega
+- Moves: Swords Dance, Flare Blitz, Low Kick, Knock Off/Stone Edge
+- Item: Blazikenite
+- Ability: Speed Boost
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Absol-Mega
+- Moves: Swords Dance, Knock Off, Sucker Punch, Play Rough/Superpower
+- Item: Darkinium Z
+- Ability: Justified
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Cherrim-Sunshine
+- Moves: Sunny Day, Swords Dance, Petal Blizzard, Healing Wish/Return
+- Item: Firium Z
+- Ability: Flower Gift
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Charizard-Mega-Y
+- Moves: Swords Dance, Flare Blitz, Dragon Claw, Roost
+- Item: Charizardite X
+- Ability: Tough Claws
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Swampert-Mega
+- Moves: Waterfall, Earthquake, Toxic/Ice Punch, Superpower/Substitute/Stealth Rock
+- Item: Swampertite
+- Ability: Swift Swim
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Venusaur-Mega
+- Moves: Growth, Sludge Bomb, Giga Drain, Hidden Power
+- Item: Grassium Z
+- Ability: Chlorophyll
+- Nature: Modest
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Salamence-Mega
+- Moves: Body Slam, Defog, Roost, Dragon Tail/Refresh
+- Item: Salamencite
+- Ability: Intimidate
+- Nature: Impish
+- EVs: 248 HP/136 Def/124 Spe/
+---
+Pokémon: Beedrill-Mega
+- Moves: U-turn, Poison Jab, Drill Run, Pursuit/Toxic Spikes/Knock Off
+- Item: Beedrillite
+- Ability: Swarm
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Blastoise-Mega
+- Moves: Scald, Toxic, Rapid Spin, Ice Beam/Refresh
+- Item: Normalium Z
+- Ability: Torrent
+- Nature: Bold
+- EVs: 252 HP/60 Def/196 Spe/
+---
+Pokémon: Abomasnow-Mega
+- Moves: Swords Dance, Wood Hammer, Ice Shard, Earthquake
+- Item: Abomasite
+- Ability: Soundproof
+- Nature: Adamant
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Necrozma-Ultra
+- Moves: Swords Dance, Photon Geyser, Earthquake, Outrage/Stone Edge
+- Item: Ultranecrozium Z
+- Ability: Prism Armor
+- Nature: Jolly
+- EVs: 224 Atk/32 Def/252 Spe/
+---
+Pokémon: Altaria-Mega
+- Moves: Hyper Voice, Fire Blast, Toxic, Roost
+- Item: Altarianite
+- Ability: Natural Cure
+- Nature: Modest
+- EVs: 248 HP/4 Def/160 SpA/96 Spe/
+---
+Pokémon: Mawile-Mega
+- Moves: Substitute, Thunder Punch, Ice Punch, Focus Punch
+- Item: Mawilite
+- Ability: Intimidate
+- Nature: Adamant
+- EVs: 144 HP/252 Atk/112 Spe/
+---
+Pokémon: Groudon-Primal
+- Moves: Rock Polish, Swords Dance, Precipice Blades, Fire Punch/Stone Edge
+- Item: Red Orb
+- Ability: Drought
+- Nature: Adamant
+- EVs: 252 Atk/100 SpD/156 Spe/
+---
+Pokémon: Minior-Meteor
+- Moves: Shell Smash, Stone Edge, Earthquake, Acrobatics/Hidden Power
+- Item: White Herb
+- Ability: Shields Down
+- Nature: Adamant
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Meloetta-Pirouette
+- Moves: Celebrate, Psychic, Focus Blast, Shadow Ball/Hyper Voice
+- Item: Normalium Z
+- Ability: Serene Grace
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Zygarde-Complete
+- Moves: Dragon Dance, Thousand Arrows, Thousand Waves, Rest
+- Item: Leftovers
+- Ability: Power Construct
+- Nature: Adamant
+- EVs: 80 HP/220 Atk/208 Def/
+---
+Pokémon: Tyranitar-Mega
+- Moves: Ice Punch/Stone Edge/Rock Slide, Pursuit, Crunch/Foul Play, Earthquake
+- Item: Choice Scarf
+- Ability: Sand Stream
+- Nature: Jolly
+- EVs: 8 HP/208 Atk/40 Def/252 Spe/
+---
+Pokémon: Castform-Rainy
+- Moves: Rain Dance, Hydro Pump, Ice Beam, Thunder
+- Item: Waterium Z
+- Ability: Forecast
+- Nature: Timid
+- EVs: 252 SpA/4 SpD/252 Spe/
+---
+Pokémon: Garchomp-Mega
+- Moves: Swords Dance, Aqua Tail/Fire Fang/Substitute, Earthquake, Stone Edge
+- Item: Garchompite
+- Ability: Rough Skin
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Aerodactyl-Mega
+- Moves: Stealth Rock, Stone Edge, Earthquake, Ice Fang
+- Item: Aerodactylite
+- Ability: Unnerve
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Crucibelle-Mega
+- Moves: Stone Edge, Gunk Shot, U-turn, Stealth Rock
+- Item: Crucibellite
+- Ability: Regenerator
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Audino-Mega
+- Moves: Wish, Protect, Toxic/Heal Bell, Dazzling Gleam/Knock Off
+- Item: Audinite
+- Ability: Regenerator
+- Nature: Calm
+- EVs: 252 HP/4 Def/252 SpD/
+---
+Pokémon: Wishiwashi-School
+- Moves: Rest, Sleep Talk, Scald, U-turn
+- Item: Leftovers
+- Ability: Schooling
+- Nature: Sassy
+- EVs: 0 Spe/
+---
+Pokémon: Glalie-Mega
+- Moves: Spikes, Double-Edge, Earthquake, Explosion
+- Item: Glalitite
+- Ability: Ice Body
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Camerupt-Mega
+- Moves: Stealth Rock, Lava Plume, Toxic, Protect/Earth Power
+- Item: Leftovers
+- Ability: Solid Rock
+- Nature: Calm
+- EVs: 252 HP/4 SpA/252 SpD/
+---
+Pokémon: Kangaskhan-Mega
+- Moves: Fake Out, Seismic Toss, Crunch/Shadow Claw, Rock Tomb/Body Slam
+- Item: Kangaskhanite
+- Ability: Scrappy
+- Nature: Jolly
+- EVs: 52 HP/180 Atk/36 Def/8 SpD/232 Spe/
+---
+Pokémon: Lucario-Mega
+- Moves: Swords Dance, Meteor Mash, Close Combat, Bullet Punch
+- Item: Lucarionite
+- Ability: Justified
+- Nature: Adamant
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Sharpedo-Mega
+- Moves: Crunch, Ice Fang, Psychic Fangs/Earthquake, Protect
+- Item: Sharpedonite
+- Ability: Speed Boost
+- Nature: Jolly
+- EVs: 4 HP/252 Atk/252 Spe/
+---
+Pokémon: Metagross-Mega
+- Moves: Meteor Mash, Ice Punch, Thunder Punch/Rock Slide, Earthquake/Bullet Punch
+- Item: Metagrossite
+- Ability: Clear Body
+- Nature: Jolly
+- EVs: 232 HP/60 Atk/40 SpD/176 Spe/
+---
+Pokémon: Mimikyu-Busted
+- Moves: Swords Dance, Shadow Claw, Play Rough, Shadow Sneak
+- Item: Ghostium Z
+- Ability: Disguise
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Slowbro-Mega
+- Moves: Scald, Psyshock, Slack Off, Ice Beam
+- Item: Colbur Berry
+- Ability: Regenerator
+- Nature: Bold
+- EVs: 252 HP/252 Def/4 SpA/
+---
+Pokémon: Mewtwo-Mega-Y
+- Moves: Low Kick, Taunt, Zen Headbutt/Ice Beam, Zen Headbutt/Stone Edge
+- Item: Mewtwonite X
+- Ability: Pressure
+- Nature: Jolly
+- EVs: 252 Atk/4 Def/252 Spe/
+---
+Pokémon: Heracross-Mega
+- Moves: Swords Dance, Close Combat, Rock Blast, Bullet Seed/Substitute/Pin Missile
+- Item: Heracronite
+- Ability: Moxie
+- Nature: Jolly
+- EVs: 252 Atk/4 SpD/252 Spe/
+---
+Pokémon: Latias-Mega
+- Moves: Calm Mind, Psyshock/Stored Power, Ice Beam, Roost
+- Item: Latiasite
+- Ability: Levitate
+- Nature: Timid
+- EVs: 248 HP/8 Def/252 Spe/
+---
+Pokémon: Gardevoir-Mega
+- Moves: Psyshock, Moonblast, Hidden Power/Shadow Ball, Healing Wish/Trick
+- Item: Choice Specs
+- Ability: Trace
+- Nature: Timid
+- EVs: 4 Def/252 SpA/252 Spe/
+---
+Pokémon: Sableye-Mega
+- Moves: Knock Off, Will-O-Wisp, Recover, Protect
+- Item: Sablenite
+- Ability: Prankster
+- Nature: Careful
+- EVs: 248 HP/8 Def/252 SpD/
+---
