@@ -1,0 +1,2600 @@
+Donne-moi une équipe : format OU
+Corviknight, Hippowdon, Tapu-Fini, Zeraora, Blacephalon, Garchomp
+---
+Donne-moi une équipe : format OU
+Barraskewda, Zapdos, Venusaur, Volcanion, Pelipper, Torkoal
+---
+Donne-moi une équipe : format NU
+Porygon, Mienfoo, Grookey, Pawniard, Staryu, Koffing
+---
+Donne-moi une équipe : format OU
+Barraskewda, Pelipper, Swampert, Toxapex, Tapu-Fini, Crawdaunt
+---
+Donne-moi une équipe : format NU
+Carvanha, Pawniard, Mienfoo, Koffing, Trapinch, Staryu
+---
+Donne-moi une équipe : format NU
+Mienfoo, Natu, Pawniard, Koffing, Porygon, Diglett
+---
+Donne-moi une équipe : format UU
+Cloyster, Ninetales-Alola, Kyurem, Arctozolt, Weavile, Darmanitan-Galar
+---
+Donne-moi une équipe : format Autre
+Magnezone, Xerneas, Darmanitan-Galar, Yveltal, Eternatus, Necrozma-Dusk-Mane
+---
+Donne-moi une équipe : format OU
+Kyurem, Dragapult, Hydreigon, Latias, Duraludon, Garchomp
+---
+Donne-moi une équipe : format NU
+Pawniard, Koffing, Mienfoo, Onix, Staryu, Grookey
+---
+Donne-moi une équipe : format OU
+Ninetales-Alola, Kommo-o, Blacephalon, Zeraora, Jirachi, Zapdos-Galar
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Heatran, Dragonite, Clefable, Ferrothorn, Tapu-Koko
+---
+Donne-moi une équipe : format OU
+Blacephalon, Ninetales-Alola, Tapu-Fini, Heatran, Garchomp, Kartana
+---
+Donne-moi une équipe : format OU
+Togekiss, Garchomp, Heatran
+---
+Donne-moi une équipe : format OU
+Latias-Mega, Keldeo-Resolute, Landorus-Therian, Clefable, Ferrothorn, Heatran
+---
+Donne-moi une équipe : format Autre
+Boltund, Uxie, Accelgor, Ditto, Cryogonal, Rotom
+---
+Donne-moi une équipe : format OU
+Blaziken, Tapu-Koko, Latios, Landorus-Therian, Dragapult, Azumarill
+---
+Donne-moi une équipe : format OU
+Krookodile, Alakazam, Tapu-Fini, Regieleki, Zapdos-Galar, Melmetal
+---
+Donne-moi une équipe : format Autre
+Azelf, Gyarados, Tyranitar, Metagross, Dragonite, Empoleon
+---
+Donne-moi une équipe : format OU
+Toxapex, Ferrothorn, Mew, Gengar, Volcarona, Landorus-Therian
+---
+Donne-moi une équipe : format OU
+Cobalion, Weavile, Dragonite, Landorus-Therian, Blaziken, Kartana
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Heatran, Blissey, Kartana, Nihilego, Tapu-Fini
+---
+Donne-moi une équipe : format Autre
+Aerodactyl, Butterfree, Yveltal, Necrozma-Dusk-Mane, Zacian-Crowned, Kyogre
+---
+Donne-moi une équipe : format UU
+Zeraora, Tapu-Koko, Hawlucha, Excadrill, Volcarona, Urshifu-Rapid-Strike
+---
+Donne-moi une équipe : format OU
+Ferrothorn, Barraskewda, Pelipper, Omastar, Zapdos, Dragapult
+---
+Donne-moi une équipe : format OU
+Kartana, Tapu-Koko, Urshifu-Rapid-Strike, Mandibuzz, Slowking-Galar, Rotom-Wash
+---
+Donne-moi une équipe : format Autre
+Genesect, Calyrex-Ice, Kyurem-White, Ho-Oh, Urshifu, Xerneas
+---
+Donne-moi une équipe : format Autre
+Ivysaur, Liepard, Qwilfish, Rapidash, Shiftry, Uxie
+---
+Donne-moi une équipe : format Autre
+Shuckle, Tyranitar, Terrakion, Nihilego, Barbaracle, Coalossal
+---
+Donne-moi une équipe : format Autre
+Klefki, Polteageist, Heracross, Cloyster, Celebi, Mimikyu
+---
+Donne-moi une équipe : format Autre
+Barraskewda, Pelipper, Thundurus-Therian, Swampert, Ferrothorn, Kingdra
+---
+Donne-moi une équipe : format OU
+Blaziken, Kartana, Tapu-Koko, Landorus-Therian, Heatran, Tapu-Fini
+---
+Donne-moi une équipe : format OU
+Ferrothorn, Garchomp, Gigalith, Tapu-Koko, Blacephalon, Mantine
+---
+Donne-moi une équipe : format OU
+Dragapult, Landorus-Therian, Toxapex, Heatran, Kartana, Dragonite
+---
+Donne-moi une équipe : format OU
+Urshifu-Rapid-Strike, Zapdos, Landorus-Therian, Kartana, Mamoswine, Gengar
+---
+Donne-moi une équipe : format UU
+Weavile, Moltres, Tapu-Lele, Ninetales-Alola, Melmetal, Slowking-Galar
+---
+Donne-moi une équipe : format OU
+Azelf, Heatran, Zeraora, Tapu-Lele, Rillaboom, Zapdos-Galar
+---
+Donne-moi une équipe : format OU
+Urshifu-Rapid-Strike, Slowbro, Heatran, Landorus-Therian, Mandibuzz, Kartana
+---
+Donne-moi une équipe : format Autre
+Cryogonal, Pinsir, Qwilfish, Glaceon, Rhydon, Uxie
+---
+Donne-moi une équipe : format OU
+Torkoal, Zapdos, Excadrill, Ninetales-Alola, Hippowdon, Pelipper
+---
+Donne-moi une équipe : format OU
+Urshifu-Rapid-Strike, Dragapult, Slowking-Galar, Landorus-Therian, Corviknight, Tyranitar
+---
+Donne-moi une équipe : format Autre
+Seismitoad, Klefki, Toxicroak, Ludicolo, Politoed, Tornadus
+---
+Donne-moi une équipe : format Autre
+Vikavolt, Bronzong, Milotic, Umbreon, Rotom
+---
+Donne-moi une équipe : format OU
+Kartana, Dragapult, Slowbro-Galar, Registeel, Zoroark, Garchomp
+---
+Donne-moi une équipe : format OU
+Volcarona, Slowbro, Tyranitar, Aegislash, Zapdos, Urshifu-Rapid-Strike
+---
+Donne-moi une équipe : format Autre
+Gastrodon, Eternatus, Groudon, Zekrom, Yveltal, Necrozma-Dusk-Mane
+---
+Donne-moi une équipe : format UU
+Poliwrath, Politoed, Heliolisk, Scizor, Krookodile, Togekiss
+---
+Donne-moi une équipe : format OU
+Tyranitar, Zeraora, Melmetal, Kartana, Urshifu-Rapid-Strike, Corviknight
+---
+Donne-moi une équipe : format OU
+Salamence, Garchomp, Tapu-Fini, Heatran, Tangrowth, Zeraora
+---
+Donne-moi une équipe : format OU
+Blacephalon, Kartana, Zeraora, Dragonite, Ferrothorn, Tapu-Fini
+---
+Donne-moi une équipe : format OU
+Kartana, Magnezone, Tapu-Lele, Mew, Landorus-Therian, Slowbro
+---
+Donne-moi une équipe : format Autre
+Groudon-Primal, Yveltal, Vivillon, Smeargle, Zacian-Crowned, Ditto
+---
+Donne-moi une équipe : format OU
+Aegislash, Slowbro, Ditto, Dragapult, Heatran, Ferrothorn
+---
+Donne-moi une équipe : format OU
+Blacephalon, Dragapult, Aegislash, Palossand, Cofagrigus, Spectrier
+---
+Donne-moi une équipe : format Autre
+Marshadow, Ho-Oh, Eternatus, Yveltal, Darmanitan-Galar, Melmetal
+---
+Donne-moi une équipe : format Autre
+Chandelure, Ampharos-Mega, Ursaring, Cresselia, Scrafty, Mimikyu
+---
+Donne-moi une équipe : format OU
+Ferrothorn, Aegislash, Heatran, Celesteela, Registeel, Excadrill
+---
+Donne-moi une équipe : format Autre
+Volcarona, Slowbro, Ferrothorn, Regieleki, Pelipper, Jirachi
+---
+Donne-moi une équipe : format Autre
+Talonflame, Sirfetch’d, Rhydon, Sylveon, Silvally-Steel
+---
+Donne-moi une équipe : format OU
+Manectric-Mega, Landorus-Therian, Kyurem-Black, Tornadus-Therian, Excadrill, Heatran
+---
+Donne-moi une équipe : format Autre
+Melmetal, Cresselia, Crawdaunt, Hatterene, Marowak-Alola, Porygon2
+---
+Donne-moi une équipe : format Autre
+Groudon-Primal, Xerneas, Xerneas, Xerneas, Xerneas, Xerneas
+---
+Donne-moi une équipe : format Autre
+Yveltal, Xerneas, Necrozma-Dusk-Mane, Ho-Oh, Eternatus, Kyogre
+---
+Donne-moi une équipe : format OU
+Alakazam-Mega, Landorus-Therian, Volcarona, Kommo-o, Ferrothorn, Greninja
+---
+Donne-moi une équipe : format Autre
+Rayquaza, Zacian, Yveltal, Necrozma-Dusk-Mane, Ditto, Eternatus
+---
+Donne-moi une équipe : format OU
+Tapu-Fini, Incineroar, Zygarde, Zarude-Dada, Zeraora, Celesteela
+---
+Donne-moi une équipe : format OU
+Excadrill, Dragapult, Blacephalon, Garchomp, Urshifu-Rapid-Strike, Rillaboom
+---
+Donne-moi une équipe : format Autre
+Amaura, Darumaka-Galar, Snover, Swinub, Sandshrew-Alola, Spheal
+---
+Donne-moi une équipe : format NU
+Ponyta, Grookey, Mienfoo, Mareanie, Pawniard, Diglett
+---
+Donne-moi une équipe : format Autre
+Liepard, Ludicolo, Drednaw, Qwilfish, Mesprit, Frosmoth
+---
+Donne-moi une équipe : format Autre
+Volcanion, Genesect, Rillaboom, Kyurem-Black, Landorus, Mew
+---
+Donne-moi une équipe : format NU
+Gligar, Staryu, Chinchou, Mantyke, Munchlax, Diglett
+---
+Donne-moi une équipe : format OU
+Avalugg, Tapu-Fini, Zarude
+---
+Donne-moi une équipe : format Autre
+Calyrex-Shadow, Ho-Oh, Yveltal, Necrozma-Dusk-Mane, Ferrothorn, Groudon
+---
+Donne-moi une équipe : format OU
+Kartana, Blacephalon, Zapdos, Tapu-Fini, Landorus-Therian, Weavile
+---
+Donne-moi une équipe : format UU
+Jirachi, Skarmory, Clefable, Gastrodon, Toxapex, Hydreigon
+---
+Donne-moi une équipe : format Autre
+Silvally-Ghost, Whimsicott, Wishiwashi, Garbodor, Aggron, Articuno-Galar
+---
+Donne-moi une équipe : format OU
+Aegislash, Garchomp, Corviknight, Gastrodon, Tapu-Koko, Blaziken
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Rillaboom, Dragapult, Tapu-Fini, Volcarona, Ferrothorn
+---
+Donne-moi une équipe : format OU
+Espeon, Tyranitar, Tapu-Lele, Kartana, Tapu-Fini, Landorus-Therian
+---
+Donne-moi une équipe : format OU
+Heatran, Regieleki, Dragonite, Zapdos-Galar, Mew, Weavile
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Suicune, Lopunny-Mega, Bisharp, Serperior, Garchomp
+---
+Donne-moi une équipe : format UU
+Blissey, Slowbro, Corviknight, Buzzwole, Nidoking, Weavile
+---
+Donne-moi une équipe : format OU
+Kartana, Blaziken, Melmetal, Zapdos, Chandelure, Terrakion
+---
+Donne-moi une équipe : format OU
+Mew, Tyranitar, Kartana, Scizor, Regieleki, Tapu-Koko
+---
+Donne-moi une équipe : format OU
+Glastrier, Dragapult, Swampert, Mandibuzz, Tapu-Fini, Kartana
+---
+Donne-moi une équipe : format UU
+Weavile, Moltres, Tapu-Lele, Ninetales-Alola, Melmetal, Slowking-Galar
+---
+Donne-moi une équipe : format OU
+Seismitoad, Hippowdon, Nidoking, Garchomp, Mamoswine, Excadrill
+---
+Donne-moi une équipe : format Autre
+Abomasnow, Ninetales-Alola, Sandslash-Alola, Beartic, Arctozolt, Arctovish
+---
+Donne-moi une équipe : format OU
+Heatran, Weavile, Zapdos, Tapu-Fini, Ferrothorn, Volcarona
+---
+Donne-moi une équipe : format Autre
+Celebi, Mimikyu, Umbreon, Cloyster, Rhyperior, Metagross
+---
+Donne-moi une équipe : format OU
+Urshifu-Rapid-Strike, Victini, Ferrothorn, Zapdos, Slowking-Galar, Bisharp
+---
+Donne-moi une équipe : format OU
+Tyranitar, Garchomp, Magnezone, Urshifu-Rapid-Strike, Clefable, Slowking-Galar
+---
+Donne-moi une équipe : format OU
+Kommo-o, Tapu-Koko, Dragapult, Rotom-Wash, Tyranitar, Celesteela
+---
+Donne-moi une équipe : format OU
+Pelipper, Azumarill, Zapdos, Seismitoad, Barraskewda, Ferrothorn
+---
+Donne-moi une équipe : format OU
+Garchomp, Tapu-Lele, Kartana, Urshifu-Rapid-Strike, Zapdos, Heatran
+---
+Donne-moi une équipe : format OU
+Raboot, Slowbro, Mandibuzz, Nidoking, Kartana, Tapu-Koko
+---
+Donne-moi une équipe : format UU
+Urshifu-Rapid-Strike, Tyranitar, Excadrill, Victini, Terrakion, Genesect
+---
+Donne-moi une équipe : format UU
+Leafeon, Venusaur, Charizard, Victini, Torkoal, Rotom-Wash
+---
+Donne-moi une équipe : format Autre
+Pelipper, Kingdra, Omastar, Zapdos-Galar, Tapu-Koko, Regieleki
+---
+Donne-moi une équipe : format Autre
+Groudon, Yveltal, Necrozma-Dusk-Mane, Eternatus, Calyrex-Shadow, Ho-Oh
+---
+Donne-moi une équipe : format OU
+Cobalion, Minior, Serperior, Tyranitar-Mega, Blacephalon, Rotom-Wash
+---
+Donne-moi une équipe : format OU
+Rillaboom, Zeraora, Heatran, Dragapult, Buzzwole, Kartana
+---
+Donne-moi une équipe : format OU
+Dragapult, Blacephalon, Sableye, Froslass, Aegislash, Golurk
+---
+Donne-moi une équipe : format Autre
+Melmetal, Zapdos-Galar, Toxapex, Volcarona, Slowking-Galar, Tapu-Koko
+---
+Donne-moi une équipe : format Autre
+Rayquaza, Zacian-Crowned, Yveltal, Necrozma-Dusk-Mane, Ditto, Eternatus
+---
+Donne-moi une équipe : format OU
+Bisharp, Magnezone, Dragonite, Zapdos, Rillaboom, Clefable
+---
+Donne-moi une équipe : format OU
+Druddigon, Rillaboom, Kartana, Hawlucha, Heatran, Scizor
+---
+Donne-moi une équipe : format Autre
+Chandelure, Crobat, Flygon, Milotic, Seismitoad, Marowak-Alola
+---
+Donne-moi une équipe : format Autre
+Yveltal, Quagsire, Necrozma-Dusk-Mane, Shedinja, Kyogre, Zacian-Crowned
+---
+Donne-moi une équipe : format OU
+Heatran, Melmetal, Celesteela, Ferrothorn, Aegislash, Jirachi
+---
+Donne-moi une équipe : format OU
+Tapu-Koko, Urshifu-Rapid-Strike, Slowking-Galar, Corviknight, Landorus-Therian, Weavile
+---
+Donne-moi une équipe : format Autre
+Xerneas, Yveltal, Tapu-Lele, Magearna, Arceus-Ground, Necrozma-Dusk-Mane
+---
+Donne-moi une équipe : format OU
+Greninja-Ash, Alakazam, Kartana, Garchomp, Rotom-Wash, Magearna
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Ferrothorn, Zapdos, Tyranitar, Victini, Rillaboom
+---
+Donne-moi une équipe : format OU
+Pelipper, Barraskewda, Kingdra, Zapdos, Seismitoad, Ferrothorn
+---
+Donne-moi une équipe : format Autre
+Snorlax, Mimikyu, Nidoqueen, Klefki, Noivern, Golisopod
+---
+Donne-moi une équipe : format UU
+Magnezone, Dragonite, Zapdos-Galar, Zeraora, Toxapex, Weavile
+---
+Donne-moi une équipe : format Autre
+Ninetales-Alola, Swampert, Sandslash-Alola, Arctovish, Arctozolt, Abomasnow
+---
+Donne-moi une équipe : format Autre
+Politoed, Ferrothorn, Tentacruel, Tornadus, Latios, Jirachi
+---
+Donne-moi une équipe : format Autre
+Mesprit, Silvally-Ghost, Bouffalant, Dugtrio-Alola, Poliwrath, Turtonator
+---
+Donne-moi une équipe : format Autre
+Mew, Tornadus-Therian, Toxapex, Skarmory, Hatterene, Ditto
+---
+Donne-moi une équipe : format NU
+Mienfoo, Mareanie, Trapinch, Ferroseed, Archen, Staryu
+---
+Donne-moi une équipe : format OU
+Torkoal, Venusaur, Victini, Landorus-Therian, Magnezone, Tapu-Fini
+---
+Donne-moi une équipe : format NU
+Farfetch’d-Galar, Diglett, Magnemite, Larvesta, Porygon, Timburr
+---
+Donne-moi une équipe : format Autre
+Bronzong, Porygon2, Golisopod, Marowak-Alola, Reuniclus, Crobat
+---
+Donne-moi une équipe : format OU
+Ninetales-Alola, Weavile, Rotom-Wash, Mamoswine, Heatran, Dragonite
+---
+Donne-moi une équipe : format UU
+Regigigas, Crawdaunt, Skarmory, Sirfetch’d, Golurk, Togekiss
+---
+Donne-moi une équipe : format Autre
+Ribombee, Bisharp, Serperior, Mimikyu, Pinsir, Kommo-o
+---
+Donne-moi une équipe : format UU
+Regieleki, Tapu-Koko, Buzzwole, Slowking-Galar, Mamoswine, Rotom-Heat
+---
+Donne-moi une équipe : format OU
+Latias, Heatran, Jirachi, Suicune, Kingdra, Rotom-Heat
+---
+Donne-moi une équipe : format Autre
+Mew, Wigglytuff, Scolipede, Vaporeon, Espeon, Bellossom
+---
+Donne-moi une équipe : format OU
+Mew, Landorus-Therian, Weavile, Urshifu-Rapid-Strike, Magnezone, Clefable
+---
+Donne-moi une équipe : format Autre
+Tapu-Lele, Ninetales-Alola, Kommo-o, Vikavolt, Swampert, Volcarona
+---
+Donne-moi une équipe : format OU
+Zapdos, Swampert, Cloyster, Salamence, Gengar, Charizard
+---
+Donne-moi une équipe : format Autre
+Zacian-Crowned, Calyrex-Shadow, Yveltal, Ho-Oh, Marshadow, Groudon
+---
+Donne-moi une équipe : format OU
+Pelipper, Barraskewda, Zapdos, Clawitzer, Swampert, Urshifu-Rapid-Strike
+---
+Donne-moi une équipe : format OU
+Hoopa-Unbound, Diancie-Mega, Tapu-Bulu, Rotom-Wash, Landorus-Therian, Heatran
+---
+Donne-moi une équipe : format Autre
+Incineroar, Dracovish, Ludicolo, Politoed, Pelipper, Urshifu-Rapid-Strike
+---
+Donne-moi une équipe : format OU
+Pelipper, Ferrothorn, Zapdos, Barraskewda, Melmetal, Dragapult
+---
+Donne-moi une équipe : format OU
+Gardevoir, Dracozolt, Heatran, Tornadus-Therian, Primarina, Blissey
+---
+Donne-moi une équipe : format OU
+Terrakion, Victini, Tapu-Lele, Rotom-Wash, Dragapult, Landorus-Therian
+---
+Donne-moi une équipe : format OU
+Clefable, Corviknight, Buzzwole, Heatran, Blissey, Rotom-Wash
+---
+Donne-moi une équipe : format OU
+Breloom, Magearna, Gallade, Blacephalon, Xurkitree, Tapu-Bulu
+---
+Donne-moi une équipe : format OU
+Zeraora, Dracozolt, Zapdos, Regieleki, Tapu-Koko, Thundurus-Therian
+---
+Donne-moi une équipe : format Autre
+Magnezone, Crustle, Dracovish
+---
+Donne-moi une équipe : format Autre
+Victini, Shuckle, Zapdos-Galar, Bisharp, Rotom-Fan, Volcarona
+---
+Donne-moi une équipe : format NU
+Magnemite, Koffing, Ponyta, Diglett, Mienfoo, Pawniard
+---
+Donne-moi une équipe : format OU
+Tyranitar, Excadrill, Zapdos, Weavile, Slowking-Galar, Dragonite
+---
+Donne-moi une équipe : format Autre
+Pineco, Togedemaru, Cottonee, Gastly, Magnemite, Taillow
+---
+Donne-moi une équipe : format Autre
+Venusaur-Mega, Tapu-Lele, Greninja, Magearna, Magnezone
+---
+Donne-moi une équipe : format Autre
+Azelf, Tapu-Lele, Tyranitar-Mega, Tapu-Bulu, Magearna, Volcarona
+---
+Donne-moi une équipe : format UU
+Zygarde-10%, Reuniclus, Tangrowth, Ditto, Cobalion, Rotom-Heat
+---
+Donne-moi une équipe : format OU
+Crawdaunt, Garchomp, Togekiss, Scizor, Rotom-Wash, Swampert
+---
+Donne-moi une équipe : format OU
+Tapu-Bulu, Heatran, Slowbro, Urshifu-Rapid-Strike, Mandibuzz, Zeraora
+---
+Donne-moi une équipe : format OU
+Blacephalon, Mew, Zapdos-Galar, Weavile, Tapu-Koko, Victini
+---
+Donne-moi une équipe : format Autre
+Regice, Regidrago, Regigigas, Registeel, Regirock, Jolteon
+---
+Donne-moi une équipe : format OU
+Aegislash, Regieleki, Landorus-Therian, Volcarona, Kartana, Toxapex
+---
+Donne-moi une équipe : format Autre
+Shuckle, Whimsicott, Dugtrio-Alola, Articuno-Galar, Magmortar, Silvally-Grass
+---
+Donne-moi une équipe : format Autre
+Lucario, Golisopod, Chandelure, Tsareena, Ribombee, Rhyperior
+---
+Donne-moi une équipe : format OU
+Zapdos, Machamp, Salamence, Metagross, Snorlax, Suicune
+---
+Donne-moi une équipe : format OU
+Chandelure, Zapdos, Tapu-Bulu, Torkoal, Clefable, Slowbro
+---
+Donne-moi une équipe : format Autre
+Calyrex-Shadow, Eternatus, Marshadow, Necrozma-Dusk-Mane, Yveltal, Regieleki
+---
+Donne-moi une équipe : format OU
+Togekiss, Aegislash, Dragapult
+---
+Donne-moi une équipe : format OU
+Marowak-Alola, Jellicent, Aegislash, Mimikyu, Runerigus, Dragapult
+---
+Donne-moi une équipe : format UU
+Tapu-Bulu, Mamoswine, Moltres, Cobalion, Slowking, Salamence
+---
+Donne-moi une équipe : format OU
+Zygarde-10%, Heatran, Scizor, Greninja, Rotom-Wash, Salamence
+---
+Donne-moi une équipe : format Autre
+Calyrex-Ice, Dracovish, Kyogre, Porygon2, Yveltal, Necrozma-Dusk-Mane
+---
+Donne-moi une équipe : format OU
+Garchomp, Urshifu-Rapid-Strike, Zapdos, Landorus-Therian, Victini, Gengar
+---
+Donne-moi une équipe : format OU
+Torkoal, Blaziken, Venusaur, Mew, Heatran, Volcarona
+---
+Donne-moi une équipe : format OU
+Tapu-Lele, Alakazam-Mega, Magnezone, Rotom-Wash, Magearna, Garchomp
+---
+Donne-moi une équipe : format OU
+Tyranitar, Skarmory, Jellicent, Mienshao, Landorus-Therian, Alakazam
+---
+Donne-moi une équipe : format OU
+Darmanitan, Zapdos, Slowking, Melmetal, Weavile, Clefable
+---
+Donne-moi une équipe : format Autre
+Rayquaza-Mega, Groudon-Primal, Xerneas, Arceus, Marshadow, Shaymin-Sky
+---
+Donne-moi une équipe : format Autre
+Dunsparce, Dugtrio, Mr. Rime, Boltund, Dusknoir, Crustle
+---
+Donne-moi une équipe : format OU
+Incineroar, Rillaboom, Mew, Kyurem-Black, Tapu-Fini, Zygarde
+---
+Donne-moi une équipe : format OU
+Magnezone, Blacephalon, Dracovish
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Tapu-Lele, Dragapult, Ferrothorn, Urshifu-Rapid-Strike, Zeraora
+---
+Donne-moi une équipe : format Autre
+Zacian-Crowned, Necrozma-Dusk-Mane, Xerneas, Yveltal, Shuckle, Zapdos-Galar
+---
+Donne-moi une équipe : format Autre
+Breloom, Dragonite, Metagross, Gengar, Tyranitar, Swampert
+---
+Donne-moi une équipe : format UU
+Melmetal, Tyranitar, Slowbro, Rotom-Wash, Flygon, Dracozolt
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Blacephalon, Regieleki, Tapu-Lele, Toxapex, Rillaboom
+---
+Donne-moi une équipe : format Autre
+Rotom-Mow, Malamar, Mudsdale, Togedemaru, Sylveon, Talonflame
+---
+Donne-moi une équipe : format OU
+Zeraora, Landorus-Therian, Heatran, Tapu-Fini, Kartana, Tapu Lele
+---
+Donne-moi une équipe : format OU
+Seismitoad, Zapdos, Pelipper, Barraskewda, Corviknight, Tapu-Lele
+---
+Donne-moi une équipe : format Autre
+Sawsbuck-Autumn, Steelix, Mantine, Gardevoir, Toxicroak, Houndoom
+---
+Donne-moi une équipe : format Autre
+Arceus-Ground, Groudon-Primal, Gengar-Mega, Necrozma-Dusk-Mane, Magearna, Yveltal
+---
+Donne-moi une équipe : format OU
+Swampert, Obstagoon, Barraskewda, Zapdos, Dragapult, Heatran
+---
+Donne-moi une équipe : format Autre
+Pelipper, Barraskewda, Slowbro, Swampert, Toxapex, Urshifu-Rapid-Strike
+---
+Donne-moi une équipe : format OU
+Urshifu-Rapid-Strike, Slowbro, Regieleki, Blissey, Zapdos-Galar, Landorus-Therian
+---
+Donne-moi une équipe : format OU
+Barraskewda, Urshifu-Rapid-Strike, Zapdos, Thundurus-Therian, Pelipper, Melmetal
+---
+Donne-moi une équipe : format Autre
+Ferrothorn, Eternatus, Necrozma-Dusk-Mane, Yveltal, Xerneas, Xerneas
+---
+Donne-moi une équipe : format OU
+Tyranitar, Excadrill, Hawlucha, Garchomp, Tapu Fini, Dracozolt
+---
+Donne-moi une équipe : format UU
+Excadrill, Gyarados, Rotom-Heat, Primarina, Slowbro-Galar, Amoonguss
+---
+Donne-moi une équipe : format OU
+Latios, Zeraora, Landorus-Therian, Tornadus-Therian, Tapu-Fini, Ferrothorn
+---
+Donne-moi une équipe : format Autre
+Bisharp, Cinccino, Linoone, Tapu-Koko, Shuckle, Blastoise
+---
+Donne-moi une équipe : format Autre
+Kyogre, Whimsicott, Zapdos-Galar, Zacian-Crowned, Blastoise-Gmax, Shedinja
+---
+Donne-moi une équipe : format Autre
+Calyrex-Shadow, Urshifu, Groudon, Xerneas, Eternatus, Yveltal
+---
+Donne-moi une équipe : format OU
+Magnezone, Tapu-Fini, Dracovish
+---
+Donne-moi une équipe : format OU
+Mamoswine, Blacephalon, Zeraora, Tyranitar, Celesteela, Urshifu-Rapid-Strike
+---
+Donne-moi une équipe : format OU
+Blacephalon, Buzzwole, Kartana, Weavile, Landorus-Therian, Melmetal
+---
+Donne-moi une équipe : format OU
+Dragapult, Zeraora, Mew, Buzzwole, Melmetal, Heatran
+---
+Donne-moi une équipe : format Autre
+Pelipper, Barraskewda, Volcanion, Urshifu-Rapid-Strike, Toxapex, Seismitoad
+---
+Donne-moi une équipe : format OU
+Volcarona, Kartana, Melmetal, Zapdos, Tyranitar, Urshifu-Rapid-Strike
+---
+Donne-moi une équipe : format UU
+Excadrill, Zacian-Crowned, Ditto, Marshadow, Kyogre, Eternatus
+---
+Donne-moi une équipe : format UU
+Hawlucha, Excadrill, Ferrothorn, Tapu-Koko, Pelipper, Urshifu-Rapid-Strike
+---
+Donne-moi une équipe : format Autre
+Bronzong, Pangoro, Marowak-Alola, Tapu-Bulu, Hatterene, Corviknight
+---
+Donne-moi une équipe : format Autre
+Dracovish, Kyogre, Xerneas, Shuckle, Yveltal, Eternatus
+---
+Donne-moi une équipe : format OU
+Excadrill, Tapu-Koko, Moltres-Galar, Dragapult, Bisharp, Cloyster
+---
+Donne-moi une équipe : format OU
+Lycanroc, Tyranitar, Ferrothorn, Excadrill, Landorus-Therian, Mienshao
+---
+Donne-moi une équipe : format Autre
+Aerodactyl, Calyrex-Shadow, Zekrom, Yveltal, Marshadow, Necrozma-Dusk-Mane
+---
+Donne-moi une équipe : format Autre
+Slowking-Galar, Clefable, Buzzwole, Ferrothorn, Toxapex, Skarmory
+---
+Donne-moi une équipe : format Autre
+Dragalge, Galvantula, Flygon, Passimian, Chandelure, Hitmontop
+---
+Donne-moi une équipe : format OU
+Cinderace, Heatran, Moltres, Victini, Volcarona, Volcanion
+---
+Donne-moi une équipe : format OU
+Marowak-Alola, Hydreigon, Ferrothorn, Tapu-Fini, Zapdos, Alakazam
+---
+Donne-moi une équipe : format Autre
+Dragalge, Galvantula, Flygon, Passimian, Chandelure, Hitmontop
+---
+Donne-moi une équipe : format UU
+Hydreigon, Rotom-Heat, Swampert, Cobalion, Tangrowth, Crobat
+---
+Donne-moi une équipe : format OU
+Pelipper, Zapdos, Barraskewda, Swampert, Ferrothorn, Ludicolo
+---
+Donne-moi une équipe : format OU
+Zapdos, Buzzwole, Excadrill, Tyranitar, Tornadus-Therian, Slowbro
+---
+Donne-moi une équipe : format OU
+Weavile, Landorus-Therian, Melmetal, Dragonite, Blacephalon, Urshifu-Rapid-Strike
+---
+Donne-moi une équipe : format OU
+Landorus, Excadrill, Hippowdon, Garchomp, Seismitoad, Steelix
+---
+Donne-moi une équipe : format Autre
+Pelipper, Swampert, Ferrothorn, Tornadus-Therian, Magearna, Araquanid
+---
+Donne-moi une équipe : format Autre
+Arctozolt, Buzzwole, Ninetales-Alola, Slowking-Galar, Corviknight, Volcanion
+---
+Donne-moi une équipe : format Autre
+Lugia, Metagross-Mega, Marshadow, Swampert, Reshiram, Gengar
+---
+Donne-moi une équipe : format Autre
+Taillow, Cottonee, Pineco, Gastly, Magnemite, Togedemaru
+---
+Donne-moi une équipe : format Autre
+Wormadam-Sandy, Scizor, Blissey, Skarmory, Toxapex, Azumarill
+---
+Donne-moi une équipe : format OU
+Kartana, Gyarados, Victini, Tapu-Koko, Hawlucha, Mamoswine
+---
+Donne-moi une équipe : format NU
+Corphish, Carvanha, Ferroseed, Snubbull, Pawniard, Gastly
+---
+Donne-moi une équipe : format OU
+Garchomp, Yveltal, Pyukumuku, Gurdurr, Alakazam, Magnezone
+---
+Donne-moi une équipe : format OU
+Tapu-Fini, Avalugg, Goodra
+---
+Donne-moi une équipe : format OU
+Chandelure, Melmetal, Urshifu-Rapid-Strike, Rillaboom, Volcarona, Zapdos
+---
+Donne-moi une équipe : format Autre
+Xerneas, Calyrex-Shadow, Urshifu, Aerodactyl, Eternatus, Yveltal
+---
+Donne-moi une équipe : format Autre
+Xerneas, Calyrex-Shadow, Urshifu, Aerodactyl, Eternatus, Yveltal
+---
+Donne-moi une équipe : format UU
+Tsareena, Sylveon, Chandelure, Mamoswine, Cobalion, Keldeo-Resolute
+---
+Donne-moi une équipe : format Autre
+Volcarona, Heracross, Golisopod, Shuckle, Vikavolt, Scizor
+---
+Donne-moi une équipe : format Autre
+Gliscor, Alomomola, Magnezone, Chansey, Latios, Pinsir
+---
+Donne-moi une équipe : format Autre
+Araquanid, Whimsicott, Scrafty, Aggron, Jellicent, Rotom-Frost
+---
+Donne-moi une équipe : format Autre
+Corviknight, Corsola-Galar, Rillaboom
+---
+Donne-moi une équipe : format OU
+Toxtricity, Urshifu-Rapid-Strike, Buzzwole, Slowking-Galar, Landorus-Therian, Heatran
+---
+Donne-moi une équipe : format UU
+Sceptile, Clefable, Talonflame, Keldeo, Excadrill, Rotom-Wash
+---
+Donne-moi une équipe : format OU
+Magnezone, Buzzwole, Ribombee, Blaziken, Kartana, Dragonite
+---
+Donne-moi une équipe : format OU
+Tyranitar, Slowking, Landorus-Therian, Tapu-Koko, Melmetal, Tornadus-Therian
+---
+Donne-moi une équipe : format Autre
+Umbreon, Registeel, Goodra, Golisopod, Milotic, Rhyperior
+---
+Donne-moi une équipe : format OU
+Cobalion, Zapdos-Galar, Scizor, Blacephalon, Tapu-Koko, Kartana
+---
+Donne-moi une équipe : format OU
+Celesteela, Garchomp, Xatu, Urshifu-Rapid-Strike, Zeraora, Blacephalon
+---
+Donne-moi une équipe : format Autre
+Zeraora, Scizor, Gengar, Slowbro, Tyranitar, Zapdos-Galar
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Zapdos-Galar, Hawlucha, Crobat, Gyarados, Moltres-Galar
+---
+Donne-moi une équipe : format UU
+Zeraora, Volcarona, Slowking-Galar, Slowbro, Mandibuzz, Excadrill
+---
+Donne-moi une équipe : format OU
+Yveltal, Groudon, Incineroar, Gastrodon-East, Kartana, Shedinja
+---
+Donne-moi une équipe : format OU
+Tsareena, Blissey, Buzzwole, Weavile, Volcanion, Zapdos
+---
+Donne-moi une équipe : format UU
+Excadrill, Magneton, Gyarados, Salamence, Cobalion, Primarina
+---
+Donne-moi une équipe : format OU
+Medicham-Mega, Tapu-Koko, Tapu-Lele, Landorus-Therian, Magearna, Tyranitar
+---
+Donne-moi une équipe : format Autre
+Swampert-Mega, Pelipper, Tapu-Koko, Tornadus-Therian, Kingdra, Ferrothorn
+---
+Donne-moi une équipe : format OU
+Mew, Cloyster, Blacephalon, Kartana, Dragapult, Tapu-Lele
+---
+Donne-moi une équipe : format Autre
+Pincurchin, Raichu-Alola, Sceptile, Arcanine, Duraludon
+---
+Donne-moi une équipe : format OU
+Clefable, Rotom-Wash, Rillaboom, Hawlucha, Buzzwole, Heatran
+---
+Donne-moi une équipe : format Autre
+Volcarona, Frosmoth, Galvantula, Durant, Buzzwole, Araquanid
+---
+Donne-moi une équipe : format Autre
+Druddigon, Qwilfish, Incineroar, Sharpedo, Mimikyu, Gardevoir
+---
+Donne-moi une équipe : format Autre
+Dracozolt, Tyranitar, Hippowdon, Clefable, Corviknight, Cradily
+---
+Donne-moi une équipe : format Autre
+Shuckle, Kyurem-Black, Zeraora, Bisharp, Gyarados-Mega, Mimikyu
+---
+Donne-moi une équipe : format OU
+Dragapult, Tapu-Lele, Heatran, Landorus-Therian, Rotom-Wash, Buzzwole
+---
+Donne-moi une équipe : format UU
+Deoxys-Speed, Arceus, Xerneas, Salamence, Yveltal, Groudon-Primal
+---
+Donne-moi une équipe : format Autre
+Vanilluxe, Arctovish, Pangoro, Crobat, Metagross, Flygon
+---
+Donne-moi une équipe : format OU
+Kommo-o, Ninetales-Alola, Magnezone, Kartana, Tapu-Fini, Garchomp
+---
+Donne-moi une équipe : format Autre
+Azelf, Grimmsnarl, Xerneas, Groudon, Zacian-Crowned, Eternatus
+---
+Donne-moi une équipe : format OU
+Urshifu-Rapid-Strike, Crawdaunt, Swampert, Tapu-Fini, Slowbro, Volcanion
+---
+Donne-moi une équipe : format NU
+Pancham, Mienfoo, Grookey, Foongus, Onix, Pawniard
+---
+Donne-moi une équipe : format OU
+Volcanion, Kartana, Landorus-Therian, Blissey, Buzzwole, Zapdos
+---
+Donne-moi une équipe : format OU
+Weavile, Dragonite, Victini, Clefable, Dragapult, Rotom-Wash
+---
+Donne-moi une équipe : format OU
+Sylveon, Heatran, Zeraora
+---
+Donne-moi une équipe : format UU
+Clefable, Hippowdon, Excadrill, Tornadus-Therian, Melmetal, Dracozolt
+---
+Donne-moi une équipe : format OU
+Excadrill, Garchomp, Landorus-Therian, Hippowdon, Gastrodon, Nidoking
+---
+Donne-moi une équipe : format OU
+Zapdos, Bisharp, Landorus-Therian, Ferrothorn, Kartana, Keldeo
+---
+Donne-moi une équipe : format Autre
+Togedemaru, Stunfisk-Galar, Ditto, Noivern, Garbodor, Drapion
+---
+Donne-moi une équipe : format Autre
+Regieleki, Tapu-Koko, Hawlucha, Zapdos-Galar, Bisharp, Victini
+---
+Donne-moi une équipe : format OU
+Tapu-Koko, Xurkitree, Jirachi, Corviknight, Garchomp, Volcanion
+---
+Donne-moi une équipe : format OU
+Scizor, Aegislash, Togedemaru, Ferrothorn, Heatran, Corviknight
+---
+Donne-moi une équipe : format Autre
+Ditto, Palkia, Ho-Oh, Urshifu, Quagsire, Yveltal
+---
+Donne-moi une équipe : format OU
+Magnezone, Dragapult, Moltres-Galar
+---
+Donne-moi une équipe : format Autre
+Roserade, Slurpuff, Pangoro, Rhyperior, Cloyster, Mimikyu
+---
+Donne-moi une équipe : format Autre
+Regigigas, Weezing, Zacian-Crowned, Calyrex-Shadow, Blastoise-Gmax, Volcarona
+---
+Donne-moi une équipe : format OU
+Dragapult, Landorus-Therian, Heatran, Ferrothorn, Tapu-Fini, Regieleki
+---
+Donne-moi une équipe : format OU
+Excadrill, Garchomp, Landorus-Therian, Hippowdon, Gastrodon, Nidoking
+---
+Donne-moi une équipe : format Autre
+Rotom-Mow, Silvally-Steel, Inteleon, Mudsdale, Arcanine, Weezing
+---
+Donne-moi une équipe : format OU
+Dragapult, Sylveon, Shuckle, Kartana, Swampert, Rotom-Heat
+---
+Donne-moi une équipe : format OU
+Moltres-Galar, Landorus-Therian, Tornadus-Therian, Corviknight, Zapdos-Galar, Gyarados
+---
+Donne-moi une équipe : format Autre
+Quagsire, Bouffalant, Articuno-Galar, Jellicent, Comfey, Doublade
+---
+Donne-moi une équipe : format Autre
+Dhelmise, Cresselia, Marowak-Alola, Slowking, Buzzwole, Exploud
+---
+Donne-moi une équipe : format OU
+Magnezone, Altaria-Mega, Landorus-Therian, Rotom-Wash, Kommo-o, Celesteela
+---
+Donne-moi une équipe : format OU
+Garchomp, Serperior, Arcanine, Lopunny, Azumarill, Raichu-Alola
+---
+Donne-moi une équipe : format UU
+Shuckle, Regidrago, Haxorus, Zygarde-10%, Salamence, Tentacruel
+---
+Donne-moi une équipe : format Autre
+Mew, Glastrier, Amoonguss, Porygon2, Sableye, Kangaskhan
+---
+Donne-moi une équipe : format Autre
+Xerneas, Amoonguss, Incineroar, Kyogre, Ditto, Tornadus
+---
+Donne-moi une équipe : format OU
+Dragapult, Shedinja, Gengar, Mimikyu, Blacephalon, Aegislash
+---
+Donne-moi une équipe : format OU
+Pelipper, Barraskewda, Seismitoad, Urshifu-Rapid-Strike, Toxapex, Tapu-Fini
+---
+Donne-moi une équipe : format UU
+Cobalion, Chandelure, Milotic, Umbreon, Amoonguss, Salamence
+---
+Donne-moi une équipe : format Autre
+Carbink, Audino, Glastrier, Beheeyem, Centiskorch, Magneton
+---
+Donne-moi une équipe : format UU
+Ribombee, Toxtricity-Low-Key, Togekiss, Passimian, Cloyster, Chandelure
+---
+Donne-moi une équipe : format UU
+Amoonguss, Excadrill, Tyranitar, Celesteela, Slowbro, Thundurus-Therian
+---
+Donne-moi une équipe : format UU
+Aerodactyl, Mimikyu, Silvally-Dark, Chandelure, Cloyster, Togekiss
+---
+Donne-moi une équipe : format OU
+Toxapex, Ferrothorn, Excadrill, Nidoking, Landorus-Therian, Tapu-Lele
+---
+Donne-moi une équipe : format OU
+Araquanid, Landorus-Therian, Ferrothorn, Mew, Dragapult, Hitmontop
+---
+Donne-moi une équipe : format OU
+Weavile, Magnezone, Kartana, Landorus-Therian, Toxapex, Tornadus-Therian
+---
+Donne-moi une équipe : format OU
+Tapu-Bulu, Kartana, Landorus-Therian, Heatran, Slowking, Dragapult
+---
+Donne-moi une équipe : format UU
+Tangrowth, Thundurus-Therian, Salazzle, Slowking, Noivern, Cobalion
+---
+Donne-moi une équipe : format OU
+Pelipper, Barraskewda, Garchomp, Ferrothorn, Crawdaunt, Zapdos
+---
+Donne-moi une équipe : format Autre
+Rillaboom, Ferrothorn, Rotom-Mow, Cradily, Amoonguss, Zarude-Dada
+---
+Donne-moi une équipe : format OU
+Jirachi, Tyranitar-Mega, Tangrowth, Heatran, Tapu-Fini, Alakazam
+---
+Donne-moi une équipe : format Autre
+Smeargle, Groudon-Primal, Rayquaza, Arceus-Fairy, Marshadow, Necrozma-Dusk-Mane
+---
+Donne-moi une équipe : format UU
+Porygon-Z, Mamoswine, Charizard-Mega-X, Serperior, Cloyster, Tapu-Lele
+---
+Donne-moi une équipe : format OU
+Mew, Dragapult, Jirachi, Weavile, Zapdos-Galar, Volcanion
+---
+Donne-moi une équipe : format OU
+Excadrill, Weavile, Victini, Rillaboom, Tapu-Fini, Dragonite
+---
+Donne-moi une équipe : format OU
+Swampert, Pelipper, Ferrothorn, Tapu-Fini, Thundurus-Therian, Kingdra
+---
+Donne-moi une équipe : format Autre
+Gothitelle, Quagsire, Blissey, Tyranitar, Corviknight
+---
+Donne-moi une équipe : format OU
+Ferrothorn, Dragapult, Blissey, Landorus-Therian, Kartana, Tapu-Koko
+---
+Donne-moi une équipe : format Autre
+Gardevoir, Toxicroak, Flygon, Runerigus, Zoroark, Chandelure
+---
+Donne-moi une équipe : format OU
+Gengar, Ferrothorn, Slowbro, Kyurem-Black, Landorus-Therian, Manectric
+---
+Donne-moi une équipe : format Autre
+Charizard, Aggron, Druddigon, Wishiwashi, Silvally-Fighting, Claydol
+---
+Donne-moi une équipe : format Autre
+Darmanitan-Galar, Aegislash, Zeraora
+---
+Donne-moi une équipe : format Autre
+Grimmsnarl, Zacian-Crowned, Marshadow, Yveltal, Kyogre, Calyrex-Shadow
+---
+Donne-moi une équipe : format OU
+Haxorus, Regieleki, Tornadus-Therian, Tapu-Koko, Magnezone, Blacephalon
+---
+Donne-moi une équipe : format OU
+Latios, Scizor, Heatran, Garchomp, Regieleki, Tornadus-Therian
+---
+Donne-moi une équipe : format OU
+Heatran, Magnezone, Scizor, Starmie, Dragonite, Flygon
+---
+Donne-moi une équipe : format OU
+Azumarill, Landorus-Therian, Magnezone, Heatran, Tapu-Fini, Dragapult
+---
+Donne-moi une équipe : format OU
+Dragapult, Nihilego, Gastrodon
+---
+Donne-moi une équipe : format Autre
+Butterfree-Gmax, Zacian-Crowned, Corsola-Galar, Toxapex, Rillaboom, Ditto
+---
+Donne-moi une équipe : format OU
+Regieleki, Tapu-Koko, Mandibuzz, Slowbro, Landorus-Therian, Victini
+---
+Donne-moi une équipe : format OU
+Rillaboom, Kartana, Corviknight, Heatran, Regieleki, Zygarde-10%
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Gyarados, Tapu-Lele, Kartana, Hawlucha, Blacephalon
+---
+Donne-moi une équipe : format OU
+Golisopod, Dragapult, Tentacruel, Clefable, Blacephalon, Dragonite
+---
+Donne-moi une équipe : format OU
+Toxapex, Dragapult, Heatran, Landorus-Therian, Ferrothorn, Weavile
+---
+Donne-moi une équipe : format OU
+Diancie, Swampert, Dragapult, Corviknight, Gardevoir, Toxtricity
+---
+Donne-moi une équipe : format OU
+Heatran, Ferrothorn, Corviknight, Aegislash, Melmetal, Excadrill
+---
+Donne-moi une équipe : format Autre
+Froslass, Darkrai, Kabutops, Kyogre, Bronzong, Palkia
+---
+Donne-moi une équipe : format OU
+Rillaboom, Zeraora, Slowking-Galar, Heatran, Zapdos, Urshifu-Rapid-Strike
+---
+Donne-moi une équipe : format UU
+Slowbro, Toxapex, Sharpedo, Rotom-Wash, Swampert, Cloyster
+---
+Donne-moi une équipe : format OU
+Tyranitar, Slowking-Galar, Landorus-Therian, Tapu-Lele, Buzzwole, Kartana
+---
+Donne-moi une équipe : format OU
+Toxapex, Starmie, Urshifu-Rapid-Strike, Tapu-Fini, Rotom-Wash, Lanturn
+---
+Donne-moi une équipe : format OU
+Chandelure, Shuckle, Bisharp, Rillaboom, Excadrill, Tapu-Fini
+---
+Donne-moi une équipe : format Autre
+Lilligant, Ninetales, Ludicolo, Pelipper, Ferrothorn, Toxapex
+---
+Donne-moi une équipe : format Autre
+Calyrex-Ice, Kyogre, Mimikyu, Alcremie-Gmax, Incineroar, Tyranitar
+---
+Donne-moi une équipe : format Autre
+Pangoro, Gardevoir, Registeel, Noivern, Dhelmise, Milotic
+---
+Donne-moi une équipe : format UU
+Crawdaunt, Excadrill, Heliolisk, Darmanitan, Salamence, Tangrowth
+---
+Donne-moi une équipe : format Autre
+Magearna-Original, Calyrex-Shadow, Indeedee-F, Victini, Kyogre, Yveltal
+---
+Donne-moi une équipe : format Autre
+Moltres-Galar, Victini, Hippowdon, Aegislash, Tapu-Koko, Regieleki
+---
+Donne-moi une équipe : format OU
+Eldegoss, Lurantis, Incineroar, Clefable, Regieleki, Dragapult
+---
+Donne-moi une équipe : format UU
+Kyurem, Togekiss, Magnezone
+---
+Donne-moi une équipe : format OU
+Greninja, Alakazam-Mega, Landorus-Therian, Kartana, Jirachi, Rotom-Wash
+---
+Donne-moi une équipe : format UU
+Drifblim, Buzzwole, Wigglytuff, Mew, Excadrill, Toxapex
+---
+Donne-moi une équipe : format Autre
+Sandslash, Gigalith, Silvally-Grass, Lycanroc, Frosmoth, Alcremie-Ruby-Swirl
+---
+Donne-moi une équipe : format Autre
+Gigalith, Sandslash, Wishiwashi, Charizard, Magneton, Ribombee, Ribombee
+---
+Donne-moi une équipe : format OU
+Quagsire, Sandslash-Alola, Arctozolt, Ninetales-Alola, Heatran, Slowking
+---
+Donne-moi une équipe : format OU
+Zacian-Crowned, Calyrex-Shadow, Landorus-Therian, Incineroar, Regieleki, Whimsicott
+---
+Donne-moi une équipe : format Autre
+Torkoal, Venusaur, Darmanitan, Swampert, Regieleki, Tapu-Bulu
+---
+Donne-moi une équipe : format Autre
+Yveltal, Xerneas, Marshadow, Kyogre, Shuckle, Dracovish
+---
+Donne-moi une équipe : format OU
+Kommo-o, Tyranitar, Tapu-Lele, Excadrill, Landorus-Therian, Hawlucha
+---
+Donne-moi une équipe : format Autre
+Rillaboom, Incineroar, Kyurem-Black, Diancie, Landorus, Amoonguss
+---
+Donne-moi une équipe : format OU
+Urshifu-Rapid-Strike, Toxapex, Magnezone, Volcarona, Landorus-Therian, Conkeldurr
+---
+Donne-moi une équipe : format Autre
+Cryogonal, Persian-Alola, Crustle, Beheeyem, Sudowoodo, Silvally-Fighting
+---
+Donne-moi une équipe : format OU
+Heatran, Tapu-Fini, Dragonite, Corviknight, Zeraora, Slowking-Galar
+---
+Donne-moi une équipe : format UU
+Primarina, Conkeldurr, Salamence, Zarude, Golurk, Nihilego
+---
+Donne-moi une équipe : format Autre
+Volcanion, Crustle, Magnezone
+---
+Donne-moi une équipe : format Autre
+Azelf, Metagross, Gyarados, Tyranitar, Starmie, Infernape
+---
+Donne-moi une équipe : format Autre
+Lairon, Electabuzz, Vullaby, Piloswine, Roselia, Wartortle
+---
+Donne-moi une équipe : format OU
+Ninetales-Alola, Arctozolt, Zapdos, Urshifu-Rapid-Strike, Blacephalon, Swampert
+---
+Donne-moi une équipe : format OU
+Dragonite, Landorus-Therian, Heatran, Dragapult, Weavile, Slowking-Galar
+---
+Donne-moi une équipe : format Autre
+Scizor, Keldeo, Mandibuzz, Tangrowth, Swampert, Azelf
+---
+Donne-moi une équipe : format Autre
+Yveltal, Groudon, Ferrothorn, Zacian-Crowned, Necrozma-Dusk-Mane, Ho-Oh
+---
+Donne-moi une équipe : format Autre
+Hippowdon, Metagross, Breloom, Magneton, Latias, Clefable
+---
+Donne-moi une équipe : format Autre
+Mawile-Mega, Tapu-Koko, Keldeo, Tornadus-Therian, Ferrothorn, Kyurem-Black
+---
+Donne-moi une équipe : format Autre
+Appletun, Armaldo, Gurdurr, Piloswine, Metang
+---
+Donne-moi une équipe : format OU
+Nidoking, Dragonite, Weavile, Heatran, Slowking-Galar, Urshifu-Rapid-Strike
+---
+Donne-moi une équipe : format OU
+Tyranitar, Excadrill, Zapdos, Slowbro, Dracozolt, Aegislash
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Pelipper, Dragonite, Ferrothorn, Barraskewda, Tapu-Koko
+---
+Donne-moi une équipe : format OU
+Ninetales-Alola, Garchomp, Tapu-Lele, Volcarona, Blacephalon, Heatran
+---
+Donne-moi une équipe : format OU
+Blaziken, Victini, Zapdos, Blissey, Ferrothorn, Tapu-Fini
+---
+Donne-moi une équipe : format OU
+Infernape, Ferrothorn, Heatran, Toxicroak, Landorus-Therian, Blissey
+---
+Donne-moi une équipe : format Autre
+Articuno-Galar, Scrafty, Mudsdale, Vaporeon, Silvally-Steel, Rotom-Mow
+---
+Donne-moi une équipe : format UU
+Alakazam-Mega, Excadrill, Tapu-Lele, Victini, Serperior, Hawlucha
+---
+Donne-moi une équipe : format Autre
+Tornadus-Therian, Ferrothorn, Clefable, Melmetal, Volcarona, Seismitoad
+---
+Donne-moi une équipe : format Autre
+Azelf, Indeedee, Crustle, Crawdaunt, Clawitzer, Kingler
+---
+Donne-moi une équipe : format OU
+Blaziken, Victini, Zapdos, Blissey, Ferrothorn, Tapu-Fini
+---
+Donne-moi une équipe : format NU
+Purrloin, Vulpix, Charmander, Natu, Bulbasaur, Diglett
+---
+Donne-moi une équipe : format UU
+Krookodile, Tyranitar, Togekiss, Klefki, Manectric, Staraptor
+---
+Donne-moi une équipe : format OU
+Garchomp, Rotom-Heat, Tapu-Fini, Slowking-Galar, Kartana, Weavile
+---
+Donne-moi une équipe : format OU
+Tapu-Koko, Ferrothorn, Landorus-Therian, Zoroark, Dragapult, Regieleki
+---
+Donne-moi une équipe : format Autre
+Donphan, Mismagius, Houndoom, Toxicroak, Rhyperior, Sceptile
+---
+Donne-moi une équipe : format OU
+Corsola-Galar, Spectrier, Dragapult, Polteageist, Blacephalon, Mimikyu
+---
+Donne-moi une équipe : format Autre
+Pelipper, Dracovish, Lugia, Barraskewda, Kyogre, Seismitoad
+---
+Donne-moi une équipe : format Autre
+Obstagoon, Runerigus, Corsola-Galar, Zarude, Weezing-Galar
+---
+Donne-moi une équipe : format Autre
+Ambipom, Charizard, Magnezone, Gengar, Swampert, Starmie
+---
+Donne-moi une équipe : format UU
+Hydreigon, Cobalion, Tangrowth, Rotom-Wash, Diggersby, Crobat
+---
+Donne-moi une équipe : format Autre
+Hippowdon, Ferrothorn, Blissey, Skarmory, Clefable, Toxapex
+---
+Donne-moi une équipe : format OU
+Zapdos-Galar, Buzzwole, Rotom-Wash, Ferrothorn, Blacephalon, Tyranitar
+---
+Donne-moi une équipe : format Autre
+Lurantis, Cresselia, Uxie, Camerupt-Mega, Magearna, Conkeldurr
+---
+Donne-moi une équipe : format Autre
+Zekrom, Kyogre, Slurpuff, Groudon, Necrozma-Dusk-Mane, Yveltal
+---
+Donne-moi une équipe : format UU
+Amoonguss, Tyranitar, Roaring Moon, Rotom-Wash, Corviknight, Great Tusk
+---
+Donne-moi une équipe : format Autre
+Flutter Mane, Magnezone, Iron Hands
+---
+Donne-moi une équipe : format Autre
+Gholdengo, Slither Wing, Iron Treads, Meowscarada, Flutter Mane, Iron Moth
+---
+Donne-moi une équipe : format Autre
+Iron Valiant, Ceruledge, Scream Tail, Tauros-Paldea-Water, Great Tusk, Clodsire
+---
+Donne-moi une équipe : format Autre
+Cyclizar, Vespiquen, Iron Valiant
+---
+Donne-moi une équipe : format Autre
+Armarouge, Breloom, Corviknight, Scizor, Kilowattrel, Dachsbun
+---
+Donne-moi une équipe : format Autre
+Chien-Pao, Clodsire, Cyclizar, Orthworm, Iron Valiant, Espathra
+---
+Donne-moi une équipe : format Autre
+Maushold, Ceruledge, Clodsire, Garganacl, Breloom, Tinkaton
+---
+Donne-moi une équipe : format OU
+Avalugg, Blissey, Toxapex, Clodsire, Corviknight, Dragapult
+---
+Donne-moi une équipe : format Autre
+Glimmora, Espathra, Chien-Pao, Lokix, Skeledirge, Scream Tail
+---
+Donne-moi une équipe : format Autre
+Dhelmise, Sylveon, Talonflame, Stakataka, Sandaconda, Rotom-Mow
+---
+Donne-moi une équipe : format UU
+Iron Moth, Iron Treads, Quaquaval, Salamence, Pincurchin, Slowbro
+---
+Donne-moi une équipe : format Autre
+Chi-Yu, Gholdengo, Ting-Lu, Corviknight, Chien-Pao, Iron Valiant
+---
+Donne-moi une équipe : format Autre
+Iron Hands, Iron Treads, Azumarill, Chi-Yu, Iron Thorns, Flamigo
+---
+Donne-moi une équipe : format Autre
+Scizor, Pelipper, Barraskewda, Gholdengo, Clodsire, Azumarill
+---
+Donne-moi une équipe : format OU
+Dragapult, Chien-Pao, Great Tusk, Meowscarada, Clodsire, Azumarill
+---
+Donne-moi une équipe : format OU
+Blissey, Clodsire, Gholdengo, Great Tusk, Toxapex, Garchomp
+---
+Donne-moi une équipe : format Autre
+Torkoal, Sandy Shocks, Grimmsnarl, Skeledirge, Rotom-Mow, Great Tusk
+---
+Donne-moi une équipe : format OU
+Iron Hands, Dondozo, Chi-Yu, Great Tusk, Glimmora, Dragapult
+---
+Donne-moi une équipe : format Autre
+Ditto, Ceruledge, Clodsire, Kingambit, Great Tusk, Iron Valiant
+---
+Donne-moi une équipe : format Autre
+Arboliva, Flamigo, Dragonite, Iron Thorns, Iron Jugulis, Slowbro
+---
+Donne-moi une équipe : format Autre
+Kingambit, Cyclizar, Gholdengo, Glimmora, Iron Valiant, Chi-Yu
+---
+Donne-moi une équipe : format UU
+Forretress, Hydreigon, Quaquaval, Dragonite, Scizor, Volcarona
+---
+Donne-moi une équipe : format UU
+Slither Wing, Magnezone, Pawmot, Talonflame, Toxtricity, Weavile
+---
+Donne-moi une équipe : format Autre
+Forretress, Corviknight, Clodsire, Chi-Yu, Annihilape, Dragonite
+---
+Donne-moi une équipe : format Autre
+Forretress, Toxapex, Slither Wing, Clodsire, Gholdengo, Dragonite
+---
+Donne-moi une équipe : format OU
+Roaring Moon, Gholdengo, Great Tusk, Dondozo, Toxapex, Garchomp
+---
+Donne-moi une équipe : format Autre
+Armarouge, Indeedee-F, Gholdengo, Azumarill, Torkoal, Murkrow
+---
+Donne-moi une équipe : format Autre
+Glimmora, Ting-Lu, Dondozo, Gholdengo, Chi-Yu, Dragonite
+---
+Donne-moi une équipe : format Autre
+Talonflame, Slither Wing, Slowking, Sandy Shocks, Bisharp, Scream Tail
+---
+Donne-moi une équipe : format Autre
+Iron Valiant, Bronzong, Clodsire, Chien-Pao, Torkoal, Dedenne
+---
+Donne-moi une équipe : format Autre
+Quaquaval, Espathra, Dragonite, Grimmsnarl, Gholdengo, Great Tusk
+---
+Donne-moi une équipe : format OU
+Great Tusk, Iron Treads, Quagsire, Clodsire, Garchomp, Sandy Shocks
+---
+Donne-moi une équipe : format OU
+Miraidon, Koraidon, Flutter Mane, Garchomp, Iron Bundle, Great Tusk
+---
+Donne-moi une équipe : format Autre
+Gholdengo, Chi-Yu, Scovillain, Torkoal, Kilowattrel, Garganacl
+---
+Donne-moi une équipe : format Autre
+Breloom, Chi-Yu, Great Tusk, Corviknight, Chien-Pao, Iron Valiant
+---
+Donne-moi une équipe : format Autre
+Glimmora, Iron Bundle, Gholdengo, Miraidon, Tyranitar, Houndstone
+---
+Donne-moi une équipe : format Autre
+Indeedee, Polteageist, Gallade, Ursaring, Annihilape, Gholdengo
+---
+Donne-moi une équipe : format UU
+Baxcalibur, Skeledirge, Breloom, Gholdengo, Hydreigon, Volcarona
+---
+Donne-moi une équipe : format Autre
+Zekrom, Kyogre, Slurpuff, Groudon, Necrozma-Dusk-Mane, Yveltal
+---
+Donne-moi une équipe : format Autre
+Meowscarada, Clodsire, Scizor, Ceruledge, Gholdengo, Gastrodon
+---
+Donne-moi une équipe : format OU
+Chien-Pao, Dragapult, Gholdengo, Iron Moth, Iron Treads, Garganacl
+---
+Donne-moi une équipe : format Autre
+Dondozo, Tatsugiri, Gothitelle, Meowscarada, Pawmot, Torkoal
+---
+Donne-moi une équipe : format OU
+Chi-Yu, Roaring Moon, Iron Valiant, Corviknight, Dragapult, Clodsire
+---
+Donne-moi une équipe : format Autre
+Gholdengo, Dondozo, Iron Hands
+---
+Donne-moi une équipe : format Autre
+Volcarona, Baxcalibur, Dondozo, Gallade, Gholdengo, Meowscarada
+---
+Donne-moi une équipe : format Autre
+Pawmot, Grimmsnarl, Annihilape, Maushold, Gholdengo, Volcarona
+---
+Donne-moi une équipe : format OU
+Tapu-Bulu, Kartana, Rotom-Wash, Garchomp, Heatran, Slowking-Galar
+---
+Donne-moi une équipe : format Autre
+Chi-Yu, Great Tusk, Scizor, Corviknight, Gastrodon-East, Breloom
+---
+Donne-moi une équipe : format Autre
+Miraidon, Koraidon, Palafin, Flutter Mane, Houndstone, Iron Bundle
+---
+Donne-moi une équipe : format Autre
+Iron Jugulis, Ceruledge, Grimmsnarl, Cyclizar, Glimmora, Quaquaval
+---
+Donne-moi une équipe : format UU
+Clodsire, Skeledirge, Gholdengo, Hydreigon, Quaquaval, Kingambit
+---
+Donne-moi une équipe : format OU
+Iron Valiant, Kingambit, Roaring Moon, Corviknight, Toxapex, Garchomp
+---
+Donne-moi une équipe : format Autre
+Iron Valiant, Tyranitar, Gholdengo, Ditto, Meowscarada, Cyclizar
+---
+Donne-moi une équipe : format Autre
+Gholdengo, Ceruledge, Clodsire, Scizor, Roaring Moon, Great Tusk
+---
+Donne-moi une équipe : format Autre
+Cyclizar, Espathra, Quaquaval, Clodsire, Gholdengo, Dondozo
+---
+Donne-moi une équipe : format UU
+Gallade, Hydreigon, Tinkaton, Gastrodon-East, Tsareena, Talonflame
+---
+Donne-moi une équipe : format Autre
+Dragonite, Great Tusk, Ting-Lu, Chi-Yu, Meowscarada, Gholdengo
+---
+Donne-moi une équipe : format OU
+Toxtricity, Sableye, Abomasnow, Farigiraf, Alomomola, Dragapult
+---
+Donne-moi une équipe : format Autre
+Garganacl, Gholdengo, Kingambit, Quaquaval, Volcarona, Glimmora
+---
+Donne-moi une équipe : format OU
+Chien-Pao, Iron Moth, Roaring Moon, Gholdengo, Rotom-Wash, Garchomp
+---
+Donne-moi une équipe : format OU
+Clawitzer, Kingambit, Gholdengo, Rotom-Wash, Dondozo, Dragapult
+---
+Donne-moi une équipe : format OU
+Azumarill, Gholdengo, Arboliva, Dragapult, Volcarona, Kingambit
+---
+Donne-moi une équipe : format Autre
+Scizor, Garganacl, Chien-Pao, Gholdengo, Glimmora, Ceruledge
+---
+Donne-moi une équipe : format Autre
+Toxtricity, Dondozo, Gholdengo, Azumarill, Meowscarada, Dragonite
+---
+Donne-moi une équipe : format OU
+Gengar, Volcarona, Dondozo, Gholdengo, Azumarill, Dragapult
+---
+Donne-moi une équipe : format Autre
+Gengar, Tyranitar, Talonflame, Tinkaton, Gastrodon-East, Tsareena
+---
+Donne-moi une équipe : format UU
+Luxray, Amoonguss, Meowscarada, Skeledirge, Rotom-Wash, Altaria
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Cinderace, Urshifu, Tyranitar, Dragapult, Dracovish
+---
+Donne-moi une équipe : format Autre
+Altaria, Tinkatuff, Mismagius, Toxtricity, Sableye, Tauros-Paldea-Fire
+---
+Donne-moi une équipe : format OU
+Charizard-Mega-Y, Excadrill, Rotom-Wash, Kommo-o, Kartana, Tapu-Koko
+---
+Donne-moi une équipe : format Autre
+Pelipper, Corviknight, Talonflame, Dragonite, Kilowattrel, Iron Jugulis
+---
+Donne-moi une équipe : format Autre
+Magnezone, Annihilape, Meowscarada, Skeledirge, Gholdengo, Kingambit
+---
+Donne-moi une équipe : format Autre
+Great Tusk, Slowking, Gholdengo, Hatterene, Ting-Lu, Chien-Pao
+---
+Donne-moi une équipe : format UU
+Mimikyu, Rotom-Wash, Annihilape, Gholdengo, Hydreigon, Kingambit
+---
+Donne-moi une équipe : format UU
+Arboliva, Gholdengo, Dragonite, Azumarill, Hydreigon, Rotom-Wash
+---
+Donne-moi une équipe : format Autre
+Scizor, Rotom-Heat, Hatterene, Glimmora, Ting-Lu, Baxcalibur
+---
+Donne-moi une équipe : format Autre
+Glimmora, Meowscarada, Dondozo, Chien-Pao, Gholdengo, Great Tusk
+---
+Donne-moi une équipe : format Autre
+Scizor, Azumarill, Breloom, Skeledirge, Gholdengo, Pawmot
+---
+Donne-moi une équipe : format UU
+Charizard-Mega-Y, Shiftry, Espeon, Mismagius, Cloyster, Excadrill
+---
+Donne-moi une équipe : format Autre
+Forretress, Pelipper, Drednaw, Tyranitar, Noivern, Lycanroc
+---
+Donne-moi une équipe : format Autre
+Iron Bundle, Palafin, Miraidon, Dondozo, Iron Treads, Ceruledge
+---
+Donne-moi une équipe : format UU
+Corviknight, Great Tusk, Greninja, Iron Moth, Hydreigon, Iron Valiant
+---
+Donne-moi une équipe : format Autre
+Froslass, Abomasnow, Baxcalibur, Cloyster, Chien-Pao, Cryogonal
+---
+Donne-moi une équipe : format UU
+Iron Hands, Pawmot, Rotom-Wash, Bellibolt, Kilowattrel, Sandy Shocks
+---
+Donne-moi une équipe : format OU
+Heatran, Blacephalon, Klefki, Malamar, Victini, Magnezone
+---
+Donne-moi une équipe : format Autre
+Flutter Mane, Grimmsnarl, Iron Valiant, Tinkaton, Azumarill, Hatterene
+---
+Donne-moi une équipe : format Autre
+Gholdengo, Corviknight, Iron Treads, Kingambit, Scizor, Klefki
+---
+Donne-moi une équipe : format UU
+Florges, Dragonite, Gholdengo, Flutter Mane, Rotom-Wash, Iron Bundle
+---
+Donne-moi une équipe : format Autre
+Flutter Mane, Chien-Pao, Dragonite, Iron Valiant, Iron Bundle, Koraidon
+---
+Donne-moi une équipe : format Autre
+Gholdengo, Great Tusk, Cinderace, Kingambit, Toxtricity, Gallade
+---
+Donne-moi une équipe : format Autre
+Zekrom, Kyogre, Slurpuff, Groudon, Necrozma-Dusk-Mane, Yveltal
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Gyarados, Tapu-Lele, Kartana, Hawlucha, Blacephalon
+---
+Donne-moi une équipe : format Autre
+Breloom, Glimmora, Iron Valiant, Kingambit, Iron Moth, Meowscarada
+---
+Donne-moi une équipe : format Autre
+Roaring Moon, Scizor, Iron Moth, Hatterene, Quaquaval, Gholdengo
+---
+Donne-moi une équipe : format UU
+Flutter Mane, Arcanine, Rotom-Wash, Roaring Moon, Great Tusk, Scizor
+---
+Donne-moi une équipe : format OU
+Ferrothorn, Landorus-Therian, Dragapult, Melmetal, Urshifu-Rapid-Strike, Garchomp
+---
+Donne-moi une équipe : format OU
+Azumarill, Glimmora, Dragonite, Garganacl, Garchomp, Gholdengo
+---
+Donne-moi une équipe : format Autre
+Haxorus, Orthworm, Grimmsnarl, Iron Valiant, Great Tusk, Polteageist
+---
+Donne-moi une équipe : format OU
+Greninja, Dragapult, Corviknight, Gholdengo, Kingambit, Clodsire
+---
+Donne-moi une équipe : format OU
+Tapu-Bulu, Kartana, Garchomp, Slowbro, Zapdos, Blacephalon
+---
+Donne-moi une équipe : format Autre
+Scizor, Volcarona, Forretress, Lokix, Heracross, Frosmoth
+---
+Donne-moi une équipe : format Autre
+Zekrom, Kyogre, Slurpuff, Groudon, Necrozma-Dusk-Mane, Yveltal
+---
+Donne-moi une équipe : format OU
+Baxcalibur, Iron Moth, Gholdengo, Dragapult, Great Tusk, Corviknight
+---
+Donne-moi une équipe : format UU
+Ting-Lu, Skuntank, Greninja, Chien-Pao, Sableye, Hydreigon
+---
+Donne-moi une équipe : format Autre
+Garganacl, Meowscarada, Tsareena, Drednaw, Hatterene, Orthworm
+---
+Donne-moi une équipe : format UU
+Kingambit, Rotom-Wash, Volcarona, Gholdengo, Great Tusk, Dragonite
+---
+Donne-moi une équipe : format Autre
+Hattrem, Rabsca, Bronzor, Crabominable, Copperajah, Clawitzer
+---
+Donne-moi une équipe : format Autre
+Corviknight, Baxcalibur, Magnezone, Dragonite, Gholdengo, Flutter Mane
+---
+Donne-moi une équipe : format OU
+Gholdengo, Flutter Mane, Mimikyu, Dragapult, Froslass, Skeledirge
+---
+Donne-moi une équipe : format UU
+Altaria, Magnezone, Weavile, Excadrill, Slowbro, Clefable
+---
+Donne-moi une équipe : format Autre
+Krookodile, Bronzong, Dragalge, Oricorio-Pom-Pom, Gardevoir, Ditto
+---
+Donne-moi une équipe : format Autre
+Iron Moth, Iron Treads, Iron Valiant, Corviknight, Pincurchin, Iron Leaves
+---
+Donne-moi une équipe : format UU
+Clodsire, Rotom-Wash, Walking Wake, Iron Hands, Great Tusk, Gholdengo
+---
+Donne-moi une équipe : format Autre
+Meowscarada, Ting-Lu, Gholdengo, Iron Valiant, Corviknight, Slowking
+---
+Donne-moi une équipe : format OU
+Scream Tail, Iron Treads, Meowscarada, Dragonite, Gholdengo, Garchomp
+---
+Donne-moi une équipe : format OU
+Staraptor, Revavroom, Dragapult, Iron Valiant, Sylveon, Skuntank
+---
+Donne-moi une équipe : format Autre
+Breloom, Clodsire, Walking Wake, Great Tusk, Corviknight, Gholdengo
+---
+Donne-moi une équipe : format OU
+Alakazam-Mega, Azumarill, Charizard-Mega-X, Kartana, Toxapex, Landorus-Therian
+---
+Donne-moi une équipe : format Autre
+Roaring Moon, Great Tusk, Gholdengo, Corviknight, Garganacl, Cinderace
+---
+Donne-moi une équipe : format OU
+Roaring Moon, Dragapult, Hydreigon, Baxcalibur, Dragonite, Dragalge
+---
+Donne-moi une équipe : format Autre
+Walking Wake, Torkoal, Roaring Moon, Orthworm, Volcarona, Cinderace
+---
+Donne-moi une équipe : format Autre
+Bellibolt, Flamigo, Krookodile, Revavroom, Primeape, Froslass
+---
+Donne-moi une équipe : format Autre
+Skarmory, Tyranitar, Rotom-Heat, Swampert, Lucario, Gengar
+---
+Donne-moi une équipe : format UU
+Iron Valiant, Hydreigon, Arcanine, Kingambit, Palafin, Pelipper
+---
+Donne-moi une équipe : format UU
+Great Tusk, Rotom-Wash, Cinderace, Gholdengo, Ting-Lu, Iron Valiant
+---
+Donne-moi une équipe : format UU
+Baxcalibur, Rotom-Wash, Gholdengo, Greninja, Great Tusk, Slowking
+---
+Donne-moi une équipe : format UU
+Bellibolt, Sandy Shocks, Magnezone, Iron Hands, Rotom-Wash, Eelektross
+---
+Donne-moi une équipe : format Autre
+Tyranitar, Talonflame, Sylveon, Amoonguss, Flutter Mane, Great Tusk
+---
+Donne-moi une équipe : format Autre
+Iron Valiant, Volcarona, Kingambit, Garganacl, Clodsire, Great Tusk
+---
+Donne-moi une équipe : format Autre
+Cyclizar, Staraptor, Zoroark-Hisui, Greedent, Arboliva, Slaking
+---
+Donne-moi une équipe : format OU
+Great Tusk, Dragapult, Clodsire, Dondozo, Corviknight, Gholdengo
+---
+Donne-moi une équipe : format OU
+Breloom, Rotom-Wash, Volcarona, Dragapult, Gholdengo, Kingambit
+---
+Donne-moi une équipe : format Autre
+Miraidon, Iron Bundle, Iron Treads, Iron Leaves, Iron Moth, Houndstone
+---
+Donne-moi une équipe : format UU
+Skeledirge, Amoonguss, Rotom-Wash, Ting-Lu, Cinderace, Iron Valiant
+---
+Donne-moi une équipe : format Autre
+Glimmora, Orthworm, Roaring Moon, Kingambit, Iron Valiant, Dragonite
+---
+Donne-moi une équipe : format UU
+Flamigo, Rotom-Wash, Gholdengo, Hatterene, Kingambit, Great Tusk
+---
+Donne-moi une équipe : format Autre
+Brute Bonnet, Flamigo, Coalossal, Vaporeon, Krookodile, Gardevoir
+---
+Donne-moi une équipe : format Autre
+Glimmora, Meowscarada, Gholdengo, Great Tusk, Dragonite, Iron Valiant
+---
+Donne-moi une équipe : format UU
+Azumarill, Rotom-Wash, Pelipper, Toxapex, Greninja, Quaquaval
+---
+Donne-moi une équipe : format UU
+Donphan, Magnezone, Rotom-Wash
+---
+Donne-moi une équipe : format OU
+Great Tusk, Azumarill, Rotom-Wash, Cinderace, Dragapult, Kingambit
+---
+Donne-moi une équipe : format OU
+Lokix, Slowking, Great Tusk, Glimmora, Dragapult, Corviknight
+---
+Donne-moi une équipe : format Autre
+Glimmora, Kingambit, Iron Valiant, Gholdengo, Great Tusk, Roaring Moon
+---
+Donne-moi une équipe : format Autre
+Skeledirge, Meowscarada, Great Tusk, Kingambit, Greninja, Roaring Moon
+---
+Donne-moi une équipe : format UU
+Iron Valiant, Slowking, Great Tusk, Hydreigon, Gholdengo, Clodsire
+---
+Donne-moi une équipe : format UU
+Roaring Moon, Magnezone, Toxapex, Great Tusk, Hydreigon, Baxcalibur
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Greninja-Ash, Medicham-Mega, Tapu-Koko, Celesteela, Kyurem-Black
+---
+Donne-moi une équipe : format OU
+Zeraora, Weavile, Landorus-Therian, Ferrothorn, Urshifu-Rapid-Strike, Tapu-Fini
+---
+Donne-moi une équipe : format OU
+Clodsire, Great Tusk, Gastrodon, Iron Treads, Ting-Lu, Garchomp
+---
+Donne-moi une équipe : format Autre
+Ceruledge, Mimikyu, Gholdengo, Skeledirge, Zoroark-Hisui, Flutter Mane
+---
+Donne-moi une équipe : format OU
+Walking Wake, Baxcalibur, Dragapult, Hydreigon, Garchomp, Dragalge
+---
+Donne-moi une équipe : format Autre
+Walking Wake, Breloom, Glimmora, Torkoal, Typhlosion, Lucario
+---
+Donne-moi une équipe : format Autre
+Bronzong, Naclstack, Altaria, Ditto, Krookodile, Mismagius
+---
+Donne-moi une équipe : format Autre
+Corviknight, Glimmora, Slowking, Meowscarada, Great Tusk, Dragonite
+---
+Donne-moi une équipe : format OU
+Clodsire, Bisharp, Dragapult, Great Tusk, Sandy Shocks, Masquerain
+---
+Donne-moi une équipe : format OU
+Great Tusk, Kingambit, Dragapult, Meowscarada, Slowking, Dragonite
+---
+Donne-moi une équipe : format Autre
+Walking Wake, Kingambit, Dragonite, Iron Moth, Glimmora, Azumarill
+---
+Donne-moi une équipe : format Autre
+Masquerain, Great Tusk, Baxcalibur, Iron Bundle, Gholdengo, Chi-Yu
+---
+Donne-moi une équipe : format Autre
+Pelipper, Floatzel, Azumarill, Pawmot, Walking Wake, Hatterene
+---
+Donne-moi une équipe : format Autre
+Starmie, Infernape, Flygon, Yanmega, Scizor, Tyranitar
+---
+Donne-moi une équipe : format Autre
+Surskit, Zorua-Hisui, Nymble, Quaxly, Crabrawler, Stunky
+---
+Donne-moi une équipe : format Autre
+Sneasler, Slowking-Galar, Skeledirge, Corviknight, Great Tusk, Magearna
+---
+Donne-moi une équipe : format OU
+Typhlosion, Meowscarada, Gholdengo, Hatterene, Landorus-Therian, Rotom-Wash
+---
+Donne-moi une équipe : format Autre
+Clodsire, Moltres, Diancie, Gholdengo, Samurott-Hisui, Sneasler
+---
+Donne-moi une équipe : format OU
+Sneasler, Rillaboom, Corviknight, Hydreigon, Gholdengo, Garchomp
+---
+Donne-moi une équipe : format OU
+Meowscarada, Dragapult, Magnezone, Slowking-Galar, Landorus-Therian, Toxapex
+---
+Donne-moi une équipe : format OU
+Pincurchin, Raichu-Alola, Regieleki, Rotom-Wash, Zapdos, Iron Hands
+---
+Donne-moi une équipe : format OU
+Urshifu, Landorus-Therian, Volcanion
+---
+Donne-moi une équipe : format OU
+Dragonite, Dragapult, Zapdos-Galar, Cinderace, Ting-Lu, Amoonguss
+---
+Donne-moi une équipe : format Autre
+Sandy Shocks, Greninja, Scizor, Gastrodon-East, Quaquaval, Talonflame
+---
+Donne-moi une équipe : format OU
+Kleavor, Zapdos, Decidueye-Hisui, Gholdengo, Ursaluna, Azumarill
+---
+Donne-moi une équipe : format OU
+Cinderace, Baxcalibur, Heatran, Slowking-Galar, Dragonite, Hoopa-Unbound
+---
+Donne-moi une équipe : format OU
+Tyranitar, Hippowdon, Clodsire, Corviknight, Garchomp, Gholdengo
+---
+Donne-moi une équipe : format OU
+Toxapex, Tyranitar, Clodsire, Corviknight, Dragapult, Flamigo
+---
+Donne-moi une équipe : format OU
+Buzzwole, Slowbro, Tapu-Koko, Weavile, Heatran, Landorus-Therian
+---
+Donne-moi une équipe : format Autre
+Farigiraf, Iron Hands, Torkoal, Kingambit, Vivillon-Marine, Hatterene
+---
+Donne-moi une équipe : format UU
+Skarmory, Rotom-Wash, Suicune, Jirachi, Scizor, Azelf
+---
+Donne-moi une équipe : format OU
+Diancie-Mega, Volcarona, Magearna, Landorus-Therian, Kyurem-Black, Rotom-Wash
+---
+Donne-moi une équipe : format OU
+Great Tusk, Garganacl, Toxapex, Garchomp, Scream Tail, Clodsire
+---
+Donne-moi une équipe : format OU
+Hydreigon, Dragapult, Clodsire, Thundurus-Therian, Great Tusk, Cinderace
+---
+Donne-moi une équipe : format OU
+Great Tusk, Heatran, Kingambit, Dragapult, Zapdos, Dragonite
+---
+Donne-moi une équipe : format Autre
+Arcanine-Hisui, Walking Wake, Bellibolt
+---
+Donne-moi une équipe : format UU
+Kingambit, Zamazenta, Iron Valiant, Great Tusk, Rotom-Wash, Slowking-Galar
+---
+Donne-moi une équipe : format Autre
+Smeargle, Bronzong, Slowbro, Cleffa, Machamp, Rhyperior
+---
+Donne-moi une équipe : format OU
+Lilligant-Hisui, Amoonguss, Iron Treads, Landorus-Therian, Azumarill, Talonflame
+---
+Donne-moi une équipe : format OU
+Ferrothorn, Corviknight, Dragapult, Tyranitar, Kartana, Garchomp
+---
+Donne-moi une équipe : format OU
+Chesnaught, Iron Treads, Toxapex, Kingambit, Rotom-Wash, Dragapult
+---
+Donne-moi une équipe : format Autre
+Greninja, Goodra-Hisui, Gengar, Wo-Chien, Donphan, Moltres
+---
+Donne-moi une équipe : format UU
+Great Tusk, Gholdengo, Iron Valiant, Rotom-Wash, Kingambit, Amoonguss
+---
+Donne-moi une équipe : format OU
+Dragapult, Sneasler, Garganacl, Corviknight, Great Tusk, Heatran
+---
+Donne-moi une équipe : format Autre
+Arceus-Ground, Azelf, Eternatus, Landorus, Iron Bundle, Zacian-Crowned
+---
+Donne-moi une équipe : format OU
+Tauros-Paldea-Blaze, Heatran, Rotom-Heat, Skeledirge, Volcanion, Cinderace
+---
+Donne-moi une équipe : format Autre
+Rillaboom, Zamazenta, Sneasler, Corviknight, Dondozo, Ting-Lu
+---
+Donne-moi une équipe : format Autre
+Grafaiai, Toedscruel, Brambleghast, Arcanine, Heracross, Palossand
+---
+Donne-moi une équipe : format UU
+Iron Thorns, Greninja, Hydreigon, Iron Jugulis, Zapdos-Galar, Ceruledge
+---
+Donne-moi une équipe : format Autre
+Samurott-Hisui, Iron Valiant, Moltres, Baxcalibur, Great Tusk, Gholdengo
+---
+Donne-moi une équipe : format OU
+Meloetta, Samurott-Hisui, Zapdos, Great Tusk, Baxcalibur, Cinderace
+---
+Donne-moi une équipe : format UU
+Chien-Pao, Ting-Lu, Kingambit, Hydreigon, Meowscarada, Sableye
+---
+Donne-moi une équipe : format Autre
+Forretress, Snorlax, Gengar, Raikou, Skarmory, Exeggutor
+---
+Donne-moi une équipe : format OU
+Moltres, Zapdos, Dragonite, Gyarados, Scyther, Charizard
+---
+Donne-moi une équipe : format Autre
+Chien-Pao, Overqwil, Ting-Lu, Greninja, Meowscarada, Sableye
+---
+Donne-moi une équipe : format UU
+Iron Hands, Toxtricity-Low-Key, Regieleki, Rotom-Wash, Magnezone, Sandy Shocks
+---
+Donne-moi une équipe : format OU
+Garchomp, Baxcalibur, Dragapult, Goodra-Hisui, Hydreigon, Walking Wake
+---
+Donne-moi une équipe : format OU
+Orthworm, Kingambit, Heatran, Gholdengo, Corviknight, Iron Treads
+---
+Donne-moi une équipe : format OU
+Goodra-Hisui, Gholdengo, Heatran, Iron Treads, Corviknight, Kingambit
+---
+Donne-moi une équipe : format Autre
+Torkoal, Koraidon, Flutter Mane, Volcarona, Rayquaza, Ting-Lu
+---
+Donne-moi une équipe : format Autre
+Kleavor, Forretress, Volcarona, Slither Wing, Scizor, Frosmoth
+---
+Donne-moi une équipe : format Autre
+Glimmora, Garganacl, Kleavor, Lycanroc-Dusk, Arcanine-Hisui, Drednaw
+---
+Donne-moi une équipe : format Autre
+Iron Valiant, Kingambit, Garganacl, Clodsire, Great Tusk, Moltres
+---
+Donne-moi une équipe : format Autre
+Kingambit, Gholdengo, Moltres, Sandy Shocks, Toxapex, Breloom
+---
+Donne-moi une équipe : format OU
+Sneasler, Walking Wake, Baxcalibur, Slowking-Galar, Great Tusk, Zapdos
+---
+Donne-moi une équipe : format OU
+Goodra-Hisui, Hoopa-Unbound, Meowscarada, Zapdos, Gholdengo, Iron Moth
+---
+Donne-moi une équipe : format Autre
+Rillaboom, Wo-Chien, Ting-Lu, Glimmora, Klefki, Chi-Yu
+---
+Donne-moi une équipe : format Autre
+Corviknight, Slowking-Galar, Gholdengo, Great Tusk, Grimmsnarl, Meowscarada
+---
+Donne-moi une équipe : format UU
+Typhlosion-Hisui, Torkoal, Great Tusk, Clodsire, Zamazenta, Rotom-Wash
+---
+Donne-moi une équipe : format Autre
+Corviknight, Blissey, Kingambit, Greninja, Clodsire, Sneasler
+---
+Donne-moi une équipe : format OU
+Meowscarada, Landorus-Therian, Rotom-Wash, Dragapult, Slowking-Galar, Kingambit
+---
+Donne-moi une équipe : format Autre
+Blissey, Muk-Alola, Moltres, Dondozo, Clodsire, Toxapex
+---
+Donne-moi une équipe : format Autre
+Metagross, Magneton, Aerodactyl, Snorlax, Suicune, Celebi
+---
+Donne-moi une équipe : format OU
+Samurott-Hisui, Iron Valiant, Landorus-Therian, Cinderace, Zapdos, Kingambit
+---
+Donne-moi une équipe : format Autre
+Scizor, Roaring Moon, Weezing-Galar, Sneasler, Enamorus, Great Tusk
+---
+Donne-moi une équipe : format Autre
+Gible, Grimer-Alola, Drifloon, Toedscool, Magnemite, Finizen
+---
+Donne-moi une équipe : format OU
+Iron Moth, Ursaluna-Bloodmoon, Dragapult, Hatterene, Glimmora, Landorus-Therian
+---
+Donne-moi une équipe : format Autre
+Great Tusk, Rillaboom, Gholdengo, Samurott-Hisui, Slowking-Galar, Enamorus
+---
+Donne-moi une équipe : format Autre
+Persian-Alola, Poliwrath, Golduck, Dachsbun, Swanna, Haunter
+---
+Donne-moi une équipe : format Autre
+Lycanroc, Mimikyu, Slither Wing, Revavroom, Kilowattrel, Moltres-Galar
+---
+Donne-moi une équipe : format OU
+Samurott-Hisui, Cinderace, Iron Valiant, Great Tusk, Kingambit, Zapdos
+---
+Donne-moi une équipe : format OU
+Gholdengo, Heatran, Corviknight, Kingambit, Jirachi, Orthworm
+---
+Donne-moi une équipe : format Autre
+Kingambit, Ribombee, Enamorus, Great Tusk, Empoleon, Ogerpon
+---
+Donne-moi une équipe : format UU
+Hoopa-Unbound, Meowscarada, Moltres, Iron Treads, Rotom-Wash, Weavile
+---
+Donne-moi une équipe : format Autre
+Gholdengo, Kingambit, Ogerpon-Wellspring, Iron Moth, Glimmora, Iron Valiant
+---
+Donne-moi une équipe : format OU
+Sneasler, Samurott-Hisui, Corviknight, Ting-Lu, Dragapult, Kingambit
+---
+Donne-moi une équipe : format Autre
+Arceus, Flutter Mane, Koraidon, Miraidon, Iron Bundle, Zacian-Crowned
+---
+Donne-moi une équipe : format OU
+Gliscor, Garchomp, Breloom, Arcanine-Hisui, Hydreigon, Iron Moth
+---
+Donne-moi une équipe : format Autre
+Samurott-Hisui, Great Tusk, Slowking-Galar, Ogerpon-Wellspring, Corviknight, Sneasler
+---
+Donne-moi une équipe : format Autre
+Pelipper, Zamazenta, Kingambit, Iron Moth, Great Tusk, Slowking-Galar
+---
+Donne-moi une équipe : format OU
+Zoroark-Hisui, Iron Valiant, Greninja, Empoleon, Dragapult
+---
+Donne-moi une équipe : format Autre
+Roaring Moon, Zamazenta, Gholdengo, Iron Moth, Rillaboom, Iron Treads
+---
+Donne-moi une équipe : format Autre
+Swampert-Mega, Pelipper, Azumarill, Ferrothorn, Kyurem-Black, Tapu-Koko
+---
+Donne-moi une équipe : format OU
+Cinderace, Samurott-Hisui, Amoonguss, Landorus-Therian, Kingambit, Iron Valiant
+---
+Donne-moi une équipe : format Autre
+Toxicroak, Zoroark, Bellibolt, Ambipom, Brambleghast, Braviary-Hisui
+---
+Donne-moi une équipe : format Autre
+Urshifu-Rapid-Strike, Iron Valiant, Sneasler, Zamazenta, Kommo-o, Infernape
+---
+Donne-moi une équipe : format Autre
+Aerodactyl, Azelf, Tyranitar, Scizor, Gengar, Flygon
+---
+Donne-moi une équipe : format Autre
+Iron Valiant, Iron Moth, Ogerpon-Wellspring, Glimmora, Greninja-Bond, Kingambit
+---
+Donne-moi une équipe : format OU
+Ribombee, Pinsir-Mega, Blacephalon, Kartana, Tapu-Lele, Mimikyu
+---
+Donne-moi une équipe : format Autre
+Urshifu-Rapid-Strike, Manaphy, Barraskewda, Pelipper, Samurott-Hisui, Gastrodon-East
+---
+Donne-moi une équipe : format Autre
+Flutter Mane, Palafin, Koraidon, Glimmora, Tyranitar, Houndstone
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Magnezone, Rillaboom, Tapu-Lele, Corviknight, Dragapult
+---
+Donne-moi une équipe : format Autre
+Ribombee, Gholdengo, Great Tusk, Manaphy, Iron Moth, Dragonite
+---
+Donne-moi une équipe : format UU
+Aerodactyl, Snorlax, Gyarados, Infernape, Weavile, Bronzong
+---
+Donne-moi une équipe : format Autre
+Iron Thorns, Klefki, Cetitan, Mudsdale, Azelf, Noivern
+---
+Donne-moi une équipe : format Autre
+Ribombee, Dragonite, Great Tusk, Iron Moth, Kingambit, Gholdengo
+---
+Donne-moi une équipe : format Autre
+Mesprit, Bombirdier, Samurott, Orthworm, Raichu, Cryogonal
+---
+Donne-moi une équipe : format OU
+Glimmora, Gholdengo, Rillaboom, Zamazenta, Iron Valiant, Dragapult
+---
+Donne-moi une équipe : format Autre
+Pincurchin, Iron Valiant, Iron Treads, Iron Moth, Corviknight, Zamazenta
+---
+Donne-moi une équipe : format OU
+Torkoal, Scream Tail, Dragapult, Walking Wake, Great Tusk, Rillaboom
+---
+Donne-moi une équipe : format UU
+Samurott-Hisui, Ninetales-Alola, Sandslash-Alola, Mamoswine, Ceruledge, Amoonguss
+---
+Donne-moi une équipe : format Autre
+Deerling, Zorua-Hisui, Lechonk, Litleo, Meowth, Shroodle
+---
+Donne-moi une équipe : format OU
+Charizard-Mega-Y, Venusaur, Heatran, Garchomp, Tapu-Bulu, Torkoal
+---
+Donne-moi une équipe : format OU
+Garchomp, Raging Bolt, Kyurem, Blaziken, Iron Moth, Excadrill
+---
+Donne-moi une équipe : format Autre
+Politoed, Floatzel, Toxicroak, Kilowattrel, Forretress, Mimikyu
+---
+Donne-moi une équipe : format Autre
+Araquanid, Cinderace, Gholdengo, Raging Bolt, Greninja, Great Tusk
+---
+Donne-moi une équipe : format OU
+Darkrai, Iron Boulder, Quaquaval, Roaring Moon, Landorus-Therian, Ceruledge
+---
+Donne-moi une équipe : format Autre
+Miraidon, Zacian-Crowned, Deoxys-Attack, Necrozma-Dusk-Mane, Arceus, Koraidon
+---
+Donne-moi une équipe : format OU
+Cinderace, Landorus-Therian, Dragapult, Iron Valiant, Volcanion, Enamorus
+---
+Donne-moi une équipe : format Autre
+Pelipper, Ting-Lu, Barraskewda, Kingdra, Latias, Hatterene
+---
+Donne-moi une équipe : format Autre
+Ogerpon-Hearthflame, Espeon, Iron Valiant, Archaludon, Terapagos-Terastal, Meloetta
+---
+Donne-moi une équipe : format Autre
+Porygon2, Camerupt-Mega, Conkeldurr, Stakataka, Reuniclus, Komala
+---
+Donne-moi une équipe : format Autre
+Clefable, Jirachi, Medicham-Mega, Manaphy, Serperior, Ribombee
+---
+Donne-moi une équipe : format UU
+Tyranitar, Excadrill, Hippowdon, Amoonguss, Corviknight, Roaring Moon
+---
+Donne-moi une équipe : format Autre
+Emboar, Meowstic, Sunflora, Sawsbuck-Autumn, Charizard, Cramorant
+---
+Donne-moi une équipe : format Autre
+Corviknight, Blissey, Kingambit, Greninja, Clodsire, Zapdos-Galar
+---
+Donne-moi une équipe : format Autre
+Hydrapple, Clodsire, Deoxys-Defense, Clefable, Skeledirge, Archaludon
+---
+Donne-moi une équipe : format Autre
+Raging Bolt, Gliscor, Gholdengo, Iron Valiant, Corviknight, Roaring Moon
+---
+Donne-moi une équipe : format OU
+Jirachi, Roserade, Raikou, Gyarados, Heatran, Starmie
+---
+Donne-moi une équipe : format Autre
+Riolu, Charmander, Bulbasaur, Snivy, Finneon, Bronzor
+---
+Donne-moi une équipe : format UU
+Volcarona, Meowscarada, Gliscor, Clefable, Rotom-Wash, Dragonite
+---
+Donne-moi une équipe : format Autre
+Groudon, Ho-Oh, Kingambit, Necrozma-Dusk-Mane, Eternatus, Terapagos-Stellar
+---
+Donne-moi une équipe : format OU
+Cinccino, Abomasnow, Cobalion, Brute Bonnet, Dragapult, Bellossom
+---
+Donne-moi une équipe : format Autre
+Arcanine-Hisui, Gliscor, Great Tusk, Darkrai, Slowking-Galar, Rillaboom
+---
+Donne-moi une équipe : format OU
+Rotom-Wash, Bellibolt, Iron Hands, Raging Bolt, Sandy Shocks, Zapdos
+---
+Donne-moi une équipe : format Autre
+Arcanine, Scyther, Tauros-Paldea-Aqua, Vileplume, Espeon, Snorlax
+---
+Donne-moi une équipe : format Autre
+Serperior, Cinderace, Clefable, Araquanid, Floette-Blue
+---
+Donne-moi une équipe : format Autre
+Pecharunt, Iron Valiant, Roaring Moon, Samurott-Hisui, Iron Treads, Raging Bolt
+---
+Donne-moi une équipe : format Autre
+Raging Bolt, Deoxys-Speed, Great Tusk, Pecharunt, Walking Wake, Glimmora
+---
+Donne-moi une équipe : format OU
+Excadrill, Tyranitar, Deoxys-Speed, Landorus-Therian, Samurott-Hisui, Gholdengo
+---
+Donne-moi une équipe : format Autre
+Ceruledge, Deoxys-Speed, Kingambit, Gliscor, Torkoal, Walking Wake
+---
+Donne-moi une équipe : format Autre
+Pecharunt, Enamorus, Ogerpon-Wellspring, Breloom, Entei, Iron Treads
+---
+Donne-moi une équipe : format Autre
+Charizard, Vileplume, Samurott, Morpeko, Sandaconda, Cryogonal
+---
+Donne-moi une équipe : format OU
+Raging Bolt, Baxcalibur, Latias, Gouging Fire, Archaludon, Dragapult
+---
+Donne-moi une équipe : format Autre
+Meloetta, Vileplume, Sandslash-Alola, Flygon, Chandelure, Florges
+---
+Donne-moi une équipe : format Autre
+Basculegion-F, Revavroom, Yanmega, Crawdaunt, Forretress, Lilligant-Hisui
+---
+Donne-moi une équipe : format OU
+Rotom-Wash, Bellibolt, Iron Hands, Golem-Alola, Sandy Shocks, Zapdos
+---
+Donne-moi une équipe : format OU
+Ogerpon-Hearthflame, Cinderace, Gouging Fire, Heatran, Ceruledge, Ninetales
+---
+Donne-moi une équipe : format OU
+Lokix, Garchomp, Weezing-Galar, Suicune, Jirachi, Mandibuzz
+---
+Donne-moi une équipe : format Autre
+Great Tusk, Slowking-Galar, Roaring Moon, Enamorus, Skarmory, Gholdengo
+---
+Donne-moi une équipe : format Autre
+Raging Bolt, Iron Treads, Barraskewda, Pelipper, Greninja-Bond, Archaludon
+---
+Donne-moi une équipe : format OU
+Archaludon, Gholdengo, Skarmory, Kingambit, Heatran, Iron Treads
+---
+Donne-moi une équipe : format UU
+Azelf, Gengar, Bisharp, Terrakion, Feraligatr, Salamence
+---
+Donne-moi une équipe : format OU
+Latios, Kingambit, Alomomola, Heatran, Clodsire, Tyranitar
+---
+Donne-moi une équipe : format OU
+Pecharunt, Darkrai, Hoopa-Unbound, Corviknight, Raging Bolt, Heatran
+---
+Donne-moi une équipe : format UU
+Salamence, Hippowdon, Slowking, Cyclizar, Cetitan, Bisharp
+---
+Donne-moi une équipe : format UU
+Crawdaunt, Azelf, Entei, Forretress, Mamoswine, Typhlosion-Hisui
+---
+Donne-moi une équipe : format Autre
+Zapdos-Galar, Thundurus-Therian, Chesnaught, Blissey, Cyclizar, Slowbro
+---
+Donne-moi une équipe : format OU
+Ceruledge, Scrafty, Glimmora, Dragapult, Kingambit, Meowscarada
+---
+Donne-moi une équipe : format Autre
+Iron Jugulis, Revavroom, Mimikyu, Froslass, Thundurus-Therian, Volcanion
+---
+Donne-moi une équipe : format Autre
+Darkrai, Darkrai, Darkrai, Darkrai, Darkrai, Darkrai
+---
+Donne-moi une équipe : format OU
+Rillaboom, Archaludon, Hatterene, Hawlucha, Garchomp, Volcarona
+---
+Donne-moi une équipe : format OU
+Keldeo, Garchomp, Scizor, Tornadus-Therian, Greninja, Weezing-Galar
+---
+Donne-moi une équipe : format OU
+Blastoise, Raichu, Garchomp, Whimsicott, Honchkrow, Volcarona
+---
+Donne-moi une équipe : format Autre
+Raging Bolt, Rillaboom, Archaludon, Ting-Lu, Volcarona, Corviknight
+---
+Donne-moi une équipe : format Autre
+Dondozo, Swampert, Alomomola, Tentacruel, Samurott-Hisui, Greninja
+---
+Donne-moi une équipe : format Autre
+Deoxys-Attack, Necrozma-Dusk-Mane, Calyrex-Ice, Arceus, Koraidon, Miraidon
+---
+Donne-moi une équipe : format Autre
+Torkoal, Walking Wake, Gouging Fire, Kingambit, Raging Bolt, Gliscor
+---
+Donne-moi une équipe : format OU
+Glimmora, Dragapult, Kingambit, Volcarona, Primarina, Zamazenta
+---
+Donne-moi une équipe : format OU
+Primarina, Landorus-Therian, Samurott-Hisui, Volcarona, Kingambit, Dragapult
+---
+Donne-moi une équipe : format Autre
+Glimmora, Darkrai, Iron Valiant, Enamorus, Gouging Fire, Rillaboom
+---
+Donne-moi une équipe : format OU
+Heracross, Landorus-Therian, Tapu-Fini, Tapu-Koko, Jirachi, Tornadus-Therian
+---
+Donne-moi une équipe : format Autre
+Gouging Fire, Great Tusk, Gholdengo, Rillaboom, Slowking-Galar, Kingambit
+---
+Donne-moi une équipe : format OU
+Iron Treads, Gyarados, Volcarona, Kyurem, Iron Valiant, Dragapult
+---
+Donne-moi une équipe : format Autre
+Bisharp, Hippowdon, Amoonguss, Cyclizar, Hoopa-Unbound, Infernape
+---
+Donne-moi une équipe : format OU
+Dondozo, Iron Valiant, Clodsire, Great Tusk, Heatran, Weavile
+---
+Donne-moi une équipe : format OU
+Ceruledge, Dragapult, Dragonite, Iron Treads, Iron Valiant, Scrafty
+---
+Donne-moi une équipe : format Autre
+Reuniclus, Goodra-Hisui, Serperior, Meowscarada, Kommo-o, Minior-Violet
+---
+Donne-moi une équipe : format Autre
+Greninja, Toxicroak, Politoed, Bellibolt, Poliwrath, Venusaur
+---
+Donne-moi une équipe : format Autre
+Meowscarada, Rillaboom, Ogerpon-Cornerstone, Breloom, Sinistcha-Masterpiece, Brambleghast
+---
+Donne-moi une équipe : format UU
+Gliscor, Clefable, Slowking-Galar, Clodsire, Dondozo, Weavile
+---
+Donne-moi une équipe : format Autre
+Regidrago, Dragonite, Skeledirge, Primarina, Kingambit, Great Tusk
+---
+Donne-moi une équipe : format OU
+Gholdengo, Landorus-Therian, Ogerpon-Wellspring, Iron Valiant, Kingambit, Raging Bolt
+---
+Donne-moi une équipe : format Autre
+Garganacl, Dondozo, Rhyperior, Kingambit, Hoopa-Unbound, Chien-Pao
+---
+Donne-moi une équipe : format Autre
+Pecharunt, Diancie, Rillaboom, Amoonguss, Sinistcha, Incineroar
+---
+Donne-moi une équipe : format Autre
+Great Tusk, Volcarona, Dragonite, Dondozo, Iron Valiant, Slowking-Galar
+---
+Donne-moi une équipe : format Autre
+Deoxys-Attack, Kyurem-Black, Miraidon, Zacian-Crowned, Arceus, Glimmora
+---
+Donne-moi une équipe : format Autre
+Chi-Yu, Enamorus, Torkoal, Oricorio-Pom-Pom, Iron Moth, Lilligant-Hisui
+---
+Donne-moi une équipe : format NU
+Quaxly, Dratini, Mudbray, Mienfoo, Growlithe-Hisui, Magnemite
+---
+Donne-moi une équipe : format Autre
+Pelipper, Barraskewda, Iron Treads, Kingdra, Kingambit, Raging Bolt
+---
+Donne-moi une équipe : format UU
+Jirachi, Slowbro, Cyclizar, Gengar, Amoonguss, Salamence
+---
+Donne-moi une équipe : format UU
+Excadrill, Volcarona, Kommo-o, Hawlucha, Gyarados-Mega, Tapu-Lele
+---
+Donne-moi une équipe : format Autre
+Ting-Lu, Raging Bolt, Rillaboom, Hatterene, Drifblim, Zamazenta
+---
+Donne-moi une équipe : format Autre
+Raging Bolt, Primarina, Iron Hands, Clefable, Iron Treads, Enamorus
+---
+Donne-moi une équipe : format OU
+Pecharunt, Blissey, Dragapult, Landorus-Therian, Kingambit, Rillaboom
+---
+Donne-moi une équipe : format Autre
+Arceus, Zygarde-Complete, Slowbro-Mega, Deoxys-Speed, Deoxys-Attack, Groudon-Primal
+---
+Donne-moi une équipe : format Autre
+Indeedee-F, Farigiraf, Tornadus, Iron Hands, Chi-Yu, Iron Crown
+---
+Donne-moi une équipe : format Autre
+Tepig, Tepig, Tepig, Tepig, Tepig, Tepig
+---
+Donne-moi une équipe : format OU
+Iron Valiant, Samurott-Hisui, Excadrill, Dragapult, Kyurem, Ogerpon-Wellspring
+---
+Donne-moi une équipe : format OU
+Deoxys-Speed, Primarina, Volcarona, Landorus-Therian, Slowking-Galar, Dragapult
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Hatterene, Heatran, Ogerpon-Wellspring, Glimmora, Gouging Fire
+---
+Donne-moi une équipe : format Autre
+Great Tusk, Koraidon, Eternatus, Ting-Lu, Arceus-Fairy, Necrozma-Dusk-Mane
+---
+Donne-moi une équipe : format OU
+Ogerpon-Wellspring, Dragapult, Landorus-Therian, Primarina, Cinderace, Gholdengo
+---
+Donne-moi une équipe : format Autre
+Revavroom, Iron Leaves, Kleavor, Blastoise, Gardevoir, Bisharp
+---
+Donne-moi une équipe : format OU
+Ting-Lu, Iron Treads, Landorus, Garchomp, Clodsire, Toedscruel
+---
+Donne-moi une équipe : format OU
+Electivire, Alomomola, Ting-Lu, Dragapult, Slowking-Galar, Corviknight
+---
+Donne-moi une équipe : format Autre
+Slowking-Galar, Kyurem, Great Tusk, Tornadus-Therian, Dondozo, Cinderace
+---
+Donne-moi une équipe : format Autre
+Kleavor, Iron Leaves, Mimikyu, Revavroom, Volcanion, Enamorus-Therian
+---
+Donne-moi une équipe : format Autre
+Zacian-Crowned, Kyurem-Black, Arceus, Miraidon, Koraidon, Glimmora
+---
+Donne-moi une équipe : format Autre
+Kingambit, Koraidon, Arceus-Ground, Ho-Oh, Necrozma-Dusk-Mane, Miraidon
+---
+Donne-moi une équipe : format Autre
+Deoxys-Speed, Calyrex-Ice, Necrozma-Dusk-Mane, Arceus-Ground, Miraidon, Grimmsnarl
+---
+Donne-moi une équipe : format Autre
+Koraidon, Alomomola, Miraidon, Zacian-Crowned, Ting-Lu, Arceus
+---
+Donne-moi une équipe : format Autre
+Zacian-Crowned, Flutter Mane, Koraidon, Arceus-Fairy, Glimmora, Urshifu
+---
+Donne-moi une équipe : format UU
+Slither Wing, Armarouge, Salamence, Cyclizar, Hippowdon, Jirachi
+---
+Donne-moi une équipe : format Autre
+Weezing-Galar, Great Tusk, Clodsire, Kingambit, Iron Valiant, Darkrai
+---
+Donne-moi une équipe : format Autre
+Dachsbun, Miraidon, Zacian-Crowned, Ting-Lu, Giratina-Origin, Arceus
+---
+Donne-moi une équipe : format UU
+Tinkaton, Ogerpon-Cornerstone, Kommo-o, Mamoswine, Rotom-Wash, Skeledirge
+---
+Donne-moi une équipe : format UU
+Galvantula, Gardevoir, Cobalion, Basculegion-F, Bisharp, Thundurus
+---
+Donne-moi une équipe : format Autre
+Skarmory, Miraidon, Zacian-Crowned, Kyurem-Black, Rayquaza, Arceus-Ground
+---
+Donne-moi une équipe : format Autre
+Glimmora, Necrozma-Dusk-Mane, Calyrex-Ice, Miraidon, Iron Bundle, Arceus
+---
+Donne-moi une équipe : format Autre
+Arceus-Psychic, Gliscor, Giratina-Origin, Necrozma-Dusk-Mane, Koraidon, Clodsire
+---
+Donne-moi une équipe : format UU
+Forretress, Salamence, Kleavor, Crawdaunt, Mimikyu, Bisharp
+---
+Donne-moi une équipe : format Autre
+Rhyperior, Mienshao, Vaporeon, Altaria, Registeel, Reuniclus
+---
+Donne-moi une équipe : format Autre
+Gliscor, Arceus-Water, Miraidon, Zacian-Crowned, Necrozma-Dusk-Mane, Calyrex-Ice
+---
+Donne-moi une équipe : format Autre
+Calyrex-Ice, Incineroar, Urshifu-Rapid-Strike, Raging Bolt, Indeedee-F, Amoonguss
+---
+Donne-moi une équipe : format Autre
+Great Tusk, Primarina, Ogerpon-Wellspring, Roaring Moon, Iron Valiant, Kingambit
+---
+Donne-moi une équipe : format UU
+Moltres, Primarina, Gholdengo, Gliscor, Weavile, Slowking-Galar
+---
+Donne-moi une équipe : format OU
+Kingambit, Deoxys-Speed, Zamazenta, Dragapult, Primarina, Cinderace
+---
+Donne-moi une équipe : format Autre
+Ribombee, Cinderace, Malamar, Serperior, Kingambit, Gholdengo
+---
+Donne-moi une équipe : format Autre
+Kyurem, Slowking-Galar, Moltres, Great Tusk, Kingambit, Zamazenta
+---
+Donne-moi une équipe : format OU
+Mawile, Zeraora, Azelf, Kartana, Volcarona, Kommo-o
+---
+Donne-moi une équipe : format Autre
+Galvantula, Gallade, Terrakion, Basculegion-F, Bisharp, Volcanion
+---
+Donne-moi une équipe : format Autre
+Clawitzer, Ribombee, Slowking-Galar, Dragonite, Gholdengo, Hatterene
+---
+Donne-moi une équipe : format Autre
+Cinccino, Flygon, Toxicroak, Chandelure, Diancie, Uxie
+---
+Donne-moi une équipe : format OU
+Slowking-Galar, Landorus-Therian, Corviknight, Cinderace, Primarina, Iron Valiant
+---
+Donne-moi une équipe : format OU
+Gholdengo, Gliscor, Dragonite, Clodsire, Darkrai, Heatran
+---
+Donne-moi une équipe : format Autre
+Lokix, Keldeo-Resolute, Pecharunt, Arcanine-Hisui, Metagross, Skeledirge
+---
+Donne-moi une équipe : format Autre
+Kingambit, Gliscor, Primarina, Darkrai, Cinderace, Gholdengo
+---
+Donne-moi une équipe : format Autre
+Smeargle, Porygon-Z, Greninja-Bond, Arcanine, Gliscor, Trevenant
+---
+Donne-moi une équipe : format OU
+Dragapult, Kyurem, Gouging Fire, Archaludon, Kommo-o, Garchomp
+---
+Donne-moi une équipe : format Autre
+Empoleon, Amoonguss, Weezing-Galar, Kleavor, Gengar, Crawdaunt
+---
+Donne-moi une équipe : format Autre
+Barraskewda, Okidogi, Slowbro, Cyclizar, Jirachi, Hippowdon
+---
+Donne-moi une équipe : format Autre
+Raikou, Brambleghast, Swampert, Staraptor, Lucario, Sylveon
+---
+Donne-moi une équipe : format Autre
+Reuniclus, Clefable, Zamazenta, Ting-Lu, Dragonite, Gholdengo
+---
+Donne-moi une équipe : format Autre
+Calyrex-Shadow, Incineroar, Clefairy, Tornadus, Urshifu-Rapid-Strike, Rillaboom
+---
+Donne-moi une équipe : format UU
+Azelf, Pinsir-Mega, Talonflame, Staraptor, Excadrill, Magnezone
+---
+Donne-moi une équipe : format Autre
+Empoleon, Ursaluna-Bloodmoon, Deoxys, Houndstone, Whimsicott, Terrakion
+---
+Donne-moi une équipe : format Autre
+Noivern, Magnezone, Krookodile, Weezing-Galar, Reuniclus, Okidogi
+---
+Donne-moi une équipe : format OU
+Bastiodon, Dragapult, Jolteon, Tentacruel, Hitmontop, Moltres
+---
+Donne-moi une équipe : format Autre
+Goodra-Hisui, Hippowdon, Bisharp, Gardevoir, Okidogi, Cyclizar
+---
+Donne-moi une équipe : format Autre
+Goodra-Hisui, Zapdos-Galar, Slowbro, Krookodile, Cyclizar, Suicune
+---
+Donne-moi une équipe : format OU
+Toxapex, Chansey, Skarmory, Shedinja, Kartana, Gengar
+---
+Donne-moi une équipe : format Autre
+Mew, Zapdos-Galar, Palossand, Empoleon, Cyclizar, Porygon-Z
+---
+Donne-moi une équipe : format Autre
+Meowscarada, Rillaboom, Ogerpon-Cornerstone, Breloom, Sinistcha-Masterpiece, Brambleghast
+---
+Donne-moi une équipe : format Autre
+Arcanine-Hisui, Lilligant-Hisui, Ursaluna, Samurott-Hisui, Zoroark-Hisui, Gliscor
+---
+Donne-moi une équipe : format Autre
+Iron Treads, Koraidon, Arceus-Fairy, Ho-Oh, Miraidon, Necrozma-Dusk-Mane
+---
+Donne-moi une équipe : format Autre
+Toxtricity, Gardevoir, Flygon, Cyclizar, Slowbro, Registeel
+---
+Donne-moi une équipe : format Autre
+Pelipper, Archaludon, Incineroar, Amoonguss, Basculegion, Rillaboom
+---
+Donne-moi une équipe : format Autre
+Sneasler, Urshifu-Rapid-Strike, Great Tusk, Iron Valiant, Zamazenta, Iron Hands
+---
+Donne-moi une équipe : format OU
+Excadrill, Pinsir-Mega, Garchomp, Hawlucha, Tapu-Koko, Serperior
+---
+Donne-moi une équipe : format OU
+Diancie-Mega, Blacephalon, Magearna, Serperior, Tornadus-Therian, Seismitoad
+---
+Donne-moi une équipe : format Autre
+Iron Treads, Arceus-Fairy, Alomomola, Calyrex-Ice, Kyogre, Deoxys-Attack
+---
+Donne-moi une équipe : format Autre
+Quaquaval, Roaring Moon, Ninetales-Alola, Iron Crown, Iron Moth, Kingambit
+---
+Donne-moi une équipe : format Autre
+Darkrai, Great Tusk, Slowking-Galar, Dragonite, Iron Valiant, Corviknight
+---
+Donne-moi une équipe : format OU
+Lopunny-Mega, Greninja-Ash, Ferrothorn, Rotom-Wash, Landorus-Therian, Blacephalon
+---
+Donne-moi une équipe : format UU
+Salamence, Maushold, Gardevoir, Mimikyu, Yanmega, Froslass
+---
+Donne-moi une équipe : format UU
+Darkrai, Hoopa-Unbound, Weavile, Hydreigon, Samurott-Hisui, Meowscarada
+---
+Donne-moi une équipe : format Autre
+Azelf, Tyranitar, Latias, Infernape, Gyarados, Scizor
+---
+Donne-moi une équipe : format Autre
+Pelipper, Swampert-Mega, Ferrothorn, Greninja-Ash, Azumarill, Magearna
+---
+Donne-moi une équipe : format Autre
+Toxtricity, Cyclizar, Zapdos-Galar, Bisharp, Hippowdon, Empoleon
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Charizard-Mega-X, Serperior, Magearna, Greninja-Ash, Tapu-Koko
+---
+Donne-moi une équipe : format Autre
+Ninetales-Alola, Ogerpon-Wellspring, Iron Crown, Greninja-Bond, Great Tusk, Gholdengo
+---
+Donne-moi une équipe : format Autre
+Deoxys-Speed, Enamorus, Gholdengo, Great Tusk, Ogerpon-Wellspring, Kingambit
+---
+Donne-moi une équipe : format OU
+Charizard-Mega-X, Kartana, Greninja, Landorus-Therian, Magearna, Tapu-Lele
+---
+Donne-moi une équipe : format OU
+Landorus-Therian, Mawile-Mega, Greninja-Ash, Kartana, Magearna, Rotom-Wash
+---
+Donne-moi une équipe : format Autre
+Porygon-Z, Sylveon, Bronzong, Mienshao, Muk-Alola, Gastrodon
+---
+Donne-moi une équipe : format OU
+Cinderace, Dragapult, Iron Treads, Ninetales-Alola, Rillaboom, Zamazenta
+---
+Donne-moi une équipe : format Autre
+Tyranitar, Steelix-Mega, Stakataka, Cresselia, Reuniclus, Komala
+---
+Donne-moi une équipe : format Autre
+Cyclizar, Koraidon, Arceus, Zacian-Crowned, Necrozma-Dusk-Mane, Rayquaza
+---
+Donne-moi une équipe : format UU
+Politoed, Barraskewda, Kingdra, Excadrill, Scizor, Tornadus-Therian
+---
+Donne-moi une équipe : format Autre
+Kingdra, Pelipper, Rillaboom, Hawlucha, Torkoal, Venusaur
+---
+Donne-moi une équipe : format Autre
+Ribombee, Rayquaza, Zacian-Crowned, Kyogre, Arceus-Ghost, Eternatus
+---
+Donne-moi une équipe : format UU
+Okidogi, Hoopa-Unbound, Rotom-Wash, Tornadus-Therian, Krookodile, Scizor
+---
+Donne-moi une équipe : format Autre
+Goodra-Hisui, Zapdos-Galar, Slowbro, Krookodile, Cyclizar, Suicune
+---
+Donne-moi une équipe : format Autre
+Toxtricity, Gardevoir, Flygon, Cyclizar, Slowbro, Registeel
+---
+Donne-moi une équipe : format Autre
+Regidrago, Kleavor, Revavroom, Bisharp, Maushold, Yanmega
+---
+Donne-moi une équipe : format OU
+Ribombee, Cinderace, Serperior, Mimikyu, Dragapult, Bisharp
+---
+Donne-moi une équipe : format OU
+Gholdengo, Iron Treads, Heatran, Skarmory, Archaludon, Goodra-Hisui
+---
+Donne-moi une équipe : format Autre
+Pelipper, Barraskewda, Drednaw, Lanturn, Kingdra, Tentacruel
+---
+Donne-moi une équipe : format Autre
+Infernape, Slither Wing, Jirachi, Gastrodon, Weezing-Galar, Rotom-Heat
+---
+Donne-moi une équipe : format Autre
+Uxie, Kingdra, Ludicolo, Kabutops, Bronzong, Latias
+---
+Donne-moi une équipe : format Autre
+Ninetales, Walking Wake, Slither Wing, Raging Bolt, Great Tusk, Rillaboom
+---
+Donne-moi une équipe : format Autre
+Torkoal, Raikou, Venusaur, Slither Wing, Krookodile, Minior-Indigo
+---
+Donne-moi une équipe : format Autre
+Mienshao, Milotic, Raikou, Muk-Alola, Articuno-Galar, Avalugg
+---
+Donne-moi une équipe : format Autre
+Ninetales-Alola, Kyurem, Kingambit, Iron Crown, Glimmora, Iron Valiant
+---
+Donne-moi une équipe : format Autre
+Suicune, Flygon, Breloom, Skarmory, Moltres, Magneton
+---
+Donne-moi une équipe : format Autre
+Ribombee, Koraidon, Mewtwo, Arceus-Ground, Zacian-Crowned, Eternatus
+---
+Donne-moi une équipe : format OU
+Scizor-Mega, Weavile, Tapu-Bulu, Gliscor, Heatran, Keldeo
+---
+Donne-moi une équipe : format Autre
+Arceus-Fairy, Garganacl, Dondozo, Alomomola, Ho-Oh, Eternatus
+---
+Donne-moi une équipe : format Autre
+Passimian, Shaymin, Dragalge, Donphan, Registeel, Slowbro
+---
+Donne-moi une équipe : format Autre
+Zamazenta, Slowking-Galar, Samurott-Hisui, Ting-Lu, Kyurem, Moltres
+---
+Donne-moi une équipe : format OU
+Blacephalon, Landorus-Therian, Ferrothorn, Melmetal, Weavile, Tapu-Fini
+---
+Donne-moi une équipe : format Autre
+Glimmora, Sneasler, Pecharunt, Overqwil, Tentacruel, Weezing-Galar
+---
+Donne-moi une équipe : format OU
+Heatran, Suicune, Gengar, Metagross, Flygon, Gliscor
+---
+Donne-moi une équipe : format Autre
+Great Tusk, Gholdengo, Meowscarada, Primarina, Moltres, Raging Bolt
+---
+Donne-moi une équipe : format Autre
+Forretress, Regidrago, Crawdaunt, Bisharp, Zapdos-Galar, Chandelure
+---
+Donne-moi une équipe : format OU
+Klefki, Iron Crown, Scizor, Heatran, Gholdengo, Archaludon
+---
+Donne-moi une équipe : format Autre
+Infernape, Slither Wing, Jirachi, Gastrodon, Weezing-Galar, Rotom-Heat
+---
+Donne-moi une équipe : format Autre
+Kleavor, Goodra-Hisui, Zapdos-Galar, Fezandipiti, Zoroark-Hisui, Gastrodon
+---
+Donne-moi une équipe : format Autre
+Deoxys-Attack, Kyogre, Kabutops, Arceus, Palkia, Genesect
+---
+Donne-moi une équipe : format UU
+Bisharp, Terrakion, Armarouge, Mimikyu, Salamence, Rhyperior
+---
+Donne-moi une équipe : format Autre
+Uxie, Meloetta, Cinccino, Scyther, Flygon, Tauros-Paldea-Aqua
+---
+Donne-moi une équipe : format OU
+Iron Boulder, Slowking-Galar, Ogerpon, Kingambit, Landorus-Therian, Dragapult
+---
+Donne-moi une équipe : format Autre
+Cyclizar, Lokix, Rotom-Heat, Hoopa-Unbound, Gholdengo, Kingambit
+---
+Donne-moi une équipe : format Autre
+Ribombee, Kingambit, Iron Moth, Great Tusk, Gholdengo, Kyurem
+---
+Donne-moi une équipe : format UU
+Kommo-o, Ting-Lu, Slowking-Galar, Meowscarada, Rotom-Wash, Great Tusk
+---
+Donne-moi une équipe : format Autre
+Koraidon, Zacian-Crowned, Necrozma-Dusk-Mane, Kyogre, Eternatus, Arceus-Psychic
+---
+Donne-moi une équipe : format Autre
+Great Tusk, Iron Crown, Cinderace, Ceruledge, Roaring Moon, Raging Bolt
+---
+Donne-moi une équipe : format Autre
+Iron Boulder, Ribombee, Palafin-Hero, Kingambit, Dragonite, Iron Valiant
+---
+Donne-moi une équipe : format OU
+Diancie-Mega, Tapu-Bulu, Greninja, Tornadus-Therian, Landorus-Therian, Jirachi
+---
+Donne-moi une équipe : format OU
+Terrakion, Starmie, Salamence, Jellicent, Heatran, Landorus-Therian
+---
+Donne-moi une équipe : format Autre
+Ho-Oh, Lugia, Necrozma-Dusk-Mane, Clodsire, Deoxys-Attack, Corviknight
+---
+Donne-moi une équipe : format Autre
+Koraidon, Kyurem-White, Glimmora, Flutter Mane, Arceus, Zacian-Crowned
+---
+Donne-moi une équipe : format Autre
+Samurott-Hisui, Iron Valiant, Darkrai, Great Tusk, Dragonite, Gholdengo
