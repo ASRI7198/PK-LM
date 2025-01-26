@@ -18,7 +18,7 @@ L'optimisation dans les batailles Pokémon compétitives est souvent complexe et
 ## Objectifs
 
 ### Objectif 1 : Génération d'équipes stratégiques optimisées
-- Utiliser LLaMA 2, ajusté avec des données spécifiques aux batailles Pokémon.
+- Utiliser GPT-2, ajusté avec des données spécifiques aux batailles Pokémon.
 - Prendre en compte les tendances du métagame, les synergies entre Pokémon, et les règles compétitives.
 - Simuler des combats pour évaluer la compétitivité des équipes générées.
 
@@ -54,7 +54,7 @@ L'optimisation dans les batailles Pokémon compétitives est souvent complexe et
 - **Tâche 5.1** : Rédaction du rapport final.
 
 ## Technologies Utilisées
-- **Langage Modèle** : LLaMA 2
+- **Langage Modèle** : GPT-2
 - **Frameworks** : Fine-tuning sur des modèles pré-entraînés
 - **Outils d’exportation** : Format compatible avec Pokémon Showdown
 
