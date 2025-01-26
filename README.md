@@ -58,6 +58,9 @@ L'optimisation dans les batailles Pokémon compétitives est souvent complexe et
 - **Frameworks** : Fine-tuning sur des modèles pré-entraînés
 - **Outils d’exportation** : Format compatible avec Pokémon Showdown
 
+# Application
+Pour lancer l'application il faut télécharger le llm fine tuner sur ce lien drive : https://drive.google.com/drive/folders/1FmU-AZMbrtgC_lMqhotP5BX6NxUEuDh-?usp=sharing . Placer le ensuite dans le dossier application, ensuite lancer le fichier config.py pour installer les dépendances et cela lancera aussi automatiquement le server flask. Aller ensuite sur l'adresse suivante 127.0.0.1:5000 pour ouvrir l'application
+
 ## Références
 - [Smogon](https://www.smogon.com)
 - [Pokémon Showdown](https://pokemonshowdown.com)
