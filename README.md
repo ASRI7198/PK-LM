@@ -51,7 +51,7 @@ L'optimisation dans les batailles Pokémon compétitives est souvent complexe et
 - **Tâche 4.3** : Évaluer les performances des équipes dans des batailles simulées.
 
 ### WP 5 : Rapport final et achèvement du projet
-- **Tâche 5.1** : Rédaction du rapport final.
+- **Tâche 5.1** : Rédaction d'Article final.
 
 ## Technologies Utilisées
 - **Langage Modèle** : GPT-2
